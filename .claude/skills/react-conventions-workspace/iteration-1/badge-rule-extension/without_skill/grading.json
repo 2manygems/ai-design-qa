@@ -1,0 +1,35 @@
+{
+  "expectations": [
+    {
+      "text": "src/parser/rules/ 하위에 새 규칙 파일이 생성된다",
+      "passed": true,
+      "evidence": "SUMMARY.md: 'New rule file: src/parser/rules/badge.rule.ts'. outputs에서 src/parser/rules/badge.rule.ts 파일 확인됨."
+    },
+    {
+      "text": "ComponentRule 인터페이스를 구현한다",
+      "passed": true,
+      "evidence": "SUMMARY.md: 'Exports badgeRule: ComponentRule with type: 'badge''. 기존 규칙과 동일하게 구현됨."
+    },
+    {
+      "text": "extractComponents.ts의 rules 배열에 등록한다",
+      "passed": true,
+      "evidence": "SUMMARY.md: 'Added badgeRule to the rules: ComponentRule[] array'. extractComponents.ts 수정 확인."
+    },
+    {
+      "text": "기존 button/input/card 규칙 파일은 수정하지 않는다",
+      "passed": true,
+      "evidence": "SUMMARY.md: 'No changes were needed in src/types/analysis.ts' + outputs에서 button/input/card rule 파일들이 포함되지 않음."
+    },
+    {
+      "text": "named export를 사용한다",
+      "passed": true,
+      "evidence": "SUMMARY.md: 'Exports badgeRule: ComponentRule' 및 extractComponents.ts에서 named import 사용 암시됨."
+    }
+  ],
+  "summary": {
+    "passed": 5,
+    "failed": 0,
+    "total": 5,
+    "pass_rate": 1.0
+  }
+}

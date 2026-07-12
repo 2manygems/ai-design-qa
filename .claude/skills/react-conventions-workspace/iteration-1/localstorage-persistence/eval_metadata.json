@@ -1,0 +1,12 @@
+{
+  "eval_id": 2,
+  "eval_name": "localstorage-persistence",
+  "prompt": "분석 결과를 로컬스토리지에 저장해서 새로고침해도 유지되도록 해줘",
+  "assertions": [
+    "새로운 React Context나 별도의 상태 저장소를 추가하지 않고 기존 services/store/analysisStore.ts (Zustand)를 확장했다",
+    "localStorage 연동 로직(getItem/setItem 또는 zustand persist 미들웨어)이 존재한다",
+    "analysisStore.ts의 기존 상태 필드/액션 구조와 자연스럽게 통합되어 있다 (완전히 다른 패턴으로 교체하지 않았다)",
+    "수정된 코드가 named export를 유지한다",
+    "parser/, guideline/, review/ 등 이 작업과 무관한 파일을 건드리지 않았다"
+  ]
+}

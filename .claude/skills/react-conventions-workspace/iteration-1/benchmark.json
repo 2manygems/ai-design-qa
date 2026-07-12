@@ -1,0 +1,247 @@
+{
+  "metadata": {
+    "skill_name": "react-conventions",
+    "skill_path": "C:\\Users\\82108\\Desktop\\Design QA\\.claude\\skills\\react-conventions",
+    "timestamp": "2026-07-11T22:35:00Z",
+    "evals_run": [0, 1, 2],
+    "runs_per_configuration": 1
+  },
+  "runs": [
+    {
+      "eval_id": 0,
+      "eval_name": "clipboard-copy-feature",
+      "configuration": "with_skill",
+      "run_number": 1,
+      "result": {
+        "pass_rate": 1.0,
+        "passed": 5,
+        "failed": 0,
+        "total": 5
+      },
+      "expectations": [
+        {
+          "text": "클립보드 복사 로직이 utils/ 또는 hooks/ 등 재사용 가능한 위치에 분리되어 있다",
+          "passed": true
+        },
+        {
+          "text": "named export를 사용한다",
+          "passed": true
+        },
+        {
+          "text": "새 CSS 파일이나 inline style 객체를 추가하지 않는다",
+          "passed": true
+        },
+        {
+          "text": "타입 전용 import는 import type을 사용한다",
+          "passed": true
+        },
+        {
+          "text": "무관한 파일을 건드리지 않는다",
+          "passed": true
+        }
+      ]
+    },
+    {
+      "eval_id": 0,
+      "eval_name": "clipboard-copy-feature",
+      "configuration": "without_skill",
+      "run_number": 1,
+      "result": {
+        "pass_rate": 1.0,
+        "passed": 5,
+        "failed": 0,
+        "total": 5
+      },
+      "expectations": [
+        {
+          "text": "클립보드 복사 로직이 utils/ 또는 hooks/ 등 재사용 가능한 위치에 분리되어 있다",
+          "passed": true
+        },
+        {
+          "text": "named export를 사용한다",
+          "passed": true
+        },
+        {
+          "text": "새 CSS 파일이나 inline style 객체를 추가하지 않는다",
+          "passed": true
+        },
+        {
+          "text": "타입 전용 import는 import type을 사용한다",
+          "passed": true
+        },
+        {
+          "text": "무관한 파일을 건드리지 않는다",
+          "passed": true
+        }
+      ]
+    },
+    {
+      "eval_id": 1,
+      "eval_name": "badge-rule-extension",
+      "configuration": "with_skill",
+      "run_number": 1,
+      "result": {
+        "pass_rate": 1.0,
+        "passed": 5,
+        "failed": 0,
+        "total": 5
+      },
+      "expectations": [
+        {
+          "text": "src/parser/rules/ 하위에 새 규칙 파일이 생성된다",
+          "passed": true
+        },
+        {
+          "text": "ComponentRule 인터페이스를 구현한다",
+          "passed": true
+        },
+        {
+          "text": "extractComponents.ts의 rules 배열에 등록한다",
+          "passed": true
+        },
+        {
+          "text": "기존 button/input/card 규칙 파일은 수정하지 않는다",
+          "passed": true
+        },
+        {
+          "text": "named export를 사용한다",
+          "passed": true
+        }
+      ]
+    },
+    {
+      "eval_id": 1,
+      "eval_name": "badge-rule-extension",
+      "configuration": "without_skill",
+      "run_number": 1,
+      "result": {
+        "pass_rate": 1.0,
+        "passed": 5,
+        "failed": 0,
+        "total": 5
+      },
+      "expectations": [
+        {
+          "text": "src/parser/rules/ 하위에 새 규칙 파일이 생성된다",
+          "passed": true
+        },
+        {
+          "text": "ComponentRule 인터페이스를 구현한다",
+          "passed": true
+        },
+        {
+          "text": "extractComponents.ts의 rules 배열에 등록한다",
+          "passed": true
+        },
+        {
+          "text": "기존 button/input/card 규칙 파일은 수정하지 않는다",
+          "passed": true
+        },
+        {
+          "text": "named export를 사용한다",
+          "passed": true
+        }
+      ]
+    },
+    {
+      "eval_id": 2,
+      "eval_name": "localstorage-persistence",
+      "configuration": "with_skill",
+      "run_number": 1,
+      "result": {
+        "pass_rate": 1.0,
+        "passed": 5,
+        "failed": 0,
+        "total": 5
+      },
+      "expectations": [
+        {
+          "text": "새 Context나 별도 저장소를 추가하지 않고 기존 analysisStore.ts를 확장한다",
+          "passed": true
+        },
+        {
+          "text": "localStorage 연동 로직이 존재한다",
+          "passed": true
+        },
+        {
+          "text": "기존 상태 필드/액션 구조와 통합된다",
+          "passed": true
+        },
+        {
+          "text": "named export를 유지한다",
+          "passed": true
+        },
+        {
+          "text": "무관한 파일을 건드리지 않는다",
+          "passed": true
+        }
+      ]
+    },
+    {
+      "eval_id": 2,
+      "eval_name": "localstorage-persistence",
+      "configuration": "without_skill",
+      "run_number": 1,
+      "result": {
+        "pass_rate": 1.0,
+        "passed": 5,
+        "failed": 0,
+        "total": 5
+      },
+      "expectations": [
+        {
+          "text": "새 Context나 별도 저장소를 추가하지 않고 기존 analysisStore.ts를 확장한다",
+          "passed": true
+        },
+        {
+          "text": "localStorage 연동 로직이 존재한다",
+          "passed": true
+        },
+        {
+          "text": "기존 상태 필드/액션 구조와 통합된다",
+          "passed": true
+        },
+        {
+          "text": "named export를 유지한다",
+          "passed": true
+        },
+        {
+          "text": "무관한 파일을 건드리지 않는다",
+          "passed": true
+        }
+      ]
+    }
+  ],
+  "run_summary": {
+    "with_skill": {
+      "pass_rate": {
+        "mean": 1.0,
+        "stddev": 0.0
+      },
+      "files_modified_or_created": {
+        "mean": 1.67,
+        "note": "clipboard: 2 files, badge: 2 files, localStorage: 1 file"
+      }
+    },
+    "without_skill": {
+      "pass_rate": {
+        "mean": 1.0,
+        "stddev": 0.0
+      },
+      "files_modified_or_created": {
+        "mean": 2.33,
+        "note": "clipboard: 3 files, badge: 2 files, localStorage: 1 file"
+      }
+    },
+    "delta": {
+      "pass_rate": "0% (tied)",
+      "files_delta": "-0.67 files on average with skill (27% fewer files)"
+    }
+  },
+  "notes": [
+    "clipboard-copy: WITH skill placed state locally in component (2 files), WITHOUT skill extracted hook (3 files). Both technically correct, but WITH skill followed 'local component state stays in useState' guidance more precisely.",
+    "badge-rule: WITH skill followed existing cardRule pattern exactly (classList.contains), WITHOUT skill interpreted requirement more liberally (substring match via some().includes). Both follow rules/ pattern correctly.",
+    "localstorage: Both arrived at identical Zustand persist solution independently. WITH skill provided more detailed reasoning about status normalization and placement guidance.",
+    "All tests passed assertions (100% pass_rate). Qualitative differences lie in: (1) file count (WITH skill: -27% fewer files on average), (2) adherence to established patterns (WITH skill more consistent), (3) documentation quality (WITH skill explained reasoning per skill guidance)."
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "expectations": [
+    {
+      "text": "새 Context나 별도 저장소를 추가하지 않고 기존 analysisStore.ts를 확장한다",
+      "passed": true,
+      "evidence": "SUMMARY.md: '새로운 메커니즘을 도입하지 않고 persist 미들웨어로 기존 스토어를 확장'. 기존 Zustand store만 수정, 새 Context/저장소 없음."
+    },
+    {
+      "text": "localStorage 연동 로직이 존재한다",
+      "passed": true,
+      "evidence": "SUMMARY.md: 'persist(...) 미들웨어로 localStorage 연동'. 'localStorage 키: ai-design-qa/analysis-store'."
+    },
+    {
+      "text": "기존 상태 필드/액션 구조와 통합된다",
+      "passed": true,
+      "evidence": "SUMMARY.md: 'No changes were needed in either App.tsx or DashboardPage.tsx -- they pick up persisted state automatically'. 기존 구조와 자연스럽게 통합됨."
+    },
+    {
+      "text": "named export를 유지한다",
+      "passed": true,
+      "evidence": "SUMMARY.md: 'Named export (useAnalysisStore) is preserved unchanged'. 기존 named export 유지."
+    },
+    {
+      "text": "무관한 파일을 건드리지 않는다",
+      "passed": true,
+      "evidence": "출력물에 analysisStore.ts만 포함. parser/, guideline/, review/, pages/, components/ 등 무관 파일 수정 없음."
+    }
+  ],
+  "summary": {
+    "passed": 5,
+    "failed": 0,
+    "total": 5,
+    "pass_rate": 1.0
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "eval_id": 0,
+  "eval_name": "clipboard-copy-feature",
+  "prompt": "Dashboard에서 각 Guideline Violation 항목을 클릭하면 원본 selector를 클립보드에 복사하는 기능 추가해줘",
+  "assertions": [
+    "클립보드 복사 로직이 컴포넌트 안에 인라인으로 있지 않고 utils/ 또는 hooks/ 등 재사용 가능한 위치에 별도 함수로 분리되어 있다",
+    "수정되거나 새로 만들어진 컴포넌트/함수가 named export를 사용한다",
+    "새로운 CSS 파일이나 inline style={{...}} 객체를 추가하지 않고 Tailwind 클래스만 사용한다",
+    "타입만 사용하는 import는 import type 구문을 사용한다",
+    "button.rule.ts, input.rule.ts, card.rule.ts, guideline/rules/* 등 이 작업과 무관한 파일을 건드리지 않았다"
+  ]
+}

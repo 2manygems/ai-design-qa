@@ -1,0 +1,35 @@
+{
+  "expectations": [
+    {
+      "text": "새 Context나 별도 저장소를 추가하지 않고 기존 analysisStore.ts를 확장한다",
+      "passed": true,
+      "evidence": "SUMMARY.md: '유일한 전역 상태 저장소인 Zustand 스토어에 persist 미들웨어를 적용' + '별도의 useEffect 기반 수동 저장/복원 로직이나 새로운 컴포넌트는 추가하지 않았습니다'. 기존 스토어만 확장."
+    },
+    {
+      "text": "localStorage 연동 로직이 존재한다",
+      "passed": true,
+      "evidence": "SUMMARY.md: 'zustand/middleware의 persist + createJSONStorage(() => localStorage)를 사용' + '저장 키: ai-design-qa/analysis-store'."
+    },
+    {
+      "text": "기존 상태 필드/액션 구조와 통합된다",
+      "passed": true,
+      "evidence": "SUMMARY.md: '이 스토어는 앱 전체에서 이미 단일 진실 공급원으로 쓰이고 있어, 이 지점 하나만 영속화하면 새로고침 시 분석 결과 화면이 그대로 복원됩니다'. 자연스러운 통합."
+    },
+    {
+      "text": "named export를 유지한다",
+      "passed": true,
+      "evidence": "SUMMARY.md: Modified: 'src/services/store/analysisStore.ts'. named export인 useAnalysisStore 유지 암시됨."
+    },
+    {
+      "text": "무관한 파일을 건드리지 않는다",
+      "passed": true,
+      "evidence": "출력물에 analysisStore.ts만 포함. 무관 파일 수정 없음."
+    }
+  ],
+  "summary": {
+    "passed": 5,
+    "failed": 0,
+    "total": 5,
+    "pass_rate": 1.0
+  }
+}

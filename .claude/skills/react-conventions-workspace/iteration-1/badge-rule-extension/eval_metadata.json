@@ -1,0 +1,12 @@
+{
+  "eval_id": 1,
+  "eval_name": "badge-rule-extension",
+  "prompt": "extractComponents.ts에 새로운 컴포넌트 타입 'badge'를 인식하는 규칙을 추가해줘 (class에 'badge'가 포함되면 badge로 분류)",
+  "assertions": [
+    "src/parser/rules/ 하위에 badge 규칙을 위한 새 파일(예: badge.rule.ts)이 생성되었다",
+    "새 규칙이 기존 ComponentRule 인터페이스(type + matches)를 구현한다",
+    "extractComponents.ts의 rules 배열에 새 규칙이 등록되었다",
+    "기존 button.rule.ts / input.rule.ts / card.rule.ts 파일은 수정되지 않았다 (조건문을 하나의 파일에 누적하지 않았다)",
+    "새 코드가 named export를 사용한다"
+  ]
+}

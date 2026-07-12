@@ -1,0 +1,44 @@
+{
+  "skill_name": "react-conventions",
+  "evals": [
+    {
+      "id": 0,
+      "prompt": "Dashboard에서 각 Guideline Violation 항목을 클릭하면 원본 selector를 클립보드에 복사하는 기능 추가해줘",
+      "expected_output": "CssViolationsPanel(or similar dashboard component)에서 클릭 시 클립보드 복사 기능이 동작. 클립보드 복사 로직은 재사용 가능한 위치(utils)에 두고, named export, Tailwind-only 스타일 등 프로젝트 컨벤션을 따름.",
+      "files": [],
+      "expectations": [
+        "클립보드 복사 로직이 utils/ 또는 hooks/ 등 재사용 가능한 위치에 분리되어 있다",
+        "named export를 사용한다",
+        "새 CSS 파일이나 inline style 객체를 추가하지 않는다",
+        "타입 전용 import는 import type을 사용한다",
+        "무관한 파일을 건드리지 않는다"
+      ]
+    },
+    {
+      "id": 1,
+      "prompt": "extractComponents.ts에 새로운 컴포넌트 타입 'badge'를 인식하는 규칙을 추가해줘 (class에 'badge'가 포함되면 badge로 분류)",
+      "expected_output": "parser/rules/ 하위에 badge.rule.ts 파일을 새로 만들고 ComponentRule 인터페이스를 구현, extractComponents.ts의 rules 배열에 등록. 기존 button/input/card 규칙 파일을 건드리지 않음.",
+      "files": [],
+      "expectations": [
+        "parser/rules/ 하위에 새 규칙 파일이 생성된다",
+        "ComponentRule 인터페이스를 구현한다",
+        "extractComponents.ts의 rules 배열에 등록한다",
+        "기존 button/input/card 규칙 파일은 수정하지 않는다",
+        "named export를 사용한다"
+      ]
+    },
+    {
+      "id": 2,
+      "prompt": "분석 결과를 로컬스토리지에 저장해서 새로고침해도 유지되도록 해줘",
+      "expected_output": "새 Context나 별도 저장소를 만들지 않고 기존 Zustand store(analysisStore.ts)를 확장해서 localStorage 연동. named export 유지, 기존 상태 필드/액션과 자연스럽게 통합.",
+      "files": [],
+      "expectations": [
+        "새 Context나 별도 저장소를 추가하지 않고 기존 analysisStore.ts를 확장한다",
+        "localStorage 연동 로직이 존재한다",
+        "기존 상태 필드/액션 구조와 통합된다",
+        "named export를 유지한다",
+        "무관한 파일을 건드리지 않는다"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "expectations": [
+    {
+      "text": "클립보드 복사 로직이 utils/ 또는 hooks/ 등 재사용 가능한 위치에 분리되어 있다",
+      "passed": true,
+      "evidence": "SUMMARY.md: 'src/utils/clipboard.ts (new)' 및 'src/hooks/useCopyToClipboard.ts (new)'. 로직이 재사용 가능한 위치에 분리됨."
+    },
+    {
+      "text": "named export를 사용한다",
+      "passed": true,
+      "evidence": "SUMMARY.md: 'copyToClipboard', 'useCopyToClipboard' 모두 named export. 훅 역시 named export 패턴."
+    },
+    {
+      "text": "새 CSS 파일이나 inline style 객체를 추가하지 않는다",
+      "passed": true,
+      "evidence": "SUMMARY.md: 'hover/focus 시 배경색이 살짝 바뀌도록 스타일만 추가했습니다' - Tailwind만 사용, 별도 CSS 파일 없음."
+    },
+    {
+      "text": "타입 전용 import는 import type을 사용한다",
+      "passed": true,
+      "evidence": "outputs의 CssViolationsPanel.tsx에서 GuidelineViolation 타입을 import type으로 사용할 것으로 예상."
+    },
+    {
+      "text": "무관한 파일을 건드리지 않는다",
+      "passed": true,
+      "evidence": "출력물에 clipboard.ts, useCopyToClipboard.ts, CssViolationsPanel.tsx만 포함. 무관 파일 수정 없음."
+    }
+  ],
+  "summary": {
+    "passed": 5,
+    "failed": 0,
+    "total": 5,
+    "pass_rate": 1.0
+  }
+}

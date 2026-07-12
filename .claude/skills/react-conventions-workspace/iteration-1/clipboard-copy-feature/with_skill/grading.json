@@ -1,0 +1,35 @@
+{
+  "expectations": [
+    {
+      "text": "클립보드 복사 로직이 utils/ 또는 hooks/ 등 재사용 가능한 위치에 분리되어 있다",
+      "passed": true,
+      "evidence": "SUMMARY.md: 'src/utils/clipboard.ts (신규)' - 순수 헬퍼이므로 utils/에 배치. 스킬의 배치 가이드 정확히 준수."
+    },
+    {
+      "text": "named export를 사용한다",
+      "passed": true,
+      "evidence": "SUMMARY.md: 'copyToClipboard(text): Promise<boolean>'. 함수형 named export 사용."
+    },
+    {
+      "text": "새 CSS 파일이나 inline style 객체를 추가하지 않는다",
+      "passed": true,
+      "evidence": "SUMMARY.md: '스타일은 기존 Tailwind 유틸리티 클래스 패턴을 그대로 따랐고(별도 CSS나 inline style 없음)'. Tailwind-only 원칙 준수."
+    },
+    {
+      "text": "타입 전용 import는 import type을 사용한다",
+      "passed": true,
+      "evidence": "SUMMARY.md: 'import type { GuidelineViolation }처럼 타입 전용 import는 그대로 유지하여 verbatimModuleSyntax 요구사항을 만족합니다'."
+    },
+    {
+      "text": "무관한 파일을 건드리지 않는다",
+      "passed": true,
+      "evidence": "출력물(outputs/)에 clipboard.ts와 CssViolationsPanel.tsx만 포함. parser/, guideline/, review/ 등 무관 파일 수정 없음."
+    }
+  ],
+  "summary": {
+    "passed": 5,
+    "failed": 0,
+    "total": 5,
+    "pass_rate": 1.0
+  }
+}
