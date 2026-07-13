@@ -1,0 +1,168 @@
+{
+  "sourceArtboard": "Components_Status colors",
+  "components": [
+    {
+      "component": "Status",
+      "description": null,
+      "variants": [
+        {
+          "name": "Info_Play",
+          "states": [
+            {
+              "name": "(unspecified)",
+              "geometry": {
+                "width": 16,
+                "height": 16,
+                "minWidth": null,
+                "maxWidth": null
+              },
+              "spacing": null,
+              "border": null,
+              "background": null,
+              "typography": null,
+              "icon": [
+                {
+                  "name": "Status / Info_Pause",
+                  "width": 16,
+                  "height": 16,
+                  "derivedInset": {
+                    "left": 0,
+                    "top": 0
+                  }
+                }
+              ],
+              "content": null,
+              "behavior": null,
+              "responsive": null,
+              "stateOverlays": null,
+              "nestedComponents": null,
+              "source": [
+                {
+                  "artboard": "Components_Status colors",
+                  "layerName": "Status / Info_Play",
+                  "objectID": "C37DDE46-1AD6-4197-8B83-171A8C48C790"
+                },
+                {
+                  "artboard": "Components_Status colors",
+                  "layerName": "Status / Info_Play",
+                  "objectID": "7FBDC802-8E51-48AA-AAF9-760E34F942F0"
+                },
+                {
+                  "artboard": "Components_Status colors",
+                  "layerName": "Status / Info_Play",
+                  "objectID": "3F0C907A-4AB1-45B5-9229-4121B4176259"
+                },
+                {
+                  "artboard": "Components_Status colors",
+                  "layerName": "Status / Info_Play",
+                  "objectID": "68F3E21C-2ABC-40DA-9A77-832E38D36370"
+                },
+                {
+                  "artboard": "Components_Status colors",
+                  "layerName": "Status / Info_Play Copy 5",
+                  "objectID": "5A882EAF-45BC-42D9-BF78-98C15349878D"
+                },
+                {
+                  "artboard": "Components_Status colors",
+                  "layerName": "Status / Info_Play Copy 6",
+                  "objectID": "5A882EAF-45BC-42D9-BF78-98C15349878D"
+                },
+                {
+                  "artboard": "Components_Status colors",
+                  "layerName": "Status / Info_Play Copy 8",
+                  "objectID": "5A882EAF-45BC-42D9-BF78-98C15349878D"
+                },
+                {
+                  "artboard": "Components_Status colors",
+                  "layerName": "Status / Info_Play Copy 10",
+                  "objectID": "C025A1A8-DC63-4431-B38A-0881958DBAE8"
+                },
+                {
+                  "artboard": "Components_Status colors",
+                  "layerName": "Status / Info_Play Copy 15",
+                  "objectID": "C025A1A8-DC63-4431-B38A-0881958DBAE8"
+                },
+                {
+                  "artboard": "Components_Status colors",
+                  "layerName": "Status / Info_Play Copy 16",
+                  "objectID": "C025A1A8-DC63-4431-B38A-0881958DBAE8"
+                },
+                {
+                  "artboard": "Components_Status colors",
+                  "layerName": "Status / Info_Play Copy 2",
+                  "objectID": "3F0C907A-4AB1-45B5-9229-4121B4176259"
+                },
+                {
+                  "artboard": "Components_Status colors",
+                  "layerName": "Status / Info_Play Copy 14",
+                  "objectID": "C025A1A8-DC63-4431-B38A-0881958DBAE8"
+                },
+                {
+                  "artboard": "Components_Status colors",
+                  "layerName": "Status / Info_Play Copy 2",
+                  "objectID": "3F0C907A-4AB1-45B5-9229-4121B4176259"
+                },
+                {
+                  "artboard": "Components_Status colors",
+                  "layerName": "Status / Info_Play Copy 9",
+                  "objectID": "3F0C907A-4AB1-45B5-9229-4121B4176259"
+                },
+                {
+                  "artboard": "Components_Status colors",
+                  "layerName": "Status / Info_Play Copy 7",
+                  "objectID": "3F0C907A-4AB1-45B5-9229-4121B4176259"
+                },
+                {
+                  "artboard": "Components_Status colors",
+                  "layerName": "Status / Info_Play Copy 11",
+                  "objectID": "3F0C907A-4AB1-45B5-9229-4121B4176259"
+                },
+                {
+                  "artboard": "Components_Status colors",
+                  "layerName": "Status / Info_Play",
+                  "objectID": "8269DE66-204F-4F5B-9E29-84AB7B0CFA09"
+                },
+                {
+                  "artboard": "Components_Status colors",
+                  "layerName": "Status / Info_Play",
+                  "objectID": "8269DE66-204F-4F5B-9E29-84AB7B0CFA09"
+                },
+                {
+                  "artboard": "Components_Status colors",
+                  "layerName": "Status / Info_Play",
+                  "objectID": "452BBF48-68DC-4370-BE10-59D48E087395"
+                },
+                {
+                  "artboard": "Components_Status colors",
+                  "layerName": "Status / Info_Play",
+                  "objectID": "452BBF48-68DC-4370-BE10-59D48E087395"
+                },
+                {
+                  "artboard": "Components_Status colors",
+                  "layerName": "Status / Info_Play",
+                  "objectID": "5A882EAF-45BC-42D9-BF78-98C15349878D"
+                },
+                {
+                  "artboard": "Components_Status colors",
+                  "layerName": "Status / Info_Play",
+                  "objectID": "C37DDE46-1AD6-4197-8B83-171A8C48C790"
+                },
+                {
+                  "artboard": "Components_Status colors",
+                  "layerName": "Status / Info_Play",
+                  "objectID": "40843D4F-8551-474C-A36C-4B2B880EA953"
+                },
+                {
+                  "artboard": "Components_Status colors",
+                  "layerName": "Status / Info_Play",
+                  "objectID": "C025A1A8-DC63-4431-B38A-0881958DBAE8"
+                }
+              ],
+              "confidence": "medium"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -5,6 +5,7 @@ import { extractStrings } from '../parser/extractStrings'
 import { extractCss } from '../parser/extractCss'
 import { loadGuideline } from '../guideline/loadGuideline'
 import { compareGuideline } from '../guideline/compareGuideline'
+import { compareWithDesignRules } from '../guideline/designRules/compareWithDesignRules'
 import { reviewStrings } from '../review/reviewStrings'
 import { createId } from '../utils/format'
 import { useAnalysisStore } from '../services/store/analysisStore'
@@ -26,6 +27,7 @@ export function useAnalysisPipeline() {
         setStatus('analyzing')
         const guideline = loadGuideline()
         const guidelineViolations = compareGuideline({ components, css }, guideline)
+        const qaReport = compareWithDesignRules({ components, css })
         const uxWritingReview = await reviewStrings(strings)
 
         setResult({
@@ -35,6 +37,7 @@ export function useAnalysisPipeline() {
           strings,
           css,
           guidelineViolations,
+          qaReport,
           uxWritingReview,
           createdAt: new Date().toISOString(),
         })

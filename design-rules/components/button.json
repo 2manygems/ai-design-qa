@@ -1,0 +1,1773 @@
+{
+  "sourceArtboard": "Components_Button",
+  "components": [
+    {
+      "component": "Icon button",
+      "description": null,
+      "variants": [
+        {
+          "name": "Small",
+          "states": [
+            {
+              "name": "(unspecified)",
+              "geometry": {
+                "width": 24,
+                "height": 24,
+                "minWidth": null,
+                "maxWidth": null
+              },
+              "spacing": null,
+              "border": {
+                "border": "1px solid #8A8A8A",
+                "borderRadius": "4px",
+                "sourceLayer": "Button BG"
+              },
+              "background": {
+                "color": "#F5F5F5",
+                "opacity": null,
+                "boxShadow": "inset 0 2px 0 0 #FFFFFF",
+                "sourceLayer": "Button BG"
+              },
+              "typography": null,
+              "icon": [
+                {
+                  "name": "Icon",
+                  "width": 12,
+                  "height": 12,
+                  "derivedInset": {
+                    "left": 6,
+                    "top": 6
+                  }
+                }
+              ],
+              "content": null,
+              "behavior": null,
+              "responsive": null,
+              "stateOverlays": null,
+              "nestedComponents": null,
+              "source": [
+                {
+                  "artboard": "Components_Button",
+                  "layerName": "Icon button / Small",
+                  "objectID": "939FCEAC-5A8B-4EFF-9C94-90B5952A80FF"
+                },
+                {
+                  "artboard": "Components_Button",
+                  "layerName": "Icon button / Small",
+                  "objectID": "9C0E010E-21CB-468B-BCD8-247A07567374"
+                }
+              ],
+              "confidence": "high"
+            }
+          ]
+        },
+        {
+          "name": "Medium",
+          "states": [
+            {
+              "name": "(unspecified)",
+              "geometry": {
+                "width": 30,
+                "height": 30,
+                "minWidth": null,
+                "maxWidth": null
+              },
+              "spacing": null,
+              "border": {
+                "border": "1px solid #8A8A8A",
+                "borderRadius": "4px",
+                "sourceLayer": "Button BG"
+              },
+              "background": {
+                "color": "#F5F5F5",
+                "opacity": null,
+                "boxShadow": "inset 0 2px 0 0 #FFFFFF",
+                "sourceLayer": "Button BG"
+              },
+              "typography": null,
+              "icon": [
+                {
+                  "name": "Icon",
+                  "width": 16,
+                  "height": 16,
+                  "derivedInset": {
+                    "left": 7,
+                    "top": 7
+                  }
+                }
+              ],
+              "content": null,
+              "behavior": null,
+              "responsive": null,
+              "stateOverlays": null,
+              "nestedComponents": null,
+              "source": [
+                {
+                  "artboard": "Components_Button",
+                  "layerName": "Icon button / Medium",
+                  "objectID": "B53A1EF5-930F-4BB6-A2F7-AD1BCA2F62FB"
+                },
+                {
+                  "artboard": "Components_Button",
+                  "layerName": "Icon button / Medium",
+                  "objectID": "944473B4-B5D6-4D8B-95A1-520A27EE41FE"
+                }
+              ],
+              "confidence": "high"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "component": "Text button",
+      "description": null,
+      "variants": [
+        {
+          "name": "Secondary",
+          "states": [
+            {
+              "name": "Small Label",
+              "geometry": {
+                "width": 56,
+                "height": 24,
+                "minWidth": null,
+                "maxWidth": null
+              },
+              "spacing": {
+                "derived": true,
+                "note": "텍스트 rect와 심볼 rect의 차이에서 계산된 실측값 (문서화된 토큰 아님)",
+                "textPadding": {
+                  "left": 9,
+                  "right": 9,
+                  "top": 4,
+                  "bottom": 4
+                }
+              },
+              "border": {
+                "border": "1px solid #8A8A8A",
+                "borderRadius": "4px",
+                "sourceLayer": "Button BG"
+              },
+              "background": {
+                "color": "#F5F5F5",
+                "opacity": null,
+                "boxShadow": "inset 0 2px 0 0 #FFFFFF",
+                "sourceLayer": "Button BG"
+              },
+              "typography": [
+                {
+                  "role": "Label (Sentence case)",
+                  "content": "Button",
+                  "fontFamily": "SamsungOne-700",
+                  "fontSize": "12px",
+                  "fontWeight": 700,
+                  "lineHeight": "16px",
+                  "color": "#000000",
+                  "textAlign": "center",
+                  "derivedPadding": {
+                    "left": 9,
+                    "right": 9,
+                    "top": 4,
+                    "bottom": 4
+                  }
+                }
+              ],
+              "icon": null,
+              "content": [
+                "Button"
+              ],
+              "behavior": null,
+              "responsive": null,
+              "stateOverlays": null,
+              "nestedComponents": null,
+              "source": [
+                {
+                  "artboard": "Components_Button",
+                  "layerName": "Text button / Secondary / Small Label",
+                  "objectID": "1FD42C52-D7E1-49B4-ACFB-8DDCC1EC31F5"
+                },
+                {
+                  "artboard": "Components_Button",
+                  "layerName": "Text button / Secondary / Small Label",
+                  "objectID": "1FD42C52-D7E1-49B4-ACFB-8DDCC1EC31F5"
+                }
+              ],
+              "confidence": "high"
+            },
+            {
+              "name": "Label",
+              "geometry": {
+                "width": 68,
+                "height": 30,
+                "minWidth": null,
+                "maxWidth": null
+              },
+              "spacing": {
+                "derived": true,
+                "note": "텍스트 rect와 심볼 rect의 차이에서 계산된 실측값 (문서화된 토큰 아님)",
+                "textPadding": {
+                  "left": 13.5,
+                  "right": 13.5,
+                  "top": 7,
+                  "bottom": 7
+                }
+              },
+              "border": {
+                "border": "1px solid #8A8A8A",
+                "borderRadius": "4px",
+                "sourceLayer": "Button BG"
+              },
+              "background": {
+                "color": "#F5F5F5",
+                "opacity": null,
+                "boxShadow": "inset 0 2px 0 0 #FFFFFF",
+                "sourceLayer": "Button BG"
+              },
+              "typography": [
+                {
+                  "role": "Label (Sentence case)",
+                  "content": "Button",
+                  "fontFamily": "SamsungOne-700",
+                  "fontSize": "13px",
+                  "fontWeight": 700,
+                  "lineHeight": "16px",
+                  "color": "#000000",
+                  "textAlign": "center",
+                  "derivedPadding": {
+                    "left": 13.5,
+                    "right": 13.5,
+                    "top": 7,
+                    "bottom": 7
+                  }
+                }
+              ],
+              "icon": null,
+              "content": [
+                "Button"
+              ],
+              "behavior": null,
+              "responsive": null,
+              "stateOverlays": null,
+              "nestedComponents": null,
+              "source": [
+                {
+                  "artboard": "Components_Button",
+                  "layerName": "Text button / Secondary / Label",
+                  "objectID": "9ED10D8E-4F60-4B72-B84C-A88FBF4E7861"
+                },
+                {
+                  "artboard": "Components_Button",
+                  "layerName": "Text button / Secondary / Label",
+                  "objectID": "057B84EE-E35E-4931-AA00-B43D64354B83"
+                },
+                {
+                  "artboard": "Components_Button",
+                  "layerName": "Text button / Secondary / Label",
+                  "objectID": "057B84EE-E35E-4931-AA00-B43D64354B83"
+                }
+              ],
+              "confidence": "high"
+            },
+            {
+              "name": "Icon + Label",
+              "geometry": {
+                "width": 89,
+                "height": 30,
+                "minWidth": null,
+                "maxWidth": null
+              },
+              "spacing": {
+                "derived": true,
+                "note": "텍스트 rect와 심볼 rect의 차이에서 계산된 실측값 (문서화된 토큰 아님)",
+                "textPadding": {
+                  "left": 36,
+                  "right": 12,
+                  "top": 7,
+                  "bottom": 7
+                }
+              },
+              "border": {
+                "border": "1px solid #8A8A8A",
+                "borderRadius": "4px",
+                "sourceLayer": "Button BG"
+              },
+              "background": {
+                "color": "#F5F5F5",
+                "opacity": null,
+                "boxShadow": "inset 0 2px 0 0 #FFFFFF",
+                "sourceLayer": "Button BG"
+              },
+              "typography": [
+                {
+                  "role": "Label (Sentence case)",
+                  "content": "Button",
+                  "fontFamily": "SamsungOne-700",
+                  "fontSize": "13px",
+                  "fontWeight": 700,
+                  "lineHeight": "16px",
+                  "color": "#000000",
+                  "textAlign": "center",
+                  "derivedPadding": {
+                    "left": 36,
+                    "right": 12,
+                    "top": 7,
+                    "bottom": 7
+                  }
+                }
+              ],
+              "icon": [
+                {
+                  "name": "Icon",
+                  "width": 16,
+                  "height": 16,
+                  "derivedInset": {
+                    "left": 12,
+                    "top": 7
+                  }
+                }
+              ],
+              "content": [
+                "Button"
+              ],
+              "behavior": null,
+              "responsive": null,
+              "stateOverlays": null,
+              "nestedComponents": null,
+              "source": [
+                {
+                  "artboard": "Components_Button",
+                  "layerName": "Text button / Secondary / Icon + Label",
+                  "objectID": "F77E6FE5-9E22-42C2-9ADD-E9A76525BE72"
+                }
+              ],
+              "confidence": "high"
+            },
+            {
+              "name": "Dropdown",
+              "geometry": {
+                "width": 89,
+                "height": 30,
+                "minWidth": null,
+                "maxWidth": null
+              },
+              "spacing": {
+                "derived": true,
+                "note": "텍스트 rect와 심볼 rect의 차이에서 계산된 실측값 (문서화된 토큰 아님)",
+                "textPadding": {
+                  "left": 12,
+                  "right": 36,
+                  "top": 7,
+                  "bottom": 7
+                }
+              },
+              "border": {
+                "border": "1px solid #8A8A8A",
+                "borderRadius": "4px",
+                "sourceLayer": "Button BG"
+              },
+              "background": {
+                "color": "#F5F5F5",
+                "opacity": null,
+                "boxShadow": "inset 0 2px 0 0 #FFFFFF",
+                "sourceLayer": "Button BG"
+              },
+              "typography": [
+                {
+                  "role": "Label (Sentence case)",
+                  "content": "Button",
+                  "fontFamily": "SamsungOne-700",
+                  "fontSize": "13px",
+                  "fontWeight": 700,
+                  "lineHeight": "16px",
+                  "color": "#000000",
+                  "textAlign": "center",
+                  "derivedPadding": {
+                    "left": 12,
+                    "right": 36,
+                    "top": 7,
+                    "bottom": 7
+                  }
+                }
+              ],
+              "icon": [
+                {
+                  "name": "Icon",
+                  "width": 16,
+                  "height": 16,
+                  "derivedInset": {
+                    "left": 61,
+                    "top": 7
+                  }
+                }
+              ],
+              "content": [
+                "Button"
+              ],
+              "behavior": null,
+              "responsive": null,
+              "stateOverlays": null,
+              "nestedComponents": null,
+              "source": [
+                {
+                  "artboard": "Components_Button",
+                  "layerName": "Text button / Secondary / Dropdown",
+                  "objectID": "57FE3BE5-A1AB-4FA8-8BC0-D033C340CFE1"
+                }
+              ],
+              "confidence": "high"
+            },
+            {
+              "name": "Split",
+              "geometry": {
+                "width": 95,
+                "height": 30,
+                "minWidth": null,
+                "maxWidth": null
+              },
+              "spacing": {
+                "derived": true,
+                "note": "텍스트 rect와 심볼 rect의 차이에서 계산된 실측값 (문서화된 토큰 아님)",
+                "textPadding": {
+                  "left": 12,
+                  "right": 42,
+                  "top": 7,
+                  "bottom": 7
+                }
+              },
+              "border": {
+                "border": "1px solid #8A8A8A",
+                "borderRadius": "4px",
+                "sourceLayer": "Button BG"
+              },
+              "background": {
+                "color": "#F5F5F5",
+                "opacity": null,
+                "boxShadow": "inset 0 2px 0 0 #FFFFFF",
+                "sourceLayer": "Button BG"
+              },
+              "typography": [
+                {
+                  "role": "Label (Sentence case)",
+                  "content": "Button",
+                  "fontFamily": "SamsungOne-700",
+                  "fontSize": "13px",
+                  "fontWeight": 700,
+                  "lineHeight": "16px",
+                  "color": "#000000",
+                  "textAlign": "center",
+                  "derivedPadding": {
+                    "left": 12,
+                    "right": 42,
+                    "top": 7,
+                    "bottom": 7
+                  }
+                }
+              ],
+              "icon": [
+                {
+                  "name": "Icon",
+                  "width": 16,
+                  "height": 16,
+                  "derivedInset": {
+                    "left": 72,
+                    "top": 7
+                  }
+                }
+              ],
+              "content": [
+                "Button"
+              ],
+              "behavior": null,
+              "responsive": null,
+              "stateOverlays": null,
+              "nestedComponents": null,
+              "source": [
+                {
+                  "artboard": "Components_Button",
+                  "layerName": "Text button / Secondary / Split",
+                  "objectID": "7C3644B4-C71F-46AA-906F-40D6323868C4"
+                }
+              ],
+              "confidence": "high"
+            },
+            {
+              "name": "Combo",
+              "geometry": {
+                "width": 65,
+                "height": 30,
+                "minWidth": null,
+                "maxWidth": null
+              },
+              "spacing": {
+                "derived": true,
+                "note": "텍스트 rect와 심볼 rect의 차이에서 계산된 실측값 (문서화된 토큰 아님)",
+                "textPadding": {
+                  "left": 12,
+                  "right": 12,
+                  "top": 7,
+                  "bottom": 7
+                }
+              },
+              "border": {
+                "border": null,
+                "borderRadius": "3px",
+                "sourceLayer": "Container"
+              },
+              "background": {
+                "color": null,
+                "opacity": 0.05,
+                "boxShadow": null,
+                "sourceLayer": "Container"
+              },
+              "typography": [
+                {
+                  "role": "Label",
+                  "content": "Button",
+                  "fontFamily": "SamsungOne-700",
+                  "fontSize": "13px",
+                  "fontWeight": 700,
+                  "lineHeight": "16px",
+                  "color": "#000000",
+                  "textAlign": null,
+                  "derivedPadding": {
+                    "left": 12,
+                    "right": 12,
+                    "top": 7,
+                    "bottom": 7
+                  }
+                }
+              ],
+              "icon": null,
+              "content": [
+                "Button"
+              ],
+              "behavior": null,
+              "responsive": null,
+              "stateOverlays": null,
+              "nestedComponents": null,
+              "source": [
+                {
+                  "artboard": "Components_Button",
+                  "layerName": "Text button / Secondary / Combo Copy",
+                  "objectID": "962A49E6-BE5C-4DF9-8BC5-5D7D201DBA06"
+                }
+              ],
+              "confidence": "high"
+            },
+            {
+              "name": "Label + Icon",
+              "geometry": {
+                "width": 121,
+                "height": 30,
+                "minWidth": null,
+                "maxWidth": null
+              },
+              "spacing": {
+                "derived": true,
+                "note": "텍스트 rect와 심볼 rect의 차이에서 계산된 실측값 (문서화된 토큰 아님)",
+                "textPadding": {
+                  "left": 12,
+                  "right": 36,
+                  "top": 7,
+                  "bottom": 7
+                }
+              },
+              "border": {
+                "border": "1px solid #8A8A8A",
+                "borderRadius": "4px",
+                "sourceLayer": "Button BG"
+              },
+              "background": {
+                "color": "#F5F5F5",
+                "opacity": null,
+                "boxShadow": "inset 0 2px 0 0 #FFFFFF",
+                "sourceLayer": "Button BG"
+              },
+              "typography": [
+                {
+                  "role": "Label (Sentence case)",
+                  "content": "Button label",
+                  "fontFamily": "SamsungOne-700",
+                  "fontSize": "13px",
+                  "fontWeight": 700,
+                  "lineHeight": "16px",
+                  "color": "#000000",
+                  "textAlign": "center",
+                  "derivedPadding": {
+                    "left": 12,
+                    "right": 36,
+                    "top": 7,
+                    "bottom": 7
+                  }
+                }
+              ],
+              "icon": [
+                {
+                  "name": "Icon",
+                  "width": 16,
+                  "height": 16,
+                  "derivedInset": {
+                    "left": 93,
+                    "top": 7
+                  }
+                }
+              ],
+              "content": [
+                "Button label"
+              ],
+              "behavior": null,
+              "responsive": null,
+              "stateOverlays": null,
+              "nestedComponents": null,
+              "source": [
+                {
+                  "artboard": "Components_Button",
+                  "layerName": "Text button / Secondary / Label + Icon",
+                  "objectID": "1AD7B571-E4B3-4DD5-A97C-A70B2BC20392"
+                }
+              ],
+              "confidence": "high"
+            }
+          ]
+        },
+        {
+          "name": "Primary",
+          "states": [
+            {
+              "name": "Dropdown",
+              "geometry": {
+                "width": 89,
+                "height": 30,
+                "minWidth": null,
+                "maxWidth": null
+              },
+              "spacing": {
+                "derived": true,
+                "note": "텍스트 rect와 심볼 rect의 차이에서 계산된 실측값 (문서화된 토큰 아님)",
+                "textPadding": {
+                  "left": 12,
+                  "right": 36,
+                  "top": 7,
+                  "bottom": 7
+                }
+              },
+              "border": {
+                "border": "1px solid #000000",
+                "borderRadius": "4px",
+                "sourceLayer": "Button BG"
+              },
+              "background": {
+                "color": "#252525",
+                "opacity": null,
+                "boxShadow": "inset 0 2px 0 0 rgba(255,255,255,0.30)",
+                "sourceLayer": "Button BG"
+              },
+              "typography": [
+                {
+                  "role": "Label (Sentence case)",
+                  "content": "Button",
+                  "fontFamily": "SamsungOne-700",
+                  "fontSize": "13px",
+                  "fontWeight": 700,
+                  "lineHeight": "16px",
+                  "color": "#FFFFFF",
+                  "textAlign": "center",
+                  "derivedPadding": {
+                    "left": 12,
+                    "right": 36,
+                    "top": 7,
+                    "bottom": 7
+                  }
+                }
+              ],
+              "icon": [
+                {
+                  "name": "Icon",
+                  "width": 16,
+                  "height": 16,
+                  "derivedInset": {
+                    "left": 61,
+                    "top": 7
+                  }
+                }
+              ],
+              "content": [
+                "Button"
+              ],
+              "behavior": null,
+              "responsive": null,
+              "stateOverlays": null,
+              "nestedComponents": null,
+              "source": [
+                {
+                  "artboard": "Components_Button",
+                  "layerName": "Text button / Primary / Dropdown",
+                  "objectID": "03D39385-5166-4AFD-8BB5-CDE095BFDF4F"
+                }
+              ],
+              "confidence": "high"
+            },
+            {
+              "name": "Split",
+              "geometry": {
+                "width": 95,
+                "height": 30,
+                "minWidth": null,
+                "maxWidth": null
+              },
+              "spacing": {
+                "derived": true,
+                "note": "텍스트 rect와 심볼 rect의 차이에서 계산된 실측값 (문서화된 토큰 아님)",
+                "textPadding": {
+                  "left": 12,
+                  "right": 42,
+                  "top": 7,
+                  "bottom": 7
+                }
+              },
+              "border": {
+                "border": "1px solid #000000",
+                "borderRadius": "4px",
+                "sourceLayer": "Button BG"
+              },
+              "background": {
+                "color": "#252525",
+                "opacity": null,
+                "boxShadow": "inset 0 2px 0 0 rgba(255,255,255,0.30)",
+                "sourceLayer": "Button BG"
+              },
+              "typography": [
+                {
+                  "role": "Label (Sentence case)",
+                  "content": "Button",
+                  "fontFamily": "SamsungOne-700",
+                  "fontSize": "13px",
+                  "fontWeight": 700,
+                  "lineHeight": "16px",
+                  "color": "#FFFFFF",
+                  "textAlign": "center",
+                  "derivedPadding": {
+                    "left": 12,
+                    "right": 42,
+                    "top": 7,
+                    "bottom": 7
+                  }
+                }
+              ],
+              "icon": [
+                {
+                  "name": "Icon",
+                  "width": 16,
+                  "height": 16,
+                  "derivedInset": {
+                    "left": 72,
+                    "top": 7
+                  }
+                }
+              ],
+              "content": [
+                "Button"
+              ],
+              "behavior": null,
+              "responsive": null,
+              "stateOverlays": null,
+              "nestedComponents": null,
+              "source": [
+                {
+                  "artboard": "Components_Button",
+                  "layerName": "Text button / Primary / Split",
+                  "objectID": "83F44ED0-86E5-43BF-A042-68CF55F8966E"
+                }
+              ],
+              "confidence": "high"
+            },
+            {
+              "name": "Label",
+              "geometry": {
+                "width": 109,
+                "height": 30,
+                "minWidth": null,
+                "maxWidth": null
+              },
+              "spacing": {
+                "derived": true,
+                "note": "텍스트 rect와 심볼 rect의 차이에서 계산된 실측값 (문서화된 토큰 아님)",
+                "textPadding": {
+                  "left": 12,
+                  "right": 12,
+                  "top": 7,
+                  "bottom": 7
+                }
+              },
+              "border": {
+                "border": "1px solid #000000",
+                "borderRadius": "4px",
+                "sourceLayer": "Button BG"
+              },
+              "background": {
+                "color": "#252525",
+                "opacity": null,
+                "boxShadow": "inset 0 2px 0 0 rgba(255,255,255,0.30)",
+                "sourceLayer": "Button BG"
+              },
+              "typography": [
+                {
+                  "role": "Label (Sentence case)",
+                  "content": "Primary action",
+                  "fontFamily": "SamsungOne-700",
+                  "fontSize": "13px",
+                  "fontWeight": 700,
+                  "lineHeight": "16px",
+                  "color": "#FFFFFF",
+                  "textAlign": "center",
+                  "derivedPadding": {
+                    "left": 12,
+                    "right": 12,
+                    "top": 7,
+                    "bottom": 7
+                  }
+                }
+              ],
+              "icon": null,
+              "content": [
+                "Primary action"
+              ],
+              "behavior": null,
+              "responsive": null,
+              "stateOverlays": null,
+              "nestedComponents": null,
+              "source": [
+                {
+                  "artboard": "Components_Button",
+                  "layerName": "Text button / Primary / Label",
+                  "objectID": "8B8E57E3-9BCA-45C5-BB66-3DA24193B1C3"
+                }
+              ],
+              "confidence": "high"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "component": "Button",
+      "description": null,
+      "variants": [
+        {
+          "name": "contained-text",
+          "states": [
+            {
+              "name": "secondary-split",
+              "geometry": {
+                "width": 95,
+                "height": 30,
+                "minWidth": null,
+                "maxWidth": null
+              },
+              "spacing": {
+                "derived": true,
+                "note": "텍스트 rect와 심볼 rect의 차이에서 계산된 실측값 (문서화된 토큰 아님)",
+                "textPadding": {
+                  "left": 12,
+                  "right": 42,
+                  "top": 7,
+                  "bottom": 7
+                }
+              },
+              "border": {
+                "border": "1px solid #8A8A8A",
+                "borderRadius": "4px",
+                "sourceLayer": "Button BG"
+              },
+              "background": {
+                "color": "#F5F5F5",
+                "opacity": null,
+                "boxShadow": "inset 0 2px 0 0 #FFFFFF",
+                "sourceLayer": "Button BG"
+              },
+              "typography": [
+                {
+                  "role": "Label (Sentence case)",
+                  "content": "Button",
+                  "fontFamily": "SamsungOne-700",
+                  "fontSize": "13px",
+                  "fontWeight": 700,
+                  "lineHeight": "16px",
+                  "color": "#000000",
+                  "textAlign": "center",
+                  "derivedPadding": {
+                    "left": 12,
+                    "right": 42,
+                    "top": 7,
+                    "bottom": 7
+                  }
+                }
+              ],
+              "icon": [
+                {
+                  "name": "Icon",
+                  "width": 16,
+                  "height": 16,
+                  "derivedInset": {
+                    "left": 72,
+                    "top": 7
+                  }
+                }
+              ],
+              "content": [
+                "Button"
+              ],
+              "behavior": null,
+              "responsive": null,
+              "stateOverlays": null,
+              "nestedComponents": null,
+              "source": [
+                {
+                  "artboard": "Components_Button",
+                  "layerName": "Button / contained-text / secondary-split",
+                  "objectID": "2F56F391-05A4-4C7F-90D3-EF6BFA398B5E"
+                }
+              ],
+              "confidence": "high"
+            },
+            {
+              "name": "secondary-small",
+              "geometry": {
+                "width": null,
+                "height": 24,
+                "minWidth": null,
+                "maxWidth": null,
+                "observedWidths": [
+                  54,
+                  188
+                ],
+                "widthNote": "인스턴스마다 다름 (콘텐츠 의존) — 고정 규칙 아님"
+              },
+              "spacing": {
+                "derived": true,
+                "note": "텍스트 rect와 심볼 rect의 차이에서 계산된 실측값 (문서화된 토큰 아님)",
+                "textPadding": {
+                  "left": 71.5,
+                  "right": 71.5,
+                  "top": 4,
+                  "bottom": 4
+                }
+              },
+              "border": {
+                "border": "1px solid #8A8A8A",
+                "borderRadius": "4px",
+                "sourceLayer": "Button BG"
+              },
+              "background": {
+                "color": "#F5F5F5",
+                "opacity": null,
+                "boxShadow": "inset 0 2px 0 0 #FFFFFF",
+                "sourceLayer": "Button BG"
+              },
+              "typography": [
+                {
+                  "role": "Label (Sentence case)",
+                  "content": "Sign out",
+                  "fontFamily": "SamsungOne-700",
+                  "fontSize": "12px",
+                  "fontWeight": 700,
+                  "lineHeight": "16px",
+                  "color": "#000000",
+                  "textAlign": "center",
+                  "derivedPadding": {
+                    "left": 71.5,
+                    "right": 71.5,
+                    "top": 4,
+                    "bottom": 4
+                  }
+                }
+              ],
+              "icon": null,
+              "content": [
+                "Sign out"
+              ],
+              "behavior": null,
+              "responsive": null,
+              "stateOverlays": null,
+              "nestedComponents": null,
+              "source": [
+                {
+                  "artboard": "Components_Button",
+                  "layerName": "Button / contained-text / secondary-small",
+                  "objectID": "1FD42C52-D7E1-49B4-ACFB-8DDCC1EC31F5"
+                },
+                {
+                  "artboard": "Components_Button",
+                  "layerName": "Button / contained-text / secondary-small",
+                  "objectID": "1FD42C52-D7E1-49B4-ACFB-8DDCC1EC31F5"
+                },
+                {
+                  "artboard": "Components_Button",
+                  "layerName": "Button / contained-text / secondary-small",
+                  "objectID": "A1E67870-9E2F-4781-B76B-A6F9D6000A62"
+                }
+              ],
+              "confidence": "high"
+            },
+            {
+              "name": "secondary-group",
+              "geometry": {
+                "width": 252,
+                "height": 30,
+                "minWidth": null,
+                "maxWidth": null
+              },
+              "spacing": {
+                "derived": true,
+                "note": "텍스트 rect와 심볼 rect의 차이에서 계산된 실측값 (문서화된 토큰 아님)",
+                "textPadding": {
+                  "left": 211,
+                  "right": 23,
+                  "top": 7,
+                  "bottom": 7
+                }
+              },
+              "border": null,
+              "background": null,
+              "typography": [
+                {
+                  "role": "Label (Sentence case)",
+                  "content": "1W",
+                  "fontFamily": "SamsungOne-700",
+                  "fontSize": "13px",
+                  "fontWeight": 700,
+                  "lineHeight": "16px",
+                  "color": "#000000",
+                  "textAlign": "center",
+                  "derivedPadding": {
+                    "left": 211,
+                    "right": 23,
+                    "top": 7,
+                    "bottom": 7
+                  }
+                },
+                {
+                  "role": "Label (Sentence case)",
+                  "content": "1D",
+                  "fontFamily": "SamsungOne-700",
+                  "fontSize": "13px",
+                  "fontWeight": 700,
+                  "lineHeight": "16px",
+                  "color": "#000000",
+                  "textAlign": "center",
+                  "derivedPadding": {
+                    "left": 149.5,
+                    "right": 87.5,
+                    "top": 7,
+                    "bottom": 7
+                  }
+                },
+                {
+                  "role": "Label (Sentence case)",
+                  "content": "1H",
+                  "fontFamily": "SamsungOne-700",
+                  "fontSize": "13px",
+                  "fontWeight": 700,
+                  "lineHeight": "16px",
+                  "color": "#000000",
+                  "textAlign": "center",
+                  "derivedPadding": {
+                    "left": 86.5,
+                    "right": 150.5,
+                    "top": 7,
+                    "bottom": 7
+                  }
+                },
+                {
+                  "role": "Label (Sentence case)",
+                  "content": "Now",
+                  "fontFamily": "SamsungOne-700",
+                  "fontSize": "13px",
+                  "fontWeight": 700,
+                  "lineHeight": "16px",
+                  "color": "#000000",
+                  "textAlign": "center",
+                  "derivedPadding": {
+                    "left": 18,
+                    "right": 207,
+                    "top": 7,
+                    "bottom": 7
+                  }
+                }
+              ],
+              "icon": null,
+              "content": [
+                "1W",
+                "1D",
+                "1H",
+                "Now"
+              ],
+              "behavior": null,
+              "responsive": null,
+              "stateOverlays": null,
+              "nestedComponents": null,
+              "source": [
+                {
+                  "artboard": "Components_Button",
+                  "layerName": "Button / contained-text / secondary-group",
+                  "objectID": "C77E55FF-A099-4AC4-AB9F-D9A7358427BF"
+                },
+                {
+                  "artboard": "Components_Button",
+                  "layerName": "Button / contained-text / secondary-group",
+                  "objectID": "C77E55FF-A099-4AC4-AB9F-D9A7358427BF"
+                }
+              ],
+              "confidence": "high"
+            },
+            {
+              "name": "primary-small",
+              "geometry": {
+                "width": null,
+                "height": 24,
+                "minWidth": null,
+                "maxWidth": null,
+                "observedWidths": [
+                  54,
+                  56
+                ],
+                "widthNote": "인스턴스마다 다름 (콘텐츠 의존) — 고정 규칙 아님"
+              },
+              "spacing": {
+                "derived": true,
+                "note": "텍스트 rect와 심볼 rect의 차이에서 계산된 실측값 (문서화된 토큰 아님)",
+                "textPadding": {
+                  "left": 9,
+                  "right": 9,
+                  "top": 4,
+                  "bottom": 4
+                }
+              },
+              "border": {
+                "border": "1px solid #000000",
+                "borderRadius": "4px",
+                "sourceLayer": "Button BG"
+              },
+              "background": {
+                "color": "#252525",
+                "opacity": null,
+                "boxShadow": "inset 0 2px 0 0 rgba(255,255,255,0.30)",
+                "sourceLayer": "Button BG"
+              },
+              "typography": [
+                {
+                  "role": "Label (Sentence case)",
+                  "content": "Button",
+                  "fontFamily": "SamsungOne-700",
+                  "fontSize": "12px",
+                  "fontWeight": 700,
+                  "lineHeight": "16px",
+                  "color": "#FFFFFF",
+                  "textAlign": "center",
+                  "derivedPadding": {
+                    "left": 9,
+                    "right": 9,
+                    "top": 4,
+                    "bottom": 4
+                  }
+                }
+              ],
+              "icon": null,
+              "content": [
+                "Button"
+              ],
+              "behavior": null,
+              "responsive": null,
+              "stateOverlays": null,
+              "nestedComponents": null,
+              "source": [
+                {
+                  "artboard": "Components_Button",
+                  "layerName": "Button / contained-text / primary-small",
+                  "objectID": "EC90990A-B972-4AB9-8820-FBC8748CB0E2"
+                },
+                {
+                  "artboard": "Components_Button",
+                  "layerName": "Button / contained-text / primary-small",
+                  "objectID": "E70507E6-12E8-402F-953E-5F32A3934333"
+                }
+              ],
+              "confidence": "high"
+            },
+            {
+              "name": "secondary-default",
+              "geometry": {
+                "width": null,
+                "height": 30,
+                "minWidth": null,
+                "maxWidth": null,
+                "observedWidths": [
+                  68,
+                  72
+                ],
+                "widthNote": "인스턴스마다 다름 (콘텐츠 의존) — 고정 규칙 아님"
+              },
+              "spacing": {
+                "derived": true,
+                "note": "텍스트 rect와 심볼 rect의 차이에서 계산된 실측값 (문서화된 토큰 아님)",
+                "textPadding": {
+                  "left": 12,
+                  "right": 15,
+                  "top": 7,
+                  "bottom": 7
+                }
+              },
+              "border": {
+                "border": "1px solid #8A8A8A",
+                "borderRadius": "4px",
+                "sourceLayer": "Button BG"
+              },
+              "background": {
+                "color": "#F5F5F5",
+                "opacity": null,
+                "boxShadow": "inset 0 2px 0 0 #FFFFFF",
+                "sourceLayer": "Button BG"
+              },
+              "typography": [
+                {
+                  "role": "Label (Sentence case)",
+                  "content": "Button",
+                  "fontFamily": "SamsungOne-700",
+                  "fontSize": "13px",
+                  "fontWeight": 700,
+                  "lineHeight": "16px",
+                  "color": "#000000",
+                  "textAlign": "center",
+                  "derivedPadding": {
+                    "left": 12,
+                    "right": 15,
+                    "top": 7,
+                    "bottom": 7
+                  }
+                }
+              ],
+              "icon": null,
+              "content": [
+                "Button"
+              ],
+              "behavior": null,
+              "responsive": null,
+              "stateOverlays": null,
+              "nestedComponents": null,
+              "source": [
+                {
+                  "artboard": "Components_Button",
+                  "layerName": "Button / contained-text / secondary-default",
+                  "objectID": "057B84EE-E35E-4931-AA00-B43D64354B83"
+                },
+                {
+                  "artboard": "Components_Button",
+                  "layerName": "Button / contained-text / secondary-default",
+                  "objectID": "057B84EE-E35E-4931-AA00-B43D64354B83"
+                }
+              ],
+              "confidence": "medium"
+            }
+          ]
+        },
+        {
+          "name": "Ghost",
+          "states": [
+            {
+              "name": "icon-xlarge",
+              "geometry": {
+                "width": 56,
+                "height": 56,
+                "minWidth": null,
+                "maxWidth": null
+              },
+              "spacing": null,
+              "border": null,
+              "background": null,
+              "typography": null,
+              "icon": [
+                {
+                  "name": "Icon",
+                  "width": 44,
+                  "height": 44,
+                  "derivedInset": {
+                    "left": 6,
+                    "top": 6
+                  }
+                }
+              ],
+              "content": null,
+              "behavior": null,
+              "responsive": null,
+              "stateOverlays": [
+                {
+                  "name": "Hover state",
+                  "css": {
+                    "opacity": "0.05",
+                    "border-radius": "4px"
+                  },
+                  "opacity": 0.0499999970197678
+                }
+              ],
+              "nestedComponents": null,
+              "source": [
+                {
+                  "artboard": "Components_Button",
+                  "layerName": "Button / Ghost / icon-xlarge",
+                  "objectID": "42B60F6C-8BC6-40CD-81F3-20D313630DF5"
+                }
+              ],
+              "confidence": "high"
+            },
+            {
+              "name": "icon-large",
+              "geometry": {
+                "width": 32,
+                "height": 32,
+                "minWidth": null,
+                "maxWidth": null
+              },
+              "spacing": null,
+              "border": null,
+              "background": null,
+              "typography": null,
+              "icon": [
+                {
+                  "name": "Icon",
+                  "width": 20,
+                  "height": 20,
+                  "derivedInset": {
+                    "left": 6,
+                    "top": 6
+                  }
+                }
+              ],
+              "content": null,
+              "behavior": null,
+              "responsive": null,
+              "stateOverlays": [
+                {
+                  "name": "Hover state",
+                  "css": {
+                    "opacity": "0.05",
+                    "border-radius": "4px"
+                  },
+                  "opacity": 0.0499999970197678
+                }
+              ],
+              "nestedComponents": null,
+              "source": [
+                {
+                  "artboard": "Components_Button",
+                  "layerName": "Button / Ghost / icon-large",
+                  "objectID": "F569B549-D08F-44E1-AE28-0048C55E0EAA"
+                }
+              ],
+              "confidence": "high"
+            },
+            {
+              "name": "icon-medium",
+              "geometry": {
+                "width": 28,
+                "height": 28,
+                "minWidth": null,
+                "maxWidth": null
+              },
+              "spacing": null,
+              "border": null,
+              "background": null,
+              "typography": null,
+              "icon": [
+                {
+                  "name": "Icon",
+                  "width": 16,
+                  "height": 16,
+                  "derivedInset": {
+                    "left": 6,
+                    "top": 6
+                  }
+                }
+              ],
+              "content": null,
+              "behavior": null,
+              "responsive": null,
+              "stateOverlays": [
+                {
+                  "name": "Hover state",
+                  "css": {
+                    "opacity": "0.05",
+                    "border-radius": "4px"
+                  },
+                  "opacity": 0.0499999970197678
+                }
+              ],
+              "nestedComponents": null,
+              "source": [
+                {
+                  "artboard": "Components_Button",
+                  "layerName": "Button / Ghost / icon-medium",
+                  "objectID": "39C3A25B-8C81-40C1-A935-3E6A9FC3A849"
+                }
+              ],
+              "confidence": "high"
+            },
+            {
+              "name": "icon-small",
+              "geometry": {
+                "width": 24,
+                "height": 24,
+                "minWidth": null,
+                "maxWidth": null
+              },
+              "spacing": null,
+              "border": null,
+              "background": null,
+              "typography": null,
+              "icon": [
+                {
+                  "name": "Icon",
+                  "width": 12,
+                  "height": 12,
+                  "derivedInset": {
+                    "left": 6,
+                    "top": 6
+                  }
+                }
+              ],
+              "content": null,
+              "behavior": null,
+              "responsive": null,
+              "stateOverlays": [
+                {
+                  "name": "Hover state",
+                  "css": {
+                    "opacity": "0.05",
+                    "border-radius": "4px"
+                  },
+                  "opacity": 0.0499999970197678
+                }
+              ],
+              "nestedComponents": null,
+              "source": [
+                {
+                  "artboard": "Components_Button",
+                  "layerName": "Button / Ghost / icon-small",
+                  "objectID": "936A19CA-6F16-4F0F-9383-47258EF93D42"
+                }
+              ],
+              "confidence": "high"
+            },
+            {
+              "name": "text-primary-large",
+              "geometry": {
+                "width": 71,
+                "height": 30,
+                "minWidth": null,
+                "maxWidth": null
+              },
+              "spacing": {
+                "derived": true,
+                "note": "텍스트 rect와 심볼 rect의 차이에서 계산된 실측값 (문서화된 토큰 아님)",
+                "textPadding": {
+                  "left": 12,
+                  "right": 12,
+                  "top": 6,
+                  "bottom": 6
+                }
+              },
+              "border": {
+                "border": null,
+                "borderRadius": "3px",
+                "sourceLayer": "Container"
+              },
+              "background": {
+                "color": null,
+                "opacity": 0.05,
+                "boxShadow": null,
+                "sourceLayer": "Container"
+              },
+              "typography": [
+                {
+                  "role": "Label",
+                  "content": "Button",
+                  "fontFamily": "SamsungOne-700",
+                  "fontSize": "15px",
+                  "fontWeight": 700,
+                  "lineHeight": "18px",
+                  "color": "#0072FF",
+                  "textAlign": null,
+                  "derivedPadding": {
+                    "left": 12,
+                    "right": 12,
+                    "top": 6,
+                    "bottom": 6
+                  }
+                }
+              ],
+              "icon": null,
+              "content": [
+                "Button"
+              ],
+              "behavior": null,
+              "responsive": null,
+              "stateOverlays": null,
+              "nestedComponents": null,
+              "source": [
+                {
+                  "artboard": "Components_Button",
+                  "layerName": "Button / Ghost / text-primary-large",
+                  "objectID": "7054F598-E856-4278-8F73-1DC9CBD46EE1"
+                }
+              ],
+              "confidence": "high"
+            },
+            {
+              "name": "text-primary-medium",
+              "geometry": {
+                "width": 65,
+                "height": 30,
+                "minWidth": null,
+                "maxWidth": null
+              },
+              "spacing": {
+                "derived": true,
+                "note": "텍스트 rect와 심볼 rect의 차이에서 계산된 실측값 (문서화된 토큰 아님)",
+                "textPadding": {
+                  "left": 12,
+                  "right": 12,
+                  "top": 7,
+                  "bottom": 7
+                }
+              },
+              "border": {
+                "border": null,
+                "borderRadius": "3px",
+                "sourceLayer": "Container"
+              },
+              "background": {
+                "color": null,
+                "opacity": 0.05,
+                "boxShadow": null,
+                "sourceLayer": "Container"
+              },
+              "typography": [
+                {
+                  "role": "Label",
+                  "content": "Button",
+                  "fontFamily": "SamsungOne-700",
+                  "fontSize": "13px",
+                  "fontWeight": 700,
+                  "lineHeight": "16px",
+                  "color": "#0072FF",
+                  "textAlign": null,
+                  "derivedPadding": {
+                    "left": 12,
+                    "right": 12,
+                    "top": 7,
+                    "bottom": 7
+                  }
+                }
+              ],
+              "icon": null,
+              "content": [
+                "Button"
+              ],
+              "behavior": null,
+              "responsive": null,
+              "stateOverlays": null,
+              "nestedComponents": null,
+              "source": [
+                {
+                  "artboard": "Components_Button",
+                  "layerName": "Button / Ghost / text-primary-medium",
+                  "objectID": "B5944B6E-C88C-4729-AF67-FA50EE478FC4"
+                }
+              ],
+              "confidence": "high"
+            },
+            {
+              "name": "text-secondary-large",
+              "geometry": {
+                "width": 71,
+                "height": 30,
+                "minWidth": null,
+                "maxWidth": null
+              },
+              "spacing": {
+                "derived": true,
+                "note": "텍스트 rect와 심볼 rect의 차이에서 계산된 실측값 (문서화된 토큰 아님)",
+                "textPadding": {
+                  "left": 12,
+                  "right": 12,
+                  "top": 6,
+                  "bottom": 6
+                }
+              },
+              "border": {
+                "border": null,
+                "borderRadius": "3px",
+                "sourceLayer": "Container"
+              },
+              "background": {
+                "color": null,
+                "opacity": 0.05,
+                "boxShadow": null,
+                "sourceLayer": "Container"
+              },
+              "typography": [
+                {
+                  "role": "Label",
+                  "content": "Button",
+                  "fontFamily": "SamsungOne-700",
+                  "fontSize": "15px",
+                  "fontWeight": 700,
+                  "lineHeight": "18px",
+                  "color": "#000000",
+                  "textAlign": null,
+                  "derivedPadding": {
+                    "left": 12,
+                    "right": 12,
+                    "top": 6,
+                    "bottom": 6
+                  }
+                }
+              ],
+              "icon": null,
+              "content": [
+                "Button"
+              ],
+              "behavior": null,
+              "responsive": null,
+              "stateOverlays": null,
+              "nestedComponents": null,
+              "source": [
+                {
+                  "artboard": "Components_Button",
+                  "layerName": "Button / Ghost / text-secondary-large",
+                  "objectID": "197E2FD3-1D5D-4791-A8D0-C777BF4096AE"
+                }
+              ],
+              "confidence": "high"
+            },
+            {
+              "name": "text-secondary-medium",
+              "geometry": {
+                "width": 65,
+                "height": 30,
+                "minWidth": null,
+                "maxWidth": null
+              },
+              "spacing": {
+                "derived": true,
+                "note": "텍스트 rect와 심볼 rect의 차이에서 계산된 실측값 (문서화된 토큰 아님)",
+                "textPadding": {
+                  "left": 12,
+                  "right": 12,
+                  "top": 7,
+                  "bottom": 7
+                }
+              },
+              "border": {
+                "border": null,
+                "borderRadius": "3px",
+                "sourceLayer": "Container"
+              },
+              "background": {
+                "color": null,
+                "opacity": 0.05,
+                "boxShadow": null,
+                "sourceLayer": "Container"
+              },
+              "typography": [
+                {
+                  "role": "Label",
+                  "content": "Button",
+                  "fontFamily": "SamsungOne-700",
+                  "fontSize": "13px",
+                  "fontWeight": 700,
+                  "lineHeight": "16px",
+                  "color": "#000000",
+                  "textAlign": null,
+                  "derivedPadding": {
+                    "left": 12,
+                    "right": 12,
+                    "top": 7,
+                    "bottom": 7
+                  }
+                }
+              ],
+              "icon": null,
+              "content": [
+                "Button"
+              ],
+              "behavior": null,
+              "responsive": null,
+              "stateOverlays": null,
+              "nestedComponents": null,
+              "source": [
+                {
+                  "artboard": "Components_Button",
+                  "layerName": "Button / Ghost / text-secondary-medium",
+                  "objectID": "647DE04D-D288-45D3-8A7E-734C40FD4D49"
+                }
+              ],
+              "confidence": "high"
+            }
+          ]
+        },
+        {
+          "name": "ghost-icon",
+          "states": [
+            {
+              "name": "large",
+              "geometry": {
+                "width": 28,
+                "height": 28,
+                "minWidth": null,
+                "maxWidth": null
+              },
+              "spacing": null,
+              "border": null,
+              "background": null,
+              "typography": null,
+              "icon": [
+                {
+                  "name": "Icon",
+                  "width": 16,
+                  "height": 16,
+                  "derivedInset": {
+                    "left": 6,
+                    "top": 6
+                  }
+                }
+              ],
+              "content": null,
+              "behavior": null,
+              "responsive": null,
+              "stateOverlays": [
+                {
+                  "name": "Hover state",
+                  "css": {
+                    "opacity": "0.05",
+                    "border-radius": "4px"
+                  },
+                  "opacity": 0.0499999970197678
+                }
+              ],
+              "nestedComponents": null,
+              "source": [
+                {
+                  "artboard": "Components_Button",
+                  "layerName": "Button / ghost-icon / large",
+                  "objectID": "B7AC1FD7-57B6-4063-9C76-587B48845C96"
+                }
+              ],
+              "confidence": "high"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,225 @@
+{
+  "artboard": "Pattern_Dashboard responsive",
+  "statements": [
+    {
+      "content": "Column 의 max width 130px에 도달하면 더이상 늘어나지 않는다.\n그리드는 왼쪽정렬을 유지한채 우측영역은 빈칸으로 늘어난다.",
+      "source": {
+        "artboard": "Pattern_Dashboard responsive",
+        "layerName": "Text Copy 50",
+        "objectID": "67C28E08-D53F-4EFE-BCA2-8EA2AA0DE763"
+      }
+    },
+    {
+      "content": "Increase by 2 columns per Breakpoint as browser width increases (972px, 1206px, 1440px, 1674px, 1908px).",
+      "source": {
+        "artboard": "Pattern_Dashboard responsive",
+        "layerName": "Text Copy 17",
+        "objectID": "985CC749-CE5D-44F4-AD44-B2DB19A9FDEF"
+      }
+    },
+    {
+      "content": "If it consists only of cards",
+      "source": {
+        "artboard": "Pattern_Dashboard responsive",
+        "layerName": "If it consists only",
+        "objectID": "D1BF3772-B0C2-45C4-98E3-0D982FA4E8AA"
+      }
+    },
+    {
+      "content": "&#91Contents size]\n1440px - 12 column",
+      "source": {
+        "artboard": "Pattern_Dashboard responsive",
+        "layerName": "Text",
+        "objectID": "B475E839-08AE-4281-9D76-93038600F80C"
+      }
+    },
+    {
+      "content": "&#91Contents size]\n1139px - 8 column",
+      "source": {
+        "artboard": "Pattern_Dashboard responsive",
+        "layerName": "Text Copy 6",
+        "objectID": "C0D8C9F9-36D7-4601-89B4-0165E4AE4D26"
+      }
+    },
+    {
+      "content": "If it consists of elements (RNB, LNB) in addition to the card",
+      "source": {
+        "artboard": "Pattern_Dashboard responsive",
+        "layerName": "If it consists of el",
+        "objectID": "968481F3-2E3B-43BF-8F6E-9D1068BADD02"
+      }
+    },
+    {
+      "content": "&gt; If it consists only of cards\n&gt; When configured with elements other than cards (RNB, LNB)",
+      "source": {
+        "artboard": "Pattern_Dashboard responsive",
+        "layerName": "Text Copy 7",
+        "objectID": "128C86C0-3636-4571-A760-E6286472116B"
+      }
+    },
+    {
+      "content": "eg. If the browser width increases from 1440px to 1673px.",
+      "source": {
+        "artboard": "Pattern_Dashboard responsive",
+        "layerName": "Text Copy 14",
+        "objectID": "00F9FD9E-326B-4198-9B7C-34221614BE31"
+      }
+    },
+    {
+      "content": "Last updated: Oct 24, 2025",
+      "source": {
+        "artboard": "Pattern_Dashboard responsive",
+        "layerName": "Text Copy 5",
+        "objectID": "634FE0A4-C50D-4B53-9A5E-620674711169"
+      }
+    },
+    {
+      "content": "The size of the card increases and decreases depending on the size of the browser so that the screen can be viewed effectively according to the purpose of monitoring.",
+      "source": {
+        "artboard": "Pattern_Dashboard responsive",
+        "layerName": "Text",
+        "objectID": "CE73FB04-9F5B-44E3-B2D9-C9C53C61F843"
+      }
+    },
+    {
+      "content": "Reactive column grids consist of columns, gutter, and margins to provide a convenient structure for the layout of elements within the body area. Components align with column grids to ensur ze a consistent layout across screen sizes and directions.\nAs the content area grows or decreases in size, the number of grid columns changes accordingly.",
+      "source": {
+        "artboard": "Pattern_Dashboard responsive",
+        "layerName": "Text Copy 2",
+        "objectID": "BF75B051-DE91-41BC-B8D1-AA1E055A48F3"
+      }
+    },
+    {
+      "content": "When the user resizes the window, the width of the card increases until the next break point. After the break point, the number of columns increases.",
+      "source": {
+        "artboard": "Pattern_Dashboard responsive",
+        "layerName": "When the user resize",
+        "objectID": "7B4EEEC1-D47F-4475-A83D-291E19F830D9"
+      }
+    },
+    {
+      "content": "When the window is stretched and the remaining space is smaller than the width of the next card,  If there&#39;s a card that fits the rest of the space at that time, that card will be displayed (like number 6)",
+      "source": {
+        "artboard": "Pattern_Dashboard responsive",
+        "layerName": "When the window is s",
+        "objectID": "D05795ED-70EB-4E75-B389-7249AF6E99D1"
+      }
+    },
+    {
+      "content": "When the window is stretched and the remaining space is smaller than the width of the next card,",
+      "source": {
+        "artboard": "Pattern_Dashboard responsive",
+        "layerName": "When the window is s",
+        "objectID": "C68F39BA-86F7-4022-8C0E-9C16E00F76B5"
+      }
+    },
+    {
+      "content": "If there&#39;s a card that fits the rest of the space at that time,",
+      "source": {
+        "artboard": "Pattern_Dashboard responsive",
+        "layerName": "If there&#39;s a card th",
+        "objectID": "319F23CA-CDDA-42FE-B9D6-CB01DA02EA4B"
+      }
+    },
+    {
+      "content": "that card will be displayed (like number 6)",
+      "source": {
+        "artboard": "Pattern_Dashboard responsive",
+        "layerName": "that card will be di",
+        "objectID": "AB019835-D5C2-4EF1-AA5B-BE12A54DF2FA"
+      }
+    },
+    {
+      "content": "Out-of-standard card sizes often leave empty space in the width of the screen. To avoid this, we recommend using the same card width or standardized width.",
+      "source": {
+        "artboard": "Pattern_Dashboard responsive",
+        "layerName": "Out-of-standard card",
+        "objectID": "1BEEAEF6-D5CD-4083-9D66-3CCC9BD2DD71"
+      }
+    },
+    {
+      "content": "Cards reorder to appropriate positions when user selects and drags the card to desired area.",
+      "source": {
+        "artboard": "Pattern_Dashboard responsive",
+        "layerName": "Cards reorder to app",
+        "objectID": "3082CB62-4442-4BCE-85AC-3004767FC36A"
+      }
+    },
+    {
+      "content": "60% of the diameter\nRound to nearest even number",
+      "source": {
+        "artboard": "Pattern_Dashboard responsive",
+        "layerName": "60% of the diameter",
+        "objectID": "70260D66-7F8B-4787-8EAF-AE481F3CE798"
+      }
+    },
+    {
+      "content": "Round to nearest even number",
+      "source": {
+        "artboard": "Pattern_Dashboard responsive",
+        "layerName": "Round to nearest eve",
+        "objectID": "3F51C6C8-F279-4372-A638-BC1B5C11D4EB"
+      }
+    },
+    {
+      "content": "Lorem ipsum dolor sit amet, consectetur adipi…",
+      "source": {
+        "artboard": "Pattern_Dashboard responsive",
+        "layerName": "Text",
+        "objectID": "C20F3405-EA48-4864-8250-C16F823C55A5"
+      }
+    },
+    {
+      "content": "Dashboard Responsive 1.0\n(New)",
+      "source": {
+        "artboard": "Pattern_Dashboard responsive",
+        "layerName": "Text",
+        "objectID": "54C99B7F-B999-416C-8B3A-F6B155939A97"
+      }
+    },
+    {
+      "content": "• The existing dashboard design guidelines have been reorganized into three refined categories: UI, Card, Responsive.\n   - Add Dashboard responsive guideline",
+      "source": {
+        "artboard": "Pattern_Dashboard responsive",
+        "layerName": "Text",
+        "objectID": "483C68FA-28C6-437C-8610-2FD8930F8A4C"
+      }
+    },
+    {
+      "content": "• Change the dashboard card border color to #C0C0C0 (previously had opacity applied).",
+      "source": {
+        "artboard": "Pattern_Dashboard responsive",
+        "layerName": "Text",
+        "objectID": "483C68FA-28C6-437C-8610-2FD8930F8A4C"
+      }
+    }
+  ],
+  "usedComponents": {
+    "1": 22,
+    "2": 14,
+    "3": 14,
+    "4": 12,
+    "5": 10,
+    "6": 4,
+    "7": 4,
+    "8": 4,
+    "9": 4,
+    "Chart/Legend/Horizontal/1row value_1": 40,
+    "Chart/Legend/Vertical 1": 38,
+    "Card / Header": 18,
+    "Horizontal text / Line graph usage": 12,
+    "Chart / Grid common / Horizontal grid / 9": 12,
+    "Button / ghost-icon / medium (enabled)": 8,
+    "Chart / Placeholder": 6,
+    "X": 6,
+    "Chart / Grid common / Legend / H3": 4,
+    "Y": 4,
+    "Chart/Chart type/Line chart 3": 4,
+    "Chart/- Alarm chart/Critical L1": 2,
+    "Chart/Legend/Horizontal/1row value compact_3": 2,
+    "Scroll / Classic vertical": 2,
+    "Chart/Chart type/VBar chart 4": 2,
+    "y_label_metric": 2,
+    "Cursor / Selection Cursor": 1
+  }
+}

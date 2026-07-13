@@ -1,0 +1,109 @@
+{
+  "sourceArtboard": "Components_Tree view",
+  "components": [
+    {
+      "component": "Tree",
+      "description": null,
+      "variants": [
+        {
+          "name": "Case",
+          "states": [
+            {
+              "name": "(unspecified)",
+              "geometry": {
+                "width": 20,
+                "height": 20,
+                "minWidth": null,
+                "maxWidth": null
+              },
+              "spacing": null,
+              "border": null,
+              "background": null,
+              "typography": null,
+              "icon": [
+                {
+                  "name": "Tree / Case",
+                  "width": 20,
+                  "height": 20,
+                  "derivedInset": {
+                    "left": 0,
+                    "top": 0
+                  }
+                }
+              ],
+              "content": null,
+              "behavior": null,
+              "responsive": null,
+              "stateOverlays": null,
+              "nestedComponents": null,
+              "source": [
+                {
+                  "artboard": "Components_Button",
+                  "layerName": "Tree / Case",
+                  "objectID": "68DE6630-1AE5-4CE7-84C9-648DB052F66C"
+                },
+                {
+                  "artboard": "Components_Button",
+                  "layerName": "Tree / Case",
+                  "objectID": "68DE6630-1AE5-4CE7-84C9-648DB052F66C"
+                },
+                {
+                  "artboard": "Components_Date and time picker",
+                  "layerName": "Tree / Case",
+                  "objectID": "68DE6630-1AE5-4CE7-84C9-648DB052F66C"
+                },
+                {
+                  "artboard": "Components_Date and time picker",
+                  "layerName": "Tree / Case",
+                  "objectID": "68DE6630-1AE5-4CE7-84C9-648DB052F66C"
+                },
+                {
+                  "artboard": "Components_Date and time picker",
+                  "layerName": "Tree / Case",
+                  "objectID": "68DE6630-1AE5-4CE7-84C9-648DB052F66C"
+                },
+                {
+                  "artboard": "Components_Date and time picker",
+                  "layerName": "Tree / Case",
+                  "objectID": "68DE6630-1AE5-4CE7-84C9-648DB052F66C"
+                },
+                {
+                  "artboard": "Components_Date and time picker",
+                  "layerName": "Tree / Case",
+                  "objectID": "68DE6630-1AE5-4CE7-84C9-648DB052F66C"
+                },
+                {
+                  "artboard": "Components_Date and time picker",
+                  "layerName": "Tree / Case",
+                  "objectID": "68DE6630-1AE5-4CE7-84C9-648DB052F66C"
+                },
+                {
+                  "artboard": "Components_Date and time picker",
+                  "layerName": "Tree / Case",
+                  "objectID": "68DE6630-1AE5-4CE7-84C9-648DB052F66C"
+                },
+                {
+                  "artboard": "Components_Date and time picker",
+                  "layerName": "Tree / Case",
+                  "objectID": "68DE6630-1AE5-4CE7-84C9-648DB052F66C"
+                },
+                {
+                  "artboard": "Components_Date and time picker",
+                  "layerName": "Tree / Case",
+                  "objectID": "68DE6630-1AE5-4CE7-84C9-648DB052F66C"
+                },
+                {
+                  "artboard": "Components_Date and time picker",
+                  "layerName": "Tree / Case",
+                  "objectID": "68DE6630-1AE5-4CE7-84C9-648DB052F66C"
+                }
+              ],
+              "confidence": "medium",
+              "note": "홈 아트보드에 심볼 정의가 없어 다른 아트보드의 반복 사용례에서 추출됨"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

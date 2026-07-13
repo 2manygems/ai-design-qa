@@ -1,0 +1,165 @@
+{
+  "sourceArtboard": "Components_Tooltip",
+  "components": [
+    {
+      "component": "Tooltip",
+      "description": null,
+      "variants": [
+        {
+          "name": "Function Name",
+          "states": [
+            {
+              "name": "(unspecified)",
+              "geometry": {
+                "width": null,
+                "height": 30,
+                "minWidth": null,
+                "maxWidth": null,
+                "observedWidths": [
+                  50,
+                  69,
+                  79,
+                  83,
+                  90,
+                  93,
+                  96,
+                  112,
+                  127,
+                  147,
+                  154,
+                  215
+                ],
+                "widthNote": "인스턴스마다 다름 (콘텐츠 의존) — 고정 규칙 아님"
+              },
+              "spacing": {
+                "derived": true,
+                "note": "텍스트 rect와 심볼 rect의 차이에서 계산된 실측값 (문서화된 토큰 아님)",
+                "textPadding": {
+                  "left": 10,
+                  "right": 10,
+                  "top": 7,
+                  "bottom": 7
+                }
+              },
+              "border": {
+                "border": null,
+                "borderRadius": "4px",
+                "sourceLayer": "Mask"
+              },
+              "background": {
+                "color": "#FFFFFF",
+                "opacity": null,
+                "boxShadow": "0 4px 5px 0 rgba(0,0,0,0.14), 0 1px 10px 0 rgba(0,0,0,0.12), 0 2px 4px -1px rgba(0,0,0,0.20)",
+                "sourceLayer": "Mask"
+              },
+              "typography": [
+                {
+                  "role": "Tooltip",
+                  "content": "Report command",
+                  "fontFamily": "SamsungOne-700",
+                  "fontSize": "12px",
+                  "fontWeight": 700,
+                  "lineHeight": "16px",
+                  "color": "#000000",
+                  "textAlign": "center",
+                  "derivedPadding": {
+                    "left": 10,
+                    "right": 10,
+                    "top": 7,
+                    "bottom": 7
+                  }
+                }
+              ],
+              "icon": null,
+              "content": [
+                "Report command"
+              ],
+              "behavior": null,
+              "responsive": null,
+              "stateOverlays": null,
+              "nestedComponents": null,
+              "source": [
+                {
+                  "artboard": "Components_Tooltip",
+                  "layerName": "Tooltip / Function Name",
+                  "objectID": "3E4893F3-A6ED-4300-AE4B-9BBCCC3B09FB"
+                },
+                {
+                  "artboard": "Components_Tooltip",
+                  "layerName": "Tooltip / Function Name",
+                  "objectID": "3E4893F3-A6ED-4300-AE4B-9BBCCC3B09FB"
+                },
+                {
+                  "artboard": "Components_Tooltip",
+                  "layerName": "Tooltip / Function Name",
+                  "objectID": "3E4893F3-A6ED-4300-AE4B-9BBCCC3B09FB"
+                },
+                {
+                  "artboard": "Components_Tooltip",
+                  "layerName": "Tooltip / Function Name",
+                  "objectID": "3E4893F3-A6ED-4300-AE4B-9BBCCC3B09FB"
+                },
+                {
+                  "artboard": "Components_Tooltip",
+                  "layerName": "Tooltip / Function Name",
+                  "objectID": "3E4893F3-A6ED-4300-AE4B-9BBCCC3B09FB"
+                },
+                {
+                  "artboard": "Components_Tooltip",
+                  "layerName": "Tooltip / Function Name",
+                  "objectID": "3E4893F3-A6ED-4300-AE4B-9BBCCC3B09FB"
+                },
+                {
+                  "artboard": "Components_Tooltip",
+                  "layerName": "Tooltip / Function Name",
+                  "objectID": "3E4893F3-A6ED-4300-AE4B-9BBCCC3B09FB"
+                },
+                {
+                  "artboard": "Components_Tooltip",
+                  "layerName": "Tooltip / Function Name Copy",
+                  "objectID": "3E4893F3-A6ED-4300-AE4B-9BBCCC3B09FB"
+                },
+                {
+                  "artboard": "Components_Tooltip",
+                  "layerName": "Tooltip / Function Name Copy 2",
+                  "objectID": "3E4893F3-A6ED-4300-AE4B-9BBCCC3B09FB"
+                },
+                {
+                  "artboard": "Components_Tooltip",
+                  "layerName": "Tooltip / Function Name Copy 2",
+                  "objectID": "3E4893F3-A6ED-4300-AE4B-9BBCCC3B09FB"
+                },
+                {
+                  "artboard": "Components_Tooltip",
+                  "layerName": "Tooltip / Function Name Copy 2",
+                  "objectID": "3E4893F3-A6ED-4300-AE4B-9BBCCC3B09FB"
+                },
+                {
+                  "artboard": "Components_Tooltip",
+                  "layerName": "Tooltip / Function Name Copy 2",
+                  "objectID": "3E4893F3-A6ED-4300-AE4B-9BBCCC3B09FB"
+                },
+                {
+                  "artboard": "Components_Tooltip",
+                  "layerName": "Tooltip / Function Name Copy 3",
+                  "objectID": "3E4893F3-A6ED-4300-AE4B-9BBCCC3B09FB"
+                },
+                {
+                  "artboard": "Components_Tooltip",
+                  "layerName": "Tooltip / Function Name",
+                  "objectID": "3E4893F3-A6ED-4300-AE4B-9BBCCC3B09FB"
+                },
+                {
+                  "artboard": "Components_Tooltip",
+                  "layerName": "Tooltip / Function Name",
+                  "objectID": "3E4893F3-A6ED-4300-AE4B-9BBCCC3B09FB"
+                }
+              ],
+              "confidence": "medium"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

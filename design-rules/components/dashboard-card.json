@@ -1,0 +1,153 @@
+{
+  "sourceArtboard": "Components_Dashboard card",
+  "components": [
+    {
+      "component": "Card",
+      "description": null,
+      "variants": [
+        {
+          "name": "Header",
+          "states": [
+            {
+              "name": "(unspecified)",
+              "geometry": {
+                "width": null,
+                "height": 46,
+                "minWidth": null,
+                "maxWidth": null,
+                "observedWidths": [
+                  358,
+                  436,
+                  456
+                ],
+                "widthNote": "인스턴스마다 다름 (콘텐츠 의존) — 고정 규칙 아님"
+              },
+              "spacing": {
+                "derived": true,
+                "note": "텍스트 rect와 심볼 rect의 차이에서 계산된 실측값 (문서화된 토큰 아님)",
+                "textPadding": {
+                  "left": 16,
+                  "right": 260,
+                  "top": 14,
+                  "bottom": 14
+                }
+              },
+              "border": {
+                "border": null,
+                "borderRadius": "6px 6px 0 0",
+                "sourceLayer": "Rectangle"
+              },
+              "background": {
+                "color": null,
+                "opacity": null,
+                "boxShadow": null,
+                "sourceLayer": "Rectangle"
+              },
+              "typography": [
+                {
+                  "role": "Card title",
+                  "content": "Donut without numbers",
+                  "fontFamily": "SamsungOne-700",
+                  "fontSize": "15px",
+                  "fontWeight": 700,
+                  "lineHeight": null,
+                  "color": "#000000",
+                  "textAlign": null,
+                  "derivedPadding": {
+                    "left": 16,
+                    "right": 260,
+                    "top": 14,
+                    "bottom": 14
+                  }
+                },
+                {
+                  "role": "Subtext",
+                  "content": "subtitle",
+                  "fontFamily": "SamsungOne-400",
+                  "fontSize": "14px",
+                  "fontWeight": 400,
+                  "lineHeight": null,
+                  "color": "#000000",
+                  "textAlign": null,
+                  "derivedPadding": {
+                    "left": 184,
+                    "right": 204,
+                    "top": 15,
+                    "bottom": 14
+                  }
+                }
+              ],
+              "icon": [
+                {
+                  "name": "Basic / help-2",
+                  "width": 16,
+                  "height": 16,
+                  "derivedInset": {
+                    "left": 236,
+                    "top": 15
+                  }
+                }
+              ],
+              "content": [
+                "Donut without numbers",
+                "subtitle"
+              ],
+              "behavior": null,
+              "responsive": null,
+              "stateOverlays": null,
+              "nestedComponents": null,
+              "source": [
+                {
+                  "artboard": "Components_Dashboard card",
+                  "layerName": "Card / Header Copy 4",
+                  "objectID": "DAEE4518-C0A4-4E01-81B9-C758DB6D9CCB"
+                },
+                {
+                  "artboard": "Components_Dashboard card",
+                  "layerName": "Card / Header",
+                  "objectID": "DAEE4518-C0A4-4E01-81B9-C758DB6D9CCB"
+                },
+                {
+                  "artboard": "Components_Dashboard card",
+                  "layerName": "Card / Header",
+                  "objectID": "DAEE4518-C0A4-4E01-81B9-C758DB6D9CCB"
+                },
+                {
+                  "artboard": "Components_Dashboard card",
+                  "layerName": "Card / Header Copy 4",
+                  "objectID": "DAEE4518-C0A4-4E01-81B9-C758DB6D9CCB"
+                },
+                {
+                  "artboard": "Components_Dashboard card",
+                  "layerName": "Card / Header",
+                  "objectID": "DAEE4518-C0A4-4E01-81B9-C758DB6D9CCB"
+                },
+                {
+                  "artboard": "Components_Dashboard card",
+                  "layerName": "Card / Header",
+                  "objectID": "DAEE4518-C0A4-4E01-81B9-C758DB6D9CCB"
+                },
+                {
+                  "artboard": "Components_Dashboard card",
+                  "layerName": "Card / Header",
+                  "objectID": "DAEE4518-C0A4-4E01-81B9-C758DB6D9CCB"
+                },
+                {
+                  "artboard": "Components_Dashboard card",
+                  "layerName": "Card / Header Copy 4",
+                  "objectID": "DAEE4518-C0A4-4E01-81B9-C758DB6D9CCB"
+                },
+                {
+                  "artboard": "Components_Dashboard card",
+                  "layerName": "Card / Header Copy 4",
+                  "objectID": "DAEE4518-C0A4-4E01-81B9-C758DB6D9CCB"
+                }
+              ],
+              "confidence": "medium"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

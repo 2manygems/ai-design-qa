@@ -1,0 +1,315 @@
+{
+  "sourceArtboard": "Components_Filtering",
+  "components": [
+    {
+      "component": "Filter chip",
+      "description": null,
+      "variants": [
+        {
+          "name": "(unspecified)",
+          "states": [
+            {
+              "name": "(unspecified)",
+              "geometry": {
+                "width": null,
+                "height": 22,
+                "minWidth": null,
+                "maxWidth": null,
+                "observedWidths": [
+                  57,
+                  71,
+                  72,
+                  93,
+                  100,
+                  104,
+                  106,
+                  108,
+                  119,
+                  123,
+                  128,
+                  132,
+                  133,
+                  142,
+                  146,
+                  149,
+                  152,
+                  153,
+                  156,
+                  171,
+                  172,
+                  274
+                ],
+                "widthNote": "인스턴스마다 다름 (콘텐츠 의존) — 고정 규칙 아님"
+              },
+              "spacing": {
+                "derived": true,
+                "note": "텍스트 rect와 심볼 rect의 차이에서 계산된 실측값 (문서화된 토큰 아님)",
+                "textPadding": {
+                  "left": 8,
+                  "right": 26,
+                  "top": 4,
+                  "bottom": 4
+                }
+              },
+              "border": {
+                "border": null,
+                "borderRadius": "4px",
+                "sourceLayer": "Container"
+              },
+              "background": {
+                "color": "#D5E8FF",
+                "opacity": null,
+                "boxShadow": null,
+                "sourceLayer": "Container"
+              },
+              "typography": [
+                {
+                  "role": "Text",
+                  "content": "Category 1: B filter",
+                  "fontFamily": "SamsungOne-400",
+                  "fontSize": "12px",
+                  "fontWeight": 400,
+                  "lineHeight": null,
+                  "color": "#000000",
+                  "textAlign": null,
+                  "derivedPadding": {
+                    "left": 8,
+                    "right": 26,
+                    "top": 4,
+                    "bottom": 4
+                  }
+                }
+              ],
+              "icon": [
+                {
+                  "name": "Delete",
+                  "width": 12,
+                  "height": 12,
+                  "derivedInset": {
+                    "left": 113,
+                    "top": 5
+                  }
+                }
+              ],
+              "content": [
+                "Category 1: B filter"
+              ],
+              "behavior": null,
+              "responsive": null,
+              "stateOverlays": null,
+              "nestedComponents": null,
+              "source": [
+                {
+                  "artboard": "Components_Filtering",
+                  "layerName": "Filter chip Copy 8",
+                  "objectID": "A5BC89FD-C5B6-464D-864C-82FD1DF59037"
+                },
+                {
+                  "artboard": "Components_Filtering",
+                  "layerName": "Filter chip Copy 13",
+                  "objectID": "A5BC89FD-C5B6-464D-864C-82FD1DF59037"
+                },
+                {
+                  "artboard": "Components_Filtering",
+                  "layerName": "Filter chip Copy 8",
+                  "objectID": "A5BC89FD-C5B6-464D-864C-82FD1DF59037"
+                },
+                {
+                  "artboard": "Components_Filtering",
+                  "layerName": "Filter chip Copy 13",
+                  "objectID": "A5BC89FD-C5B6-464D-864C-82FD1DF59037"
+                },
+                {
+                  "artboard": "Components_Filtering",
+                  "layerName": "Filter chip Copy 8",
+                  "objectID": "A5BC89FD-C5B6-464D-864C-82FD1DF59037"
+                },
+                {
+                  "artboard": "Components_Filtering",
+                  "layerName": "Filter chip Copy 13",
+                  "objectID": "A5BC89FD-C5B6-464D-864C-82FD1DF59037"
+                },
+                {
+                  "artboard": "Components_Filtering",
+                  "layerName": "Filter chip Copy 6",
+                  "objectID": "A5BC89FD-C5B6-464D-864C-82FD1DF59037"
+                },
+                {
+                  "artboard": "Components_Filtering",
+                  "layerName": "Filter chip",
+                  "objectID": "A5BC89FD-C5B6-464D-864C-82FD1DF59037"
+                },
+                {
+                  "artboard": "Components_Filtering",
+                  "layerName": "Filter chip Copy",
+                  "objectID": "A5BC89FD-C5B6-464D-864C-82FD1DF59037"
+                },
+                {
+                  "artboard": "Components_Filtering",
+                  "layerName": "Filter chip",
+                  "objectID": "A5BC89FD-C5B6-464D-864C-82FD1DF59037"
+                },
+                {
+                  "artboard": "Components_Filtering",
+                  "layerName": "Filter chip",
+                  "objectID": "A5BC89FD-C5B6-464D-864C-82FD1DF59037"
+                },
+                {
+                  "artboard": "Components_Filtering",
+                  "layerName": "Filter chip Copy 18",
+                  "objectID": "A5BC89FD-C5B6-464D-864C-82FD1DF59037"
+                },
+                {
+                  "artboard": "Components_Filtering",
+                  "layerName": "Filter chip Copy 19",
+                  "objectID": "A5BC89FD-C5B6-464D-864C-82FD1DF59037"
+                },
+                {
+                  "artboard": "Components_Filtering",
+                  "layerName": "Filter chip Copy 20",
+                  "objectID": "A5BC89FD-C5B6-464D-864C-82FD1DF59037"
+                },
+                {
+                  "artboard": "Components_Filtering",
+                  "layerName": "Filter chip Copy 14",
+                  "objectID": "A5BC89FD-C5B6-464D-864C-82FD1DF59037"
+                },
+                {
+                  "artboard": "Components_Filtering",
+                  "layerName": "Filter chip Copy 15",
+                  "objectID": "A5BC89FD-C5B6-464D-864C-82FD1DF59037"
+                },
+                {
+                  "artboard": "Components_Filtering",
+                  "layerName": "Filter chip Copy 16",
+                  "objectID": "A5BC89FD-C5B6-464D-864C-82FD1DF59037"
+                },
+                {
+                  "artboard": "Components_Filtering",
+                  "layerName": "Filter chip Copy 21",
+                  "objectID": "A5BC89FD-C5B6-464D-864C-82FD1DF59037"
+                },
+                {
+                  "artboard": "Components_Filtering",
+                  "layerName": "Filter chip Copy 22",
+                  "objectID": "A5BC89FD-C5B6-464D-864C-82FD1DF59037"
+                },
+                {
+                  "artboard": "Components_Filtering",
+                  "layerName": "Filter chip Copy 23",
+                  "objectID": "A5BC89FD-C5B6-464D-864C-82FD1DF59037"
+                },
+                {
+                  "artboard": "Components_Filtering",
+                  "layerName": "Filter chip Copy 24",
+                  "objectID": "A5BC89FD-C5B6-464D-864C-82FD1DF59037"
+                },
+                {
+                  "artboard": "Components_Filtering",
+                  "layerName": "Filter chip Copy 4",
+                  "objectID": "A5BC89FD-C5B6-464D-864C-82FD1DF59037"
+                },
+                {
+                  "artboard": "Components_Filtering",
+                  "layerName": "Filter chip Copy 10",
+                  "objectID": "A5BC89FD-C5B6-464D-864C-82FD1DF59037"
+                },
+                {
+                  "artboard": "Components_Filtering",
+                  "layerName": "Filter chip Copy 11",
+                  "objectID": "A5BC89FD-C5B6-464D-864C-82FD1DF59037"
+                },
+                {
+                  "artboard": "Components_Filtering",
+                  "layerName": "Filter chip Copy 4",
+                  "objectID": "A5BC89FD-C5B6-464D-864C-82FD1DF59037"
+                },
+                {
+                  "artboard": "Components_Filtering",
+                  "layerName": "Filter chip Copy 10",
+                  "objectID": "A5BC89FD-C5B6-464D-864C-82FD1DF59037"
+                },
+                {
+                  "artboard": "Components_Filtering",
+                  "layerName": "Filter chip Copy 11",
+                  "objectID": "A5BC89FD-C5B6-464D-864C-82FD1DF59037"
+                },
+                {
+                  "artboard": "Components_Filtering",
+                  "layerName": "Filter chip",
+                  "objectID": "A5BC89FD-C5B6-464D-864C-82FD1DF59037"
+                },
+                {
+                  "artboard": "Components_Filtering",
+                  "layerName": "Filter chip Copy",
+                  "objectID": "A5BC89FD-C5B6-464D-864C-82FD1DF59037"
+                },
+                {
+                  "artboard": "Components_Filtering",
+                  "layerName": "Filter chip Copy 2",
+                  "objectID": "A5BC89FD-C5B6-464D-864C-82FD1DF59037"
+                },
+                {
+                  "artboard": "Components_Filtering",
+                  "layerName": "Filter chip Copy 6",
+                  "objectID": "A5BC89FD-C5B6-464D-864C-82FD1DF59037"
+                },
+                {
+                  "artboard": "Components_Filtering",
+                  "layerName": "Filter chip Copy 9",
+                  "objectID": "A5BC89FD-C5B6-464D-864C-82FD1DF59037"
+                },
+                {
+                  "artboard": "Components_Filtering",
+                  "layerName": "Filter chip Copy 6",
+                  "objectID": "A5BC89FD-C5B6-464D-864C-82FD1DF59037"
+                },
+                {
+                  "artboard": "Components_Filtering",
+                  "layerName": "Filter chip Copy 6",
+                  "objectID": "A5BC89FD-C5B6-464D-864C-82FD1DF59037"
+                },
+                {
+                  "artboard": "Components_Filtering",
+                  "layerName": "Filter chip Copy 6",
+                  "objectID": "A5BC89FD-C5B6-464D-864C-82FD1DF59037"
+                },
+                {
+                  "artboard": "Components_Filtering",
+                  "layerName": "Filter chip",
+                  "objectID": "A5BC89FD-C5B6-464D-864C-82FD1DF59037"
+                },
+                {
+                  "artboard": "Components_Filtering",
+                  "layerName": "Filter chip",
+                  "objectID": "A5BC89FD-C5B6-464D-864C-82FD1DF59037"
+                },
+                {
+                  "artboard": "Components_Filtering",
+                  "layerName": "Filter chip",
+                  "objectID": "A5BC89FD-C5B6-464D-864C-82FD1DF59037"
+                },
+                {
+                  "artboard": "Components_Filtering",
+                  "layerName": "Filter chip Copy",
+                  "objectID": "A5BC89FD-C5B6-464D-864C-82FD1DF59037"
+                },
+                {
+                  "artboard": "Components_Filtering",
+                  "layerName": "Filter chip Copy 2",
+                  "objectID": "A5BC89FD-C5B6-464D-864C-82FD1DF59037"
+                },
+                {
+                  "artboard": "Components_Filtering",
+                  "layerName": "Filter chip Copy 3",
+                  "objectID": "A5BC89FD-C5B6-464D-864C-82FD1DF59037"
+                }
+              ],
+              "confidence": "medium"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

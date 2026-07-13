@@ -1,0 +1,173 @@
+{
+  "artboard": "Pattern_File upload",
+  "statements": [
+    {
+      "content": "Displaying the name or number of selected files",
+      "source": {
+        "artboard": "Pattern_File upload",
+        "layerName": "Text",
+        "objectID": "3B9A3483-FA23-4882-BAE7-7E80269037A5"
+      }
+    },
+    {
+      "content": "Show the name when single file is selected.",
+      "source": {
+        "artboard": "Pattern_File upload",
+        "layerName": "Text Copy 22",
+        "objectID": "B9C54960-5124-4A53-A30E-0EF4AD3BD18C"
+      }
+    },
+    {
+      "content": "Display the number of files when multiple items are selected.",
+      "source": {
+        "artboard": "Pattern_File upload",
+        "layerName": "Text Copy 21",
+        "objectID": "36B9218D-E2BF-4E7F-BF7B-4F3872A3B7E8"
+      }
+    },
+    {
+      "content": "&gt; Displaying the name or number of selected files\n&gt; Displaying an error message\n&gt; If additional action is required for the file you want to upload",
+      "source": {
+        "artboard": "Pattern_File upload",
+        "layerName": "Text",
+        "objectID": "DD97CAA0-80DD-4736-8579-5838E3A074B9"
+      }
+    },
+    {
+      "content": "No applicable data was found",
+      "source": {
+        "artboard": "Pattern_File upload",
+        "layerName": "Text",
+        "objectID": "E86643DE-D3D5-45F5-9262-08D861F5E3E4"
+      }
+    },
+    {
+      "content": "Displaying an error message",
+      "source": {
+        "artboard": "Pattern_File upload",
+        "layerName": "Text",
+        "objectID": "FD582D6E-B3EA-471B-A964-D7761F519C63"
+      }
+    },
+    {
+      "content": "Display the validation results and guide the user to reselect the file.",
+      "source": {
+        "artboard": "Pattern_File upload",
+        "layerName": "Text Copy 23",
+        "objectID": "F4F7E24C-3026-4C17-91F7-F2D1454AFE64"
+      }
+    },
+    {
+      "content": "This file is not valid. Please select another file.",
+      "source": {
+        "artboard": "Pattern_File upload",
+        "layerName": "Text",
+        "objectID": "63812F55-BFA1-4A77-AA07-D88FB94AA748"
+      }
+    },
+    {
+      "content": "Exception!\nIf the validation result must be clearly recognized by the user, an error message may be displayed in the modal dialog. Since the modal dialog stops the user&#39;s task flow, use it only when it&#39;s necessary.",
+      "source": {
+        "artboard": "Pattern_File upload",
+        "layerName": "Text Copy 23",
+        "objectID": "1E3EF10B-147A-4F6C-8C3A-B88C3121BD47"
+      }
+    },
+    {
+      "content": "If the validation result must be clearly recognized by the user, an error message may be displayed in the modal dialog. Since the modal dialog stops the user&#39;s",
+      "source": {
+        "artboard": "Pattern_File upload",
+        "layerName": "If the validation re",
+        "objectID": "B06F4987-C3B3-4D21-864E-CEF45FD6CD00"
+      }
+    },
+    {
+      "content": "task flow, use it only when it&#39;s necessary.",
+      "source": {
+        "artboard": "Pattern_File upload",
+        "layerName": "task flow, use it on",
+        "objectID": "46919685-D498-4A07-9830-EB6E5746D132"
+      }
+    },
+    {
+      "content": "This file is already selected. Please select another file.",
+      "source": {
+        "artboard": "Pattern_File upload",
+        "layerName": "Text",
+        "objectID": "70A21D78-3350-4134-B9AB-5E44324098DD"
+      }
+    },
+    {
+      "content": "Exception!\nWhen the user selects the same file as the already uploaded file, the options such as  overwrite may be provided in a pop-up dialog.",
+      "source": {
+        "artboard": "Pattern_File upload",
+        "layerName": "Text Copy 23",
+        "objectID": "CFF2BFEA-2D0F-4BC0-B86F-50BE531BFBA4"
+      }
+    },
+    {
+      "content": "When the user selects the same file as the already uploaded file, the options such as  overwrite may be provided in a pop-up dialog.",
+      "source": {
+        "artboard": "Pattern_File upload",
+        "layerName": "When the user select",
+        "objectID": "290258C1-C9E3-412F-B4D0-BECCDA44BE7A"
+      }
+    },
+    {
+      "content": "Select file to load the data.",
+      "source": {
+        "artboard": "Pattern_File upload",
+        "layerName": "Text",
+        "objectID": "704E3BD5-8A20-4F3A-9B5B-43BFB5F76CBC"
+      }
+    },
+    {
+      "content": "If additional action is required for the file you want to upload",
+      "source": {
+        "artboard": "Pattern_File upload",
+        "layerName": "Text",
+        "objectID": "736DBC5F-7D01-4F16-A8C5-564AE911FDDA"
+      }
+    },
+    {
+      "content": "If you need only some of the selected file data, a data table UI for viewing items should be provided using a pop-up dialog.",
+      "source": {
+        "artboard": "Pattern_File upload",
+        "layerName": "Text Copy 23",
+        "objectID": "89EB8C45-1375-4AE4-A4B4-B4A3B9F4DD37"
+      }
+    },
+    {
+      "content": "1. Use a local browser and make the user&#39;s task flow concise.\n2. Provide a validation check (or duplication check) if necessary right after the user selects a file.\n3. Display an error message as inline text.\n4. If a user&#39;s additional action is required after selecting a file, a Client UI such as a pop-up dialog can be added to the flow.",
+      "source": {
+        "artboard": "Pattern_File upload",
+        "layerName": "Text",
+        "objectID": "C1296085-6347-49DD-B621-093A3EAE56E8"
+      }
+    },
+    {
+      "content": "The user can upload a single or multiple files to the client app to complete the task.",
+      "source": {
+        "artboard": "Pattern_File upload",
+        "layerName": "Text",
+        "objectID": "D9E6EEC6-FAB7-4E88-824D-4C39A6CDB3FE"
+      }
+    },
+    {
+      "content": "Last updated: Dec 6, 2022",
+      "source": {
+        "artboard": "Pattern_File upload",
+        "layerName": "Text Copy 5",
+        "objectID": "F8DDE498-F8B4-4D41-A172-7AE61AEB4409"
+      }
+    }
+  ],
+  "usedComponents": {
+    "Button / contained-text / secondary-default": 11,
+    "Button 2": 5,
+    "Icon": 2,
+    "Input / Text input / Enabled": 2,
+    "Button / contained-text / primary-default (disabled)": 2,
+    "Pagination / Items per page": 1
+  }
+}

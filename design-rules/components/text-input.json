@@ -1,0 +1,1589 @@
+{
+  "sourceArtboard": "Components_Text input",
+  "components": [
+    {
+      "component": "Input",
+      "description": null,
+      "variants": [
+        {
+          "name": "Dropdown",
+          "states": [
+            {
+              "name": "Enabled",
+              "geometry": {
+                "width": null,
+                "height": 30,
+                "minWidth": null,
+                "maxWidth": null,
+                "observedWidths": [
+                  145,
+                  176,
+                  190,
+                  228,
+                  252,
+                  311,
+                  312
+                ],
+                "widthNote": "인스턴스마다 다름 (콘텐츠 의존) — 고정 규칙 아님"
+              },
+              "spacing": {
+                "derived": true,
+                "note": "텍스트 rect와 심볼 rect의 차이에서 계산된 실측값 (문서화된 토큰 아님)",
+                "textPadding": {
+                  "left": 10,
+                  "right": 32,
+                  "top": 6,
+                  "bottom": 6
+                }
+              },
+              "border": {
+                "border": "1px solid #8A8A8A",
+                "borderRadius": "4px",
+                "sourceLayer": "Container"
+              },
+              "background": {
+                "color": "#FFFFFF",
+                "opacity": null,
+                "boxShadow": null,
+                "sourceLayer": "Container"
+              },
+              "typography": [
+                {
+                  "role": "Text",
+                  "content": "Selected value",
+                  "fontFamily": "SamsungOne-400",
+                  "fontSize": "14px",
+                  "fontWeight": 400,
+                  "lineHeight": "18px",
+                  "color": "#000000",
+                  "textAlign": null,
+                  "derivedPadding": {
+                    "left": 10,
+                    "right": 32,
+                    "top": 6,
+                    "bottom": 6
+                  }
+                }
+              ],
+              "icon": [
+                {
+                  "name": "sort",
+                  "width": 16,
+                  "height": 16,
+                  "derivedInset": {
+                    "left": 288,
+                    "top": 7
+                  }
+                }
+              ],
+              "content": [
+                "Selected value"
+              ],
+              "behavior": null,
+              "responsive": null,
+              "stateOverlays": null,
+              "nestedComponents": null,
+              "source": [
+                {
+                  "artboard": "Components_Banner",
+                  "layerName": "Input / Dropdown / Enabled",
+                  "objectID": "8297D85B-7CDB-4B4B-8689-9A92D4A17191"
+                },
+                {
+                  "artboard": "Components_Dialogs",
+                  "layerName": "Input / Dropdown / Enabled",
+                  "objectID": "8297D85B-7CDB-4B4B-8689-9A92D4A17191"
+                },
+                {
+                  "artboard": "Components_Dropdown list",
+                  "layerName": "Input / Dropdown / Enabled Copy",
+                  "objectID": "8297D85B-7CDB-4B4B-8689-9A92D4A17191"
+                },
+                {
+                  "artboard": "Components_Dropdown list",
+                  "layerName": "Input / Dropdown / Enabled Copy",
+                  "objectID": "8297D85B-7CDB-4B4B-8689-9A92D4A17191"
+                },
+                {
+                  "artboard": "Components_Dropdown list",
+                  "layerName": "Input / Dropdown / Enabled",
+                  "objectID": "8297D85B-7CDB-4B4B-8689-9A92D4A17191"
+                },
+                {
+                  "artboard": "Components_Dropdown list",
+                  "layerName": "Input / Dropdown / Enabled",
+                  "objectID": "8297D85B-7CDB-4B4B-8689-9A92D4A17191"
+                },
+                {
+                  "artboard": "Components_Dropdown list",
+                  "layerName": "Input / Dropdown / Enabled",
+                  "objectID": "8297D85B-7CDB-4B4B-8689-9A92D4A17191"
+                },
+                {
+                  "artboard": "Components_Error messages",
+                  "layerName": "Input / Dropdown / Enabled",
+                  "objectID": "8297D85B-7CDB-4B4B-8689-9A92D4A17191"
+                },
+                {
+                  "artboard": "Components_Form",
+                  "layerName": "Input / Dropdown / Enabled",
+                  "objectID": "8297D85B-7CDB-4B4B-8689-9A92D4A17191"
+                },
+                {
+                  "artboard": "Components_Form",
+                  "layerName": "Input / Dropdown / Enabled",
+                  "objectID": "8297D85B-7CDB-4B4B-8689-9A92D4A17191"
+                },
+                {
+                  "artboard": "Components_Form",
+                  "layerName": "Input / Dropdown / Enabled",
+                  "objectID": "8297D85B-7CDB-4B4B-8689-9A92D4A17191"
+                },
+                {
+                  "artboard": "Components_Form",
+                  "layerName": "Input / Dropdown / Enabled",
+                  "objectID": "8297D85B-7CDB-4B4B-8689-9A92D4A17191"
+                },
+                {
+                  "artboard": "Components_Form",
+                  "layerName": "Input / Dropdown / Enabled",
+                  "objectID": "8297D85B-7CDB-4B4B-8689-9A92D4A17191"
+                },
+                {
+                  "artboard": "Components_Form",
+                  "layerName": "Input / Dropdown / Enabled",
+                  "objectID": "8297D85B-7CDB-4B4B-8689-9A92D4A17191"
+                },
+                {
+                  "artboard": "Components_Form",
+                  "layerName": "Input / Dropdown / Enabled",
+                  "objectID": "8297D85B-7CDB-4B4B-8689-9A92D4A17191"
+                },
+                {
+                  "artboard": "Components_Form",
+                  "layerName": "Input / Dropdown / Enabled",
+                  "objectID": "8297D85B-7CDB-4B4B-8689-9A92D4A17191"
+                },
+                {
+                  "artboard": "Components_Form",
+                  "layerName": "Input / Dropdown / Enabled",
+                  "objectID": "8297D85B-7CDB-4B4B-8689-9A92D4A17191"
+                },
+                {
+                  "artboard": "Components_Form",
+                  "layerName": "Input / Dropdown / Enabled",
+                  "objectID": "8297D85B-7CDB-4B4B-8689-9A92D4A17191"
+                },
+                {
+                  "artboard": "Components_Form",
+                  "layerName": "Input / Dropdown / Enabled",
+                  "objectID": "8297D85B-7CDB-4B4B-8689-9A92D4A17191"
+                },
+                {
+                  "artboard": "Components_Form",
+                  "layerName": "Input / Dropdown / Enabled",
+                  "objectID": "8297D85B-7CDB-4B4B-8689-9A92D4A17191"
+                },
+                {
+                  "artboard": "Components_Form",
+                  "layerName": "Input / Dropdown / Enabled",
+                  "objectID": "8297D85B-7CDB-4B4B-8689-9A92D4A17191"
+                },
+                {
+                  "artboard": "Components_Form",
+                  "layerName": "Input / Dropdown / Enabled",
+                  "objectID": "8297D85B-7CDB-4B4B-8689-9A92D4A17191"
+                },
+                {
+                  "artboard": "Components_Form",
+                  "layerName": "Input / Dropdown / Enabled",
+                  "objectID": "8297D85B-7CDB-4B4B-8689-9A92D4A17191"
+                },
+                {
+                  "artboard": "Components_Form",
+                  "layerName": "Input / Dropdown / Enabled",
+                  "objectID": "8297D85B-7CDB-4B4B-8689-9A92D4A17191"
+                },
+                {
+                  "artboard": "Components_Form",
+                  "layerName": "Input / Dropdown / Enabled",
+                  "objectID": "8297D85B-7CDB-4B4B-8689-9A92D4A17191"
+                },
+                {
+                  "artboard": "Components_Form",
+                  "layerName": "Input / Dropdown / Enabled",
+                  "objectID": "8297D85B-7CDB-4B4B-8689-9A92D4A17191"
+                },
+                {
+                  "artboard": "Components_Form",
+                  "layerName": "Input / Dropdown / Enabled",
+                  "objectID": "8297D85B-7CDB-4B4B-8689-9A92D4A17191"
+                },
+                {
+                  "artboard": "Components_Form",
+                  "layerName": "Input / Dropdown / Enabled",
+                  "objectID": "8297D85B-7CDB-4B4B-8689-9A92D4A17191"
+                },
+                {
+                  "artboard": "Components_Form",
+                  "layerName": "Input / Dropdown / Enabled",
+                  "objectID": "8297D85B-7CDB-4B4B-8689-9A92D4A17191"
+                },
+                {
+                  "artboard": "Components_Form",
+                  "layerName": "Input / Dropdown / Enabled",
+                  "objectID": "8297D85B-7CDB-4B4B-8689-9A92D4A17191"
+                },
+                {
+                  "artboard": "Components_Form",
+                  "layerName": "Input / Dropdown / Enabled",
+                  "objectID": "8297D85B-7CDB-4B4B-8689-9A92D4A17191"
+                },
+                {
+                  "artboard": "Components_Form",
+                  "layerName": "Input / Dropdown / Enabled Copy",
+                  "objectID": "8297D85B-7CDB-4B4B-8689-9A92D4A17191"
+                },
+                {
+                  "artboard": "Components_Form",
+                  "layerName": "Input / Dropdown / Enabled Copy 2",
+                  "objectID": "8297D85B-7CDB-4B4B-8689-9A92D4A17191"
+                },
+                {
+                  "artboard": "Components_Form",
+                  "layerName": "Input / Dropdown / Enabled",
+                  "objectID": "8297D85B-7CDB-4B4B-8689-9A92D4A17191"
+                },
+                {
+                  "artboard": "Components_Form",
+                  "layerName": "Input / Dropdown / Enabled",
+                  "objectID": "8297D85B-7CDB-4B4B-8689-9A92D4A17191"
+                },
+                {
+                  "artboard": "Components_Form",
+                  "layerName": "Input / Dropdown / Enabled",
+                  "objectID": "8297D85B-7CDB-4B4B-8689-9A92D4A17191"
+                },
+                {
+                  "artboard": "Components_Form",
+                  "layerName": "Input / Dropdown / Enabled Copy",
+                  "objectID": "8297D85B-7CDB-4B4B-8689-9A92D4A17191"
+                },
+                {
+                  "artboard": "Components_Form",
+                  "layerName": "Input / Dropdown / Enabled Copy",
+                  "objectID": "8297D85B-7CDB-4B4B-8689-9A92D4A17191"
+                },
+                {
+                  "artboard": "Components_Sort by",
+                  "layerName": "Input / Dropdown / Enabled",
+                  "objectID": "8297D85B-7CDB-4B4B-8689-9A92D4A17191"
+                },
+                {
+                  "artboard": "Components_Sort by",
+                  "layerName": "Input / Dropdown / Enabled",
+                  "objectID": "8297D85B-7CDB-4B4B-8689-9A92D4A17191"
+                },
+                {
+                  "artboard": "Components_Sort by",
+                  "layerName": "Input / Dropdown / Enabled",
+                  "objectID": "8297D85B-7CDB-4B4B-8689-9A92D4A17191"
+                }
+              ],
+              "confidence": "low",
+              "note": "홈 아트보드에 심볼 정의가 없어 다른 아트보드의 반복 사용례에서 추출됨"
+            },
+            {
+              "name": "Enabled (Filled in)",
+              "geometry": {
+                "width": null,
+                "height": 30,
+                "minWidth": null,
+                "maxWidth": null,
+                "observedWidths": [
+                  252,
+                  312,
+                  356
+                ],
+                "widthNote": "인스턴스마다 다름 (콘텐츠 의존) — 고정 규칙 아님"
+              },
+              "spacing": {
+                "derived": true,
+                "note": "텍스트 rect와 심볼 rect의 차이에서 계산된 실측값 (문서화된 토큰 아님)",
+                "textPadding": {
+                  "left": 10,
+                  "right": 32,
+                  "top": 6,
+                  "bottom": 6
+                }
+              },
+              "border": {
+                "border": "1px solid #8A8A8A",
+                "borderRadius": "4px",
+                "sourceLayer": "Container"
+              },
+              "background": {
+                "color": "#FFFFFF",
+                "opacity": null,
+                "boxShadow": null,
+                "sourceLayer": "Container"
+              },
+              "typography": [
+                {
+                  "role": "Text",
+                  "content": "Minute",
+                  "fontFamily": "SamsungOne-400",
+                  "fontSize": "14px",
+                  "fontWeight": 400,
+                  "lineHeight": "18px",
+                  "color": "#000000",
+                  "textAlign": null,
+                  "derivedPadding": {
+                    "left": 10,
+                    "right": 32,
+                    "top": 6,
+                    "bottom": 6
+                  }
+                }
+              ],
+              "icon": [
+                {
+                  "name": "sort",
+                  "width": 16,
+                  "height": 16,
+                  "derivedInset": {
+                    "left": 228,
+                    "top": 7
+                  }
+                }
+              ],
+              "content": [
+                "Minute"
+              ],
+              "behavior": null,
+              "responsive": null,
+              "stateOverlays": null,
+              "nestedComponents": null,
+              "source": [
+                {
+                  "artboard": "Components_Date and time picker",
+                  "layerName": "Input / Dropdown / Enabled (Filled in)",
+                  "objectID": "8297D85B-7CDB-4B4B-8689-9A92D4A17191"
+                },
+                {
+                  "artboard": "Components_Date and time picker",
+                  "layerName": "Input / Dropdown / Enabled (Filled in)",
+                  "objectID": "8297D85B-7CDB-4B4B-8689-9A92D4A17191"
+                },
+                {
+                  "artboard": "Components_Date and time picker",
+                  "layerName": "Input / Dropdown / Enabled (Filled in)",
+                  "objectID": "8297D85B-7CDB-4B4B-8689-9A92D4A17191"
+                },
+                {
+                  "artboard": "Components_Date and time picker",
+                  "layerName": "Input / Dropdown / Enabled (Filled in)",
+                  "objectID": "8297D85B-7CDB-4B4B-8689-9A92D4A17191"
+                },
+                {
+                  "artboard": "Components_Dialogs",
+                  "layerName": "Input / Dropdown / Enabled (Filled in)",
+                  "objectID": "8297D85B-7CDB-4B4B-8689-9A92D4A17191"
+                },
+                {
+                  "artboard": "Components_Dropdown list",
+                  "layerName": "Input / Dropdown / Enabled (Filled in)",
+                  "objectID": "8297D85B-7CDB-4B4B-8689-9A92D4A17191"
+                },
+                {
+                  "artboard": "Components_Error messages",
+                  "layerName": "Input / Dropdown / Enabled (Filled in)",
+                  "objectID": "8297D85B-7CDB-4B4B-8689-9A92D4A17191"
+                },
+                {
+                  "artboard": "Components_Error messages",
+                  "layerName": "Input / Dropdown / Enabled (Filled in)",
+                  "objectID": "8297D85B-7CDB-4B4B-8689-9A92D4A17191"
+                },
+                {
+                  "artboard": "Components_Error messages",
+                  "layerName": "Input / Dropdown / Enabled (Filled in)",
+                  "objectID": "8297D85B-7CDB-4B4B-8689-9A92D4A17191"
+                },
+                {
+                  "artboard": "Components_Error messages",
+                  "layerName": "Input / Dropdown / Enabled (Filled in)",
+                  "objectID": "8297D85B-7CDB-4B4B-8689-9A92D4A17191"
+                },
+                {
+                  "artboard": "Components_Filtering",
+                  "layerName": "Input / Dropdown / Enabled (Filled in)",
+                  "objectID": "8297D85B-7CDB-4B4B-8689-9A92D4A17191"
+                },
+                {
+                  "artboard": "Components_Filtering",
+                  "layerName": "Input / Dropdown / Enabled (Filled in)",
+                  "objectID": "8297D85B-7CDB-4B4B-8689-9A92D4A17191"
+                },
+                {
+                  "artboard": "Components_Filtering",
+                  "layerName": "Input / Dropdown / Enabled (Filled in)",
+                  "objectID": "8297D85B-7CDB-4B4B-8689-9A92D4A17191"
+                },
+                {
+                  "artboard": "Components_Filtering",
+                  "layerName": "Input / Dropdown / Enabled (Filled in)",
+                  "objectID": "8297D85B-7CDB-4B4B-8689-9A92D4A17191"
+                },
+                {
+                  "artboard": "Components_Form",
+                  "layerName": "Input / Dropdown / Enabled (Filled in)",
+                  "objectID": "8297D85B-7CDB-4B4B-8689-9A92D4A17191"
+                },
+                {
+                  "artboard": "Components_Scroll ",
+                  "layerName": "Input / Dropdown / Enabled (Filled in)",
+                  "objectID": "8297D85B-7CDB-4B4B-8689-9A92D4A17191"
+                }
+              ],
+              "confidence": "low",
+              "note": "홈 아트보드에 심볼 정의가 없어 다른 아트보드의 반복 사용례에서 추출됨"
+            },
+            {
+              "name": "Disabled",
+              "geometry": {
+                "width": 252,
+                "height": 30,
+                "minWidth": null,
+                "maxWidth": null
+              },
+              "spacing": {
+                "derived": true,
+                "note": "텍스트 rect와 심볼 rect의 차이에서 계산된 실측값 (문서화된 토큰 아님)",
+                "textPadding": {
+                  "left": 10,
+                  "right": 32,
+                  "top": 6,
+                  "bottom": 6
+                }
+              },
+              "border": {
+                "border": "1px solid #B2B2B2",
+                "borderRadius": "4px",
+                "sourceLayer": "Container"
+              },
+              "background": {
+                "color": "#E8E8E8",
+                "opacity": null,
+                "boxShadow": null,
+                "sourceLayer": "Container"
+              },
+              "typography": [
+                {
+                  "role": "Text",
+                  "content": "-",
+                  "fontFamily": "SamsungOne-400",
+                  "fontSize": "14px",
+                  "fontWeight": 400,
+                  "lineHeight": "18px",
+                  "color": "#9A9A9A",
+                  "textAlign": null,
+                  "derivedPadding": {
+                    "left": 10,
+                    "right": 32,
+                    "top": 6,
+                    "bottom": 6
+                  }
+                }
+              ],
+              "icon": [
+                {
+                  "name": "sort",
+                  "width": 16,
+                  "height": 16,
+                  "derivedInset": {
+                    "left": 228,
+                    "top": 7
+                  }
+                }
+              ],
+              "content": [
+                "-"
+              ],
+              "behavior": null,
+              "responsive": null,
+              "stateOverlays": null,
+              "nestedComponents": null,
+              "source": [
+                {
+                  "artboard": "Components_Dropdown list",
+                  "layerName": "Input / Dropdown / Disabled",
+                  "objectID": "5AB9824B-A426-4152-AE57-41101E4E9797"
+                },
+                {
+                  "artboard": "Components_Dropdown list",
+                  "layerName": "Input / Dropdown / Disabled",
+                  "objectID": "5AB9824B-A426-4152-AE57-41101E4E9797"
+                }
+              ],
+              "confidence": "medium",
+              "note": "홈 아트보드에 심볼 정의가 없어 다른 아트보드의 반복 사용례에서 추출됨"
+            }
+          ]
+        },
+        {
+          "name": "Picker",
+          "states": [
+            {
+              "name": "Time",
+              "geometry": {
+                "width": null,
+                "height": 30,
+                "minWidth": null,
+                "maxWidth": null,
+                "observedWidths": [
+                  312,
+                  432
+                ],
+                "widthNote": "인스턴스마다 다름 (콘텐츠 의존) — 고정 규칙 아님"
+              },
+              "spacing": {
+                "derived": true,
+                "note": "텍스트 rect와 심볼 rect의 차이에서 계산된 실측값 (문서화된 토큰 아님)",
+                "textPadding": {
+                  "left": 122,
+                  "right": 38,
+                  "top": 6,
+                  "bottom": 6
+                }
+              },
+              "border": null,
+              "background": null,
+              "typography": [
+                {
+                  "role": "Value",
+                  "content": "2020-05-19  12:00:00",
+                  "fontFamily": "SamsungOne-400",
+                  "fontSize": "14px",
+                  "fontWeight": 400,
+                  "lineHeight": "18px",
+                  "color": "#000000",
+                  "textAlign": "right",
+                  "derivedPadding": {
+                    "left": 122,
+                    "right": 38,
+                    "top": 6,
+                    "bottom": 6
+                  }
+                },
+                {
+                  "role": "Prefix",
+                  "content": "From",
+                  "fontFamily": "SamsungOne-400",
+                  "fontSize": "14px",
+                  "fontWeight": 400,
+                  "lineHeight": "18px",
+                  "color": "#000000",
+                  "textAlign": null,
+                  "derivedPadding": {
+                    "left": 10,
+                    "right": 262,
+                    "top": 6,
+                    "bottom": 6
+                  }
+                }
+              ],
+              "icon": [
+                {
+                  "name": "Basic / calendar",
+                  "width": 16,
+                  "height": 16,
+                  "derivedInset": {
+                    "left": 289,
+                    "top": 7
+                  }
+                }
+              ],
+              "content": [
+                "2020-05-19  12:00:00",
+                "From"
+              ],
+              "behavior": null,
+              "responsive": null,
+              "stateOverlays": null,
+              "nestedComponents": null,
+              "source": [
+                {
+                  "artboard": "Components_Banner",
+                  "layerName": "Input / Picker / Time",
+                  "objectID": "FF547082-EC95-4C9A-9494-65F9D3E492C7"
+                },
+                {
+                  "artboard": "Components_Dialogs",
+                  "layerName": "Input / Picker / Time",
+                  "objectID": "FF547082-EC95-4C9A-9494-65F9D3E492C7"
+                },
+                {
+                  "artboard": "Components_Dialogs",
+                  "layerName": "Input / Picker / Time",
+                  "objectID": "FF547082-EC95-4C9A-9494-65F9D3E492C7"
+                },
+                {
+                  "artboard": "Components_Dialogs",
+                  "layerName": "Input / Picker / Time",
+                  "objectID": "FF547082-EC95-4C9A-9494-65F9D3E492C7"
+                },
+                {
+                  "artboard": "Components_Scroll ",
+                  "layerName": "Input / Picker / Time",
+                  "objectID": "FF547082-EC95-4C9A-9494-65F9D3E492C7"
+                }
+              ],
+              "confidence": "medium",
+              "note": "홈 아트보드에 심볼 정의가 없어 다른 아트보드의 반복 사용례에서 추출됨"
+            },
+            {
+              "name": "Date & time",
+              "geometry": {
+                "width": null,
+                "height": 30,
+                "minWidth": null,
+                "maxWidth": null,
+                "observedWidths": [
+                  252,
+                  272,
+                  312
+                ],
+                "widthNote": "인스턴스마다 다름 (콘텐츠 의존) — 고정 규칙 아님"
+              },
+              "spacing": {
+                "derived": true,
+                "note": "텍스트 rect와 심볼 rect의 차이에서 계산된 실측값 (문서화된 토큰 아님)",
+                "textPadding": {
+                  "left": 62,
+                  "right": 38,
+                  "top": 6,
+                  "bottom": 6
+                }
+              },
+              "border": null,
+              "background": null,
+              "typography": [
+                {
+                  "role": "Value",
+                  "content": "2020-05-19  00:00:00",
+                  "fontFamily": "SamsungOne-400",
+                  "fontSize": "14px",
+                  "fontWeight": 400,
+                  "lineHeight": "18px",
+                  "color": "#000000",
+                  "textAlign": "right",
+                  "derivedPadding": {
+                    "left": 62,
+                    "right": 38,
+                    "top": 6,
+                    "bottom": 6
+                  }
+                },
+                {
+                  "role": "Prefix",
+                  "content": "From",
+                  "fontFamily": "SamsungOne-400",
+                  "fontSize": "14px",
+                  "fontWeight": 400,
+                  "lineHeight": "18px",
+                  "color": "#000000",
+                  "textAlign": null,
+                  "derivedPadding": {
+                    "left": 10,
+                    "right": 202,
+                    "top": 6,
+                    "bottom": 6
+                  }
+                }
+              ],
+              "icon": [
+                {
+                  "name": "Basic / calendar",
+                  "width": 16,
+                  "height": 16,
+                  "derivedInset": {
+                    "left": 229,
+                    "top": 7
+                  }
+                }
+              ],
+              "content": [
+                "2020-05-19  00:00:00",
+                "From"
+              ],
+              "behavior": null,
+              "responsive": null,
+              "stateOverlays": null,
+              "nestedComponents": null,
+              "source": [
+                {
+                  "artboard": "Components_Date and time picker",
+                  "layerName": "Input / Picker / Date & time",
+                  "objectID": "05930F7D-BE37-41D5-BA53-0458554233E3"
+                },
+                {
+                  "artboard": "Components_Date and time picker",
+                  "layerName": "Input / Picker / Date & time",
+                  "objectID": "05930F7D-BE37-41D5-BA53-0458554233E3"
+                },
+                {
+                  "artboard": "Components_Date and time picker",
+                  "layerName": "Input / Picker / Date & time",
+                  "objectID": "05930F7D-BE37-41D5-BA53-0458554233E3"
+                },
+                {
+                  "artboard": "Components_Date and time picker",
+                  "layerName": "Input / Picker / Date & time",
+                  "objectID": "05930F7D-BE37-41D5-BA53-0458554233E3"
+                },
+                {
+                  "artboard": "Components_Date and time picker",
+                  "layerName": "Input / Picker / Date & time",
+                  "objectID": "05930F7D-BE37-41D5-BA53-0458554233E3"
+                },
+                {
+                  "artboard": "Components_Date and time picker",
+                  "layerName": "Input / Picker / Date & time",
+                  "objectID": "05930F7D-BE37-41D5-BA53-0458554233E3"
+                },
+                {
+                  "artboard": "Components_Date and time picker",
+                  "layerName": "Input / Picker / Date & time",
+                  "objectID": "05930F7D-BE37-41D5-BA53-0458554233E3"
+                },
+                {
+                  "artboard": "Components_Date and time picker",
+                  "layerName": "Input / Picker / Date & time",
+                  "objectID": "05930F7D-BE37-41D5-BA53-0458554233E3"
+                },
+                {
+                  "artboard": "Components_Date and time picker",
+                  "layerName": "Input / Picker / Date & time",
+                  "objectID": "05930F7D-BE37-41D5-BA53-0458554233E3"
+                },
+                {
+                  "artboard": "Components_Date and time picker",
+                  "layerName": "Input / Picker / Date & time",
+                  "objectID": "05930F7D-BE37-41D5-BA53-0458554233E3"
+                },
+                {
+                  "artboard": "Components_Date and time picker",
+                  "layerName": "Input / Picker / Date & time",
+                  "objectID": "05930F7D-BE37-41D5-BA53-0458554233E3"
+                },
+                {
+                  "artboard": "Components_Date and time picker",
+                  "layerName": "Input / Picker / Date & time",
+                  "objectID": "05930F7D-BE37-41D5-BA53-0458554233E3"
+                },
+                {
+                  "artboard": "Components_Date and time picker",
+                  "layerName": "Input / Picker / Date & time",
+                  "objectID": "05930F7D-BE37-41D5-BA53-0458554233E3"
+                },
+                {
+                  "artboard": "Components_Date and time picker",
+                  "layerName": "Input / Picker / Date & time",
+                  "objectID": "05930F7D-BE37-41D5-BA53-0458554233E3"
+                },
+                {
+                  "artboard": "Components_Filtering",
+                  "layerName": "Input / Picker / Date & time",
+                  "objectID": "05930F7D-BE37-41D5-BA53-0458554233E3"
+                },
+                {
+                  "artboard": "Components_Filtering",
+                  "layerName": "Input / Picker / Date & time Copy",
+                  "objectID": "05930F7D-BE37-41D5-BA53-0458554233E3"
+                },
+                {
+                  "artboard": "Components_Filtering",
+                  "layerName": "Input / Picker / Date & time",
+                  "objectID": "05930F7D-BE37-41D5-BA53-0458554233E3"
+                },
+                {
+                  "artboard": "Components_Filtering",
+                  "layerName": "Input / Picker / Date & time Copy",
+                  "objectID": "05930F7D-BE37-41D5-BA53-0458554233E3"
+                },
+                {
+                  "artboard": "Components_Filtering",
+                  "layerName": "Input / Picker / Date & time",
+                  "objectID": "05930F7D-BE37-41D5-BA53-0458554233E3"
+                },
+                {
+                  "artboard": "Components_Filtering",
+                  "layerName": "Input / Picker / Date & time Copy",
+                  "objectID": "05930F7D-BE37-41D5-BA53-0458554233E3"
+                },
+                {
+                  "artboard": "Components_Filtering",
+                  "layerName": "Input / Picker / Date & time",
+                  "objectID": "05930F7D-BE37-41D5-BA53-0458554233E3"
+                },
+                {
+                  "artboard": "Components_Filtering",
+                  "layerName": "Input / Picker / Date & time Copy",
+                  "objectID": "05930F7D-BE37-41D5-BA53-0458554233E3"
+                }
+              ],
+              "confidence": "medium",
+              "note": "홈 아트보드에 심볼 정의가 없어 다른 아트보드의 반복 사용례에서 추출됨"
+            }
+          ]
+        },
+        {
+          "name": "Text input",
+          "states": [
+            {
+              "name": "Enabled",
+              "geometry": {
+                "width": null,
+                "height": 30,
+                "minWidth": null,
+                "maxWidth": null,
+                "observedWidths": [
+                  175,
+                  176,
+                  312
+                ],
+                "widthNote": "인스턴스마다 다름 (콘텐츠 의존) — 고정 규칙 아님"
+              },
+              "spacing": {
+                "derived": true,
+                "note": "텍스트 rect와 심볼 rect의 차이에서 계산된 실측값 (문서화된 토큰 아님)",
+                "textPadding": {
+                  "left": 10,
+                  "right": 32,
+                  "top": 6,
+                  "bottom": 6
+                }
+              },
+              "border": {
+                "border": "1px solid #8A8A8A",
+                "borderRadius": "4px",
+                "sourceLayer": "Container"
+              },
+              "background": {
+                "color": "#FFFFFF",
+                "opacity": null,
+                "boxShadow": null,
+                "sourceLayer": "Container"
+              },
+              "typography": [
+                {
+                  "role": "Text",
+                  "content": "Placeholder text",
+                  "fontFamily": "SamsungOne-400",
+                  "fontSize": "14px",
+                  "fontWeight": 400,
+                  "lineHeight": "18px",
+                  "color": "#9A9A9A",
+                  "textAlign": null,
+                  "derivedPadding": {
+                    "left": 10,
+                    "right": 32,
+                    "top": 6,
+                    "bottom": 6
+                  }
+                }
+              ],
+              "icon": null,
+              "content": [
+                "Placeholder text"
+              ],
+              "behavior": null,
+              "responsive": null,
+              "stateOverlays": null,
+              "nestedComponents": null,
+              "source": [
+                {
+                  "artboard": "Components_Dialogs",
+                  "layerName": "Input / Text input / Enabled",
+                  "objectID": "98E1F6FF-397F-40FE-9776-982347DB0761"
+                },
+                {
+                  "artboard": "Components_Dialogs",
+                  "layerName": "Input / Text input / Enabled",
+                  "objectID": "98E1F6FF-397F-40FE-9776-982347DB0761"
+                },
+                {
+                  "artboard": "Components_Dialogs",
+                  "layerName": "Input / Text input / Enabled",
+                  "objectID": "98E1F6FF-397F-40FE-9776-982347DB0761"
+                },
+                {
+                  "artboard": "Components_Form",
+                  "layerName": "Input / Text input / Enabled",
+                  "objectID": "98E1F6FF-397F-40FE-9776-982347DB0761"
+                },
+                {
+                  "artboard": "Components_Form",
+                  "layerName": "Input / Text input / Enabled",
+                  "objectID": "98E1F6FF-397F-40FE-9776-982347DB0761"
+                },
+                {
+                  "artboard": "Components_Form",
+                  "layerName": "Input / Text input / Enabled",
+                  "objectID": "98E1F6FF-397F-40FE-9776-982347DB0761"
+                }
+              ],
+              "confidence": "low",
+              "note": "홈 아트보드에 심볼 정의가 없어 다른 아트보드의 반복 사용례에서 추출됨"
+            },
+            {
+              "name": "Enabled (Filled in)",
+              "geometry": {
+                "width": null,
+                "height": 30,
+                "minWidth": null,
+                "maxWidth": null,
+                "observedWidths": [
+                  180,
+                  310
+                ],
+                "widthNote": "인스턴스마다 다름 (콘텐츠 의존) — 고정 규칙 아님"
+              },
+              "spacing": {
+                "derived": true,
+                "note": "텍스트 rect와 심볼 rect의 차이에서 계산된 실측값 (문서화된 토큰 아님)",
+                "textPadding": {
+                  "left": 10,
+                  "right": 32,
+                  "top": 6,
+                  "bottom": 6
+                }
+              },
+              "border": {
+                "border": "1px solid #8A8A8A",
+                "borderRadius": "4px",
+                "sourceLayer": "Container"
+              },
+              "background": {
+                "color": "#FFFFFF",
+                "opacity": null,
+                "boxShadow": null,
+                "sourceLayer": "Container"
+              },
+              "typography": [
+                {
+                  "role": "Text",
+                  "content": "Item name",
+                  "fontFamily": "SamsungOne-400",
+                  "fontSize": "14px",
+                  "fontWeight": 400,
+                  "lineHeight": "18px",
+                  "color": "#000000",
+                  "textAlign": null,
+                  "derivedPadding": {
+                    "left": 10,
+                    "right": 32,
+                    "top": 6,
+                    "bottom": 6
+                  }
+                }
+              ],
+              "icon": [
+                {
+                  "name": "sort",
+                  "width": 16,
+                  "height": 16,
+                  "derivedInset": {
+                    "left": 286,
+                    "top": 7
+                  }
+                }
+              ],
+              "content": [
+                "Item name"
+              ],
+              "behavior": null,
+              "responsive": null,
+              "stateOverlays": null,
+              "nestedComponents": null,
+              "source": [
+                {
+                  "artboard": "Components_Dropdown list",
+                  "layerName": "Input / Text input / Enabled (Filled in)",
+                  "objectID": "8297D85B-7CDB-4B4B-8689-9A92D4A17191"
+                },
+                {
+                  "artboard": "Components_Dropdown list",
+                  "layerName": "Input / Text input / Enabled (Filled in)",
+                  "objectID": "8297D85B-7CDB-4B4B-8689-9A92D4A17191"
+                },
+                {
+                  "artboard": "Components_Dropdown list",
+                  "layerName": "Input / Text input / Enabled (Filled in)",
+                  "objectID": "8297D85B-7CDB-4B4B-8689-9A92D4A17191"
+                },
+                {
+                  "artboard": "Components_Filtering",
+                  "layerName": "Input / Text input / Enabled (Filled in)",
+                  "objectID": "8297D85B-7CDB-4B4B-8689-9A92D4A17191"
+                }
+              ],
+              "confidence": "low",
+              "note": "홈 아트보드에 심볼 정의가 없어 다른 아트보드의 반복 사용례에서 추출됨"
+            }
+          ]
+        },
+        {
+          "name": "Search",
+          "states": [
+            {
+              "name": "Real-time search",
+              "geometry": {
+                "width": null,
+                "height": 30,
+                "minWidth": null,
+                "maxWidth": null,
+                "observedWidths": [
+                  221,
+                  230,
+                  252,
+                  300
+                ],
+                "widthNote": "인스턴스마다 다름 (콘텐츠 의존) — 고정 규칙 아님"
+              },
+              "spacing": {
+                "derived": true,
+                "note": "텍스트 rect와 심볼 rect의 차이에서 계산된 실측값 (문서화된 토큰 아님)",
+                "textPadding": {
+                  "left": 202,
+                  "right": 32,
+                  "top": 6,
+                  "bottom": 6
+                }
+              },
+              "border": {
+                "border": "1px solid #8A8A8A",
+                "borderRadius": "4px",
+                "sourceLayer": "Container"
+              },
+              "background": {
+                "color": "#FFFFFF",
+                "opacity": null,
+                "boxShadow": null,
+                "sourceLayer": "Container"
+              },
+              "typography": [
+                {
+                  "role": "Options",
+                  "content": "All",
+                  "fontFamily": "SamsungOne-400",
+                  "fontSize": "14px",
+                  "fontWeight": 400,
+                  "lineHeight": "18px",
+                  "color": "#000000",
+                  "textAlign": "right",
+                  "derivedPadding": {
+                    "left": 202,
+                    "right": 32,
+                    "top": 6,
+                    "bottom": 6
+                  }
+                },
+                {
+                  "role": "Search term",
+                  "content": "Search",
+                  "fontFamily": "SamsungOne-400",
+                  "fontSize": "14px",
+                  "fontWeight": 400,
+                  "lineHeight": "18px",
+                  "color": "#9A9A9A",
+                  "textAlign": null,
+                  "derivedPadding": {
+                    "left": 32,
+                    "right": 89,
+                    "top": 6,
+                    "bottom": 6
+                  }
+                }
+              ],
+              "icon": [
+                {
+                  "name": "Icon",
+                  "width": 16,
+                  "height": 16,
+                  "derivedInset": {
+                    "left": 228,
+                    "top": 7
+                  }
+                },
+                {
+                  "name": "Icon",
+                  "width": 16,
+                  "height": 16,
+                  "derivedInset": {
+                    "left": 8,
+                    "top": 7
+                  }
+                }
+              ],
+              "content": [
+                "All",
+                "Search"
+              ],
+              "behavior": null,
+              "responsive": null,
+              "stateOverlays": null,
+              "nestedComponents": null,
+              "source": [
+                {
+                  "artboard": "Components_Data tables",
+                  "layerName": "Input / Search / Real-time search",
+                  "objectID": "C16D3CB4-BB18-4EC8-842E-9821258DA95E"
+                },
+                {
+                  "artboard": "Components_Data tables",
+                  "layerName": "Input / Search / Real-time search",
+                  "objectID": "C16D3CB4-BB18-4EC8-842E-9821258DA95E"
+                },
+                {
+                  "artboard": "Components_Data tables",
+                  "layerName": "Input / Search / Real-time search",
+                  "objectID": "C16D3CB4-BB18-4EC8-842E-9821258DA95E"
+                },
+                {
+                  "artboard": "Components_Data tables",
+                  "layerName": "Input / Search / Real-time search",
+                  "objectID": "C16D3CB4-BB18-4EC8-842E-9821258DA95E"
+                },
+                {
+                  "artboard": "Components_Data tables",
+                  "layerName": "Input / Search / Real-time search",
+                  "objectID": "C16D3CB4-BB18-4EC8-842E-9821258DA95E"
+                },
+                {
+                  "artboard": "Components_Data tables",
+                  "layerName": "Input / Search / Real-time search",
+                  "objectID": "C16D3CB4-BB18-4EC8-842E-9821258DA95E"
+                },
+                {
+                  "artboard": "Components_Data tables",
+                  "layerName": "Input / Search / Real-time search",
+                  "objectID": "C16D3CB4-BB18-4EC8-842E-9821258DA95E"
+                },
+                {
+                  "artboard": "Components_Data tables",
+                  "layerName": "Input / Search / Real-time search",
+                  "objectID": "C16D3CB4-BB18-4EC8-842E-9821258DA95E"
+                },
+                {
+                  "artboard": "Components_Data tables",
+                  "layerName": "Input / Search / Real-time search",
+                  "objectID": "C16D3CB4-BB18-4EC8-842E-9821258DA95E"
+                },
+                {
+                  "artboard": "Components_Lists",
+                  "layerName": "Input / Search / Real-time search",
+                  "objectID": "C16D3CB4-BB18-4EC8-842E-9821258DA95E"
+                },
+                {
+                  "artboard": "Components_Lists",
+                  "layerName": "Input / Search / Real-time search",
+                  "objectID": "C16D3CB4-BB18-4EC8-842E-9821258DA95E"
+                },
+                {
+                  "artboard": "Components_Overflow menu",
+                  "layerName": "Input / Search / Real-time search",
+                  "objectID": "C16D3CB4-BB18-4EC8-842E-9821258DA95E"
+                },
+                {
+                  "artboard": "Components_Overflow menu",
+                  "layerName": "Input / Search / Real-time search",
+                  "objectID": "C16D3CB4-BB18-4EC8-842E-9821258DA95E"
+                },
+                {
+                  "artboard": "Components_Search",
+                  "layerName": "Input / Search / Real-time search",
+                  "objectID": "C16D3CB4-BB18-4EC8-842E-9821258DA95E"
+                },
+                {
+                  "artboard": "Components_Search",
+                  "layerName": "Input / Search / Real-time search",
+                  "objectID": "C16D3CB4-BB18-4EC8-842E-9821258DA95E"
+                },
+                {
+                  "artboard": "Components_Search",
+                  "layerName": "Input / Search / Real-time search",
+                  "objectID": "C16D3CB4-BB18-4EC8-842E-9821258DA95E"
+                },
+                {
+                  "artboard": "Components_Search",
+                  "layerName": "Input / Search / Real-time search",
+                  "objectID": "C16D3CB4-BB18-4EC8-842E-9821258DA95E"
+                },
+                {
+                  "artboard": "Components_Search",
+                  "layerName": "Input / Search / Real-time search",
+                  "objectID": "C16D3CB4-BB18-4EC8-842E-9821258DA95E"
+                },
+                {
+                  "artboard": "Components_Sort by",
+                  "layerName": "Input / Search / Real-time search",
+                  "objectID": "C16D3CB4-BB18-4EC8-842E-9821258DA95E"
+                },
+                {
+                  "artboard": "Components_Sort by",
+                  "layerName": "Input / Search / Real-time search",
+                  "objectID": "C16D3CB4-BB18-4EC8-842E-9821258DA95E"
+                },
+                {
+                  "artboard": "Components_Splitter",
+                  "layerName": "Input / Search / Real-time search",
+                  "objectID": "C16D3CB4-BB18-4EC8-842E-9821258DA95E"
+                },
+                {
+                  "artboard": "Components_Toolbar",
+                  "layerName": "Input / Search / Real-time search",
+                  "objectID": "C16D3CB4-BB18-4EC8-842E-9821258DA95E"
+                },
+                {
+                  "artboard": "Components_Tree view",
+                  "layerName": "Input / Search / Real-time search",
+                  "objectID": "A0376A59-8436-438C-9D54-CEE8BDE14263"
+                }
+              ],
+              "confidence": "low",
+              "note": "홈 아트보드에 심볼 정의가 없어 다른 아트보드의 반복 사용례에서 추출됨"
+            },
+            {
+              "name": "Find on page / enabled",
+              "geometry": {
+                "width": 252,
+                "height": 30,
+                "minWidth": null,
+                "maxWidth": null
+              },
+              "spacing": {
+                "derived": true,
+                "note": "텍스트 rect와 심볼 rect의 차이에서 계산된 실측값 (문서화된 토큰 아님)",
+                "textPadding": {
+                  "left": 32,
+                  "right": 91,
+                  "top": 6,
+                  "bottom": 6
+                }
+              },
+              "border": {
+                "border": "1px solid #8A8A8A",
+                "borderRadius": "4px",
+                "sourceLayer": "Container"
+              },
+              "background": {
+                "color": "#FFFFFF",
+                "opacity": null,
+                "boxShadow": null,
+                "sourceLayer": "Container"
+              },
+              "typography": [
+                {
+                  "role": "Search term",
+                  "content": "Find on page",
+                  "fontFamily": "SamsungOne-400",
+                  "fontSize": "14px",
+                  "fontWeight": 400,
+                  "lineHeight": "18px",
+                  "color": "#9A9A9A",
+                  "textAlign": null,
+                  "derivedPadding": {
+                    "left": 32,
+                    "right": 91,
+                    "top": 6,
+                    "bottom": 6
+                  }
+                }
+              ],
+              "icon": [
+                {
+                  "name": "Basic / arrow-down-navigation",
+                  "width": 12,
+                  "height": 12,
+                  "derivedInset": {
+                    "left": 230,
+                    "top": 9
+                  }
+                },
+                {
+                  "name": "Basic / arrow-up-navigation",
+                  "width": 12,
+                  "height": 12,
+                  "derivedInset": {
+                    "left": 204,
+                    "top": 9
+                  }
+                },
+                {
+                  "name": "Basic / search-find_on_page",
+                  "width": 16,
+                  "height": 16,
+                  "derivedInset": {
+                    "left": 8,
+                    "top": 7
+                  }
+                }
+              ],
+              "content": [
+                "Find on page"
+              ],
+              "behavior": null,
+              "responsive": null,
+              "stateOverlays": null,
+              "nestedComponents": [
+                "Divider / Vertical"
+              ],
+              "source": [
+                {
+                  "artboard": "Components_Find on page",
+                  "layerName": "Input / Search / Find on page / enabled",
+                  "objectID": "C29834D3-0366-4E72-9C85-75D3B423DF89"
+                },
+                {
+                  "artboard": "Components_Find on page",
+                  "layerName": "Input / Search / Find on page / enabled",
+                  "objectID": "C29834D3-0366-4E72-9C85-75D3B423DF89"
+                }
+              ],
+              "confidence": "low",
+              "note": "홈 아트보드에 심볼 정의가 없어 다른 아트보드의 반복 사용례에서 추출됨"
+            },
+            {
+              "name": "Real-time search / Enabled",
+              "geometry": {
+                "width": 252,
+                "height": 30,
+                "minWidth": null,
+                "maxWidth": null
+              },
+              "spacing": {
+                "derived": true,
+                "note": "텍스트 rect와 심볼 rect의 차이에서 계산된 실측값 (문서화된 토큰 아님)",
+                "textPadding": {
+                  "left": 32,
+                  "right": 32,
+                  "top": 6,
+                  "bottom": 6
+                }
+              },
+              "border": {
+                "border": "1px solid #8A8A8A",
+                "borderRadius": "4px",
+                "sourceLayer": "Container"
+              },
+              "background": {
+                "color": "#FFFFFF",
+                "opacity": null,
+                "boxShadow": null,
+                "sourceLayer": "Container"
+              },
+              "typography": [
+                {
+                  "role": "Search term",
+                  "content": "Search",
+                  "fontFamily": "SamsungOne-400",
+                  "fontSize": "14px",
+                  "fontWeight": 400,
+                  "lineHeight": "18px",
+                  "color": "#9A9A9A",
+                  "textAlign": null,
+                  "derivedPadding": {
+                    "left": 32,
+                    "right": 32,
+                    "top": 6,
+                    "bottom": 6
+                  }
+                }
+              ],
+              "icon": [
+                {
+                  "name": "Icon",
+                  "width": 16,
+                  "height": 16,
+                  "derivedInset": {
+                    "left": 8,
+                    "top": 7
+                  }
+                }
+              ],
+              "content": [
+                "Search"
+              ],
+              "behavior": null,
+              "responsive": null,
+              "stateOverlays": null,
+              "nestedComponents": null,
+              "source": [
+                {
+                  "artboard": "Components_Search",
+                  "layerName": "Input / Search / Real-time search / Enabled",
+                  "objectID": "88EEDA89-95AF-4184-84FA-9409B193FC6C"
+                },
+                {
+                  "artboard": "Components_Search",
+                  "layerName": "Input / Search / Real-time search / Enabled",
+                  "objectID": "88EEDA89-95AF-4184-84FA-9409B193FC6C"
+                }
+              ],
+              "confidence": "medium",
+              "note": "홈 아트보드에 심볼 정의가 없어 다른 아트보드의 반복 사용례에서 추출됨"
+            }
+          ]
+        },
+        {
+          "name": "Date picker",
+          "states": [
+            {
+              "name": "(unspecified)",
+              "geometry": {
+                "width": 252,
+                "height": 30,
+                "minWidth": null,
+                "maxWidth": null
+              },
+              "spacing": {
+                "derived": true,
+                "note": "텍스트 rect와 심볼 rect의 차이에서 계산된 실측값 (문서화된 토큰 아님)",
+                "textPadding": {
+                  "left": 62,
+                  "right": 38,
+                  "top": 6,
+                  "bottom": 6
+                }
+              },
+              "border": null,
+              "background": null,
+              "typography": [
+                {
+                  "role": "Value",
+                  "content": "2020-05-19  12:00:00",
+                  "fontFamily": "SamsungOne-400",
+                  "fontSize": "14px",
+                  "fontWeight": 400,
+                  "lineHeight": "18px",
+                  "color": "#000000",
+                  "textAlign": "right",
+                  "derivedPadding": {
+                    "left": 62,
+                    "right": 38,
+                    "top": 6,
+                    "bottom": 6
+                  }
+                },
+                {
+                  "role": "Prefix",
+                  "content": "To",
+                  "fontFamily": "SamsungOne-400",
+                  "fontSize": "14px",
+                  "fontWeight": 400,
+                  "lineHeight": "18px",
+                  "color": "#000000",
+                  "textAlign": null,
+                  "derivedPadding": {
+                    "left": 10,
+                    "right": 202,
+                    "top": 6,
+                    "bottom": 6
+                  }
+                }
+              ],
+              "icon": [
+                {
+                  "name": "Basic / calendar",
+                  "width": 16,
+                  "height": 16,
+                  "derivedInset": {
+                    "left": 229,
+                    "top": 7
+                  }
+                }
+              ],
+              "content": [
+                "2020-05-19  12:00:00",
+                "To"
+              ],
+              "behavior": null,
+              "responsive": null,
+              "stateOverlays": null,
+              "nestedComponents": null,
+              "source": [
+                {
+                  "artboard": "Components_Form",
+                  "layerName": "Input / Date picker",
+                  "objectID": "F80D1E3C-5111-472D-8F86-EA53F6533BDF"
+                },
+                {
+                  "artboard": "Components_Form",
+                  "layerName": "Input / Date picker",
+                  "objectID": "F80D1E3C-5111-472D-8F86-EA53F6533BDF"
+                },
+                {
+                  "artboard": "Components_Form",
+                  "layerName": "Input / Date picker",
+                  "objectID": "F80D1E3C-5111-472D-8F86-EA53F6533BDF"
+                },
+                {
+                  "artboard": "Components_Form",
+                  "layerName": "Input / Date picker",
+                  "objectID": "F80D1E3C-5111-472D-8F86-EA53F6533BDF"
+                }
+              ],
+              "confidence": "medium",
+              "note": "홈 아트보드에 심볼 정의가 없어 다른 아트보드의 반복 사용례에서 추출됨"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "component": "Text",
+      "description": null,
+      "variants": [
+        {
+          "name": "(unspecified)",
+          "states": [
+            {
+              "name": "(unspecified)",
+              "geometry": {
+                "width": 104,
+                "height": 18,
+                "minWidth": null,
+                "maxWidth": null
+              },
+              "spacing": null,
+              "border": null,
+              "background": null,
+              "typography": null,
+              "icon": null,
+              "content": null,
+              "behavior": null,
+              "responsive": null,
+              "stateOverlays": null,
+              "nestedComponents": null,
+              "source": [
+                {
+                  "artboard": "Components_Text input",
+                  "layerName": "Text",
+                  "objectID": "3FA44317-A071-4096-9974-2DCE6AEAB62C"
+                },
+                {
+                  "artboard": "Components_Text input",
+                  "layerName": "Text",
+                  "objectID": "3FA44317-A071-4096-9974-2DCE6AEAB62C"
+                }
+              ],
+              "confidence": "high"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

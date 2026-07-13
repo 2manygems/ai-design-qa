@@ -1,0 +1,334 @@
+{
+  "artboard": "Pattern_Overflow content",
+  "statements": [
+    {
+      "content": "Overflow contents include texts or components that exceed the given space. Depict following images below to let users know that there are continuous contents.",
+      "source": {
+        "artboard": "Pattern_Overflow content",
+        "layerName": "Text",
+        "objectID": "C95A56B3-6385-4074-AD52-B22E160857EC"
+      }
+    },
+    {
+      "content": "console/19018431/399493954/preview?scrollOffset=912",
+      "source": {
+        "artboard": "Pattern_Overflow content",
+        "layerName": "Text Copy",
+        "objectID": "66AF48F5-6A1D-40FC-8EA5-02B781CEA467"
+      }
+    },
+    {
+      "content": "Overflow menu is used when there are many action buttons or when displaying functions of low priority. Overflow menu can be considered when there are more that 2 action buttons in general. Hidden functions can be display upon selection. Apply to small areas like data table header, card header, data table/ list rows, and tabs.",
+      "source": {
+        "artboard": "Pattern_Overflow content",
+        "layerName": "Text",
+        "objectID": "3A37E9E7-DFAE-45FE-913B-BD4B4A139059"
+      }
+    },
+    {
+      "content": "1. Action buttons of low priority is placed in overflow menu regardless of the space available.\n2. Actions available per row is shown in overflow menu. Right clicking brings up same functions.\n3. Actions available within the card can be shown through overflow menu.\n4. Action buttons that can edit tabs(e.g. shutdowm, rename, expand) can be shown through overflow menu.",
+      "source": {
+        "artboard": "Pattern_Overflow content",
+        "layerName": "Text Copy 25",
+        "objectID": "3E41506E-066B-47F4-B579-6AD8B6BDB94A"
+      }
+    },
+    {
+      "content": "Page numbers can be abbreviate when there are more pages than the given space for pagination. Hidden pages can show by selecting the overflow button. Refer to pagination for more details.",
+      "source": {
+        "artboard": "Pattern_Overflow content",
+        "layerName": "Text Copy 30",
+        "objectID": "069A08AD-8B1F-4B27-80ED-0B158847DB55"
+      }
+    },
+    {
+      "content": "Uploaded_document_name.pdf",
+      "source": {
+        "artboard": "Pattern_Overflow content",
+        "layerName": "Text",
+        "objectID": "EEADD897-5590-477A-A3B9-B6203C116D38"
+      }
+    },
+    {
+      "content": "Uploaded_document_name_i…show.pdf",
+      "source": {
+        "artboard": "Pattern_Overflow content",
+        "layerName": "Text",
+        "objectID": "F66593A6-CC69-4845-90A0-3437AC4B784A"
+      }
+    },
+    {
+      "content": "Uploaded_document_name_is_too_long_to_show.pdf",
+      "source": {
+        "artboard": "Pattern_Overflow content",
+        "layerName": "Tooltip",
+        "objectID": "DFC52AFC-EC9A-4165-B0D7-14F663EC20B8"
+      }
+    },
+    {
+      "content": "Slice Realtime Performance Monitoring",
+      "source": {
+        "artboard": "Pattern_Overflow content",
+        "layerName": "Tooltip",
+        "objectID": "DFC52AFC-EC9A-4165-B0D7-14F663EC20B8"
+      }
+    },
+    {
+      "content": "Repeating texts within long item names can be trancated. Depending on the repetition, front, middle, and end can be shortened, with the whole name showing as tooltip upon hover. Following image shows when middle part of the link is truncated. Extension name should not be truncated. Following imaged show truncation in the front, middle, and end in sequence.",
+      "source": {
+        "artboard": "Pattern_Overflow content",
+        "layerName": "Text Copy 29",
+        "objectID": "0E6FE936-A132-48C3-B433-2D19E6372037"
+      }
+    },
+    {
+      "content": "search?q=how+to+type+en+dash",
+      "source": {
+        "artboard": "Pattern_Overflow content",
+        "layerName": "Text",
+        "objectID": "2D26554B-BFC7-43A1-AE91-B2945835B3B5"
+      }
+    },
+    {
+      "content": "AQE&sclient=img&ei=2Dw…7rM-Rr7",
+      "source": {
+        "artboard": "Pattern_Overflow content",
+        "layerName": "Text",
+        "objectID": "6C841807-E5BA-4366-9860-780616C31A9C"
+      }
+    },
+    {
+      "content": "client=img&ei=2DwpX7rzLM-Rr7wPsOq66A0&bih=986&biw=1765&rlz=1C5CHFA_enKR904KR907rM-Rr7",
+      "source": {
+        "artboard": "Pattern_Overflow content",
+        "layerName": "Text",
+        "objectID": "E3DDCAF2-B370-4F99-95AE-24D5294D9EA9"
+      }
+    },
+    {
+      "content": "AQE&sclient=img&ei=2DwWNnhBGCJ8ARoAHAAeACAAXaIAcQHkgEDMC45mAEAoAEBqgELZ3dzLXdpei1pbWfAAQE&sclient=img&ei=2DwpX7rzLM-Rr7wPsOq66A0&bih=986&biw=1765&rlz=1C5CHFA_enKR904KR907rM-Rr7",
+      "source": {
+        "artboard": "Pattern_Overflow content",
+        "layerName": "Text",
+        "objectID": "A3E53A9F-78EE-4F71-882F-17089B1009FE"
+      }
+    },
+    {
+      "content": "Repeating texts within long links can be trancated. Depending on the repetition, front, middle, and end can be shortened, with the whole link showing as tooltip upon hover. Following image shows when middle part of the link is truncated.",
+      "source": {
+        "artboard": "Pattern_Overflow content",
+        "layerName": "Text Copy 28",
+        "objectID": "391A78F8-CB04-41CC-8EED-81703A0CF085"
+      }
+    },
+    {
+      "content": "Routes in the middle can be abbreviated when they become longer. Show hidden route by overflow menu list, and transition into the selected item from the list instantly. Refer to breadcrumb guide.",
+      "source": {
+        "artboard": "Pattern_Overflow content",
+        "layerName": "Text Copy 27",
+        "objectID": "9B01A118-2AEF-4DDD-97F3-3AD057A1FE4F"
+      }
+    },
+    {
+      "content": "&gt; Ellipsis\n&gt; Displaying number of truncated items\n&gt; “Show more” button\n&gt; Dropdown button",
+      "source": {
+        "artboard": "Pattern_Overflow content",
+        "layerName": "Text",
+        "objectID": "203BFBE4-188F-411A-9C54-B5415B008F23"
+      }
+    },
+    {
+      "content": "Displaying number of truncated items",
+      "source": {
+        "artboard": "Pattern_Overflow content",
+        "layerName": "Text Copy 3",
+        "objectID": "96979738-6776-436A-8A18-5AB68AB5FEAF"
+      }
+    },
+    {
+      "content": "Category name: filter name",
+      "source": {
+        "artboard": "Pattern_Overflow content",
+        "layerName": "Text",
+        "objectID": "AD1A8D2F-F24B-4E4D-B7ED-5E0A5E93E5BD"
+      }
+    },
+    {
+      "content": "Category name: 3 selected",
+      "source": {
+        "artboard": "Pattern_Overflow content",
+        "layerName": "Text",
+        "objectID": "4066285C-0C2D-4CA5-8FE4-77E8C64FFDC2"
+      }
+    },
+    {
+      "content": "Chips can be used to abbreviate the number of chips that cannot fit into the given space. Amount of abbreviated chips are shown, with list being able to be checked upon selection.",
+      "source": {
+        "artboard": "Pattern_Overflow content",
+        "layerName": "Text Copy 31",
+        "objectID": "475D9F26-6623-4085-AF7E-3A982E3C3E4E"
+      }
+    },
+    {
+      "content": "1. Amount of filters that could not be shown.\n2. Amount of hidden roles.",
+      "source": {
+        "artboard": "Pattern_Overflow content",
+        "layerName": "Text Copy 39",
+        "objectID": "5C214F96-5C7E-4916-A565-D08191376B2E"
+      }
+    },
+    {
+      "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In ac tempor orci. Phasellus egestas sollicitudin vehicula. Sed tempor et ante vitae mattis. Interdum et malesuada fames ac ante ipsum primis in faucibus. Maecenas tristique ligula dapibus erat malesuada, vitae egestas nibh mattis. Donec eget metus sapien. Nunc leo sem, blandit quis posuere ut, pretium nec ex. Nullam rutrum augue vitae libero sollicitudin condimentum. Donec varius lorem odio, nec euismod risus semper in. Aenean nec ligula vitae sapien dapibus feugiat vulputate nec ex. Fusce mollis, tellus non dictum pellentesque, tellus mauris varius lorem, eget placerat augue lectus ut magna. Praesent massa lacus, vestibulum at arcu id, luctus porta risus. Quisque gravida sem purus, at bibendum leo cursus at. Praesent aliquet non justo at porttitor.",
+      "source": {
+        "artboard": "Pattern_Overflow content",
+        "layerName": "Text",
+        "objectID": "89CF0BA9-E608-4436-851B-6C2E09932826"
+      }
+    },
+    {
+      "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In ac tempor orci. Phasellus egestas sollicitudin vehicula. Sed tempor et ante vitae mattis. Interdum et malesuada fames ac ante ipsum primis in faucibus. Maecenas tristique ligula dapibus erat malesuada, vitae egestas nibh mattis. Donec eget metus sapien. Nunc leo sem, blandit quis posuere ut, pretium nec ex. Nullam rutrum augue vitae libero sollicitudin condimentum. \n\nDonec varius lorem odio, nec euismod risus semper in. Aenean nec ligula vitae sapien dapibus feugiat vulputate nec ex. Fusce mollis, tellus non dictum pellentesque, tellus mauris varius lorem, eget placerat augue lectus ut magna. Praesent massa lacus, vestibulum at arcu id, luctus porta risus. Quisque gravida sem purus, at bibendum leo cursus at. Praesent aliquet non justo at porttitor.\n\nPhasellus urna mi, vehicula at quam eu, congue molestie magna. Sed vitae pretium nulla. Nulla sed velit nisl. Suspendisse sed odio a metus auctor hendrerit.",
+      "source": {
+        "artboard": "Pattern_Overflow content",
+        "layerName": "Text",
+        "objectID": "905E19FD-6614-45AF-8D37-FBCFC596ADF9"
+      }
+    },
+    {
+      "content": "“Show more” button is used when there are lots of overflow menus within a limited space. In general, all the contents should show upon selecting the button, but can be divided into chunks if there are more hidden contents. When used in lists, “show more” button is added on the 6th row.",
+      "source": {
+        "artboard": "Pattern_Overflow content",
+        "layerName": "Text Copy 40",
+        "objectID": "A1BCEBF0-C9C5-44AE-BD72-8BD91385737D"
+      }
+    },
+    {
+      "content": "Dropdown button is used when the amount of tabs increases to the point where all of the tabs cannot be shown. List should not just contain the names of the hidden tabs but the functions provided by each as well. Dropdown button can show and hide depending on the width and resolution of the given page. Refer to tab guide.",
+      "source": {
+        "artboard": "Pattern_Overflow content",
+        "layerName": "Text Copy 41",
+        "objectID": "2AB584FA-C69F-4B2B-9A20-59314C20BA1F"
+      }
+    },
+    {
+      "content": "Ellipsis is used when texts or action button surpasses the given space.",
+      "source": {
+        "artboard": "Pattern_Overflow content",
+        "layerName": "description",
+        "objectID": "075AEA76-6E15-428D-AF9B-A617AACD45B0"
+      }
+    },
+    {
+      "content": "Action buttons, breadcrumbs, links(long URL), \nlong item name, pagination",
+      "source": {
+        "artboard": "Pattern_Overflow content",
+        "layerName": "components",
+        "objectID": "C25E8C71-1422-4A3E-8373-AE928B66C2A6"
+      }
+    },
+    {
+      "content": "Amount of exceeding items that cannot be shown.",
+      "source": {
+        "artboard": "Pattern_Overflow content",
+        "layerName": "description",
+        "objectID": "BF958CE9-CE68-4A82-8B7C-6A1406A0DCCE"
+      }
+    },
+    {
+      "content": "Chips (e.g. Applied filters, uploaded items)",
+      "source": {
+        "artboard": "Pattern_Overflow content",
+        "layerName": "components",
+        "objectID": "2CDF7E60-928E-495F-BBCD-31EF143DA447"
+      }
+    },
+    {
+      "content": "Show more allows all the hidden contents to be shownwhen there are lots of overflowing contents",
+      "source": {
+        "artboard": "Pattern_Overflow content",
+        "layerName": "description",
+        "objectID": "A95ACF94-0204-4E54-B47D-5893350C57D0"
+      }
+    },
+    {
+      "content": "Dropdown is used when all tabs cannot be shown.",
+      "source": {
+        "artboard": "Pattern_Overflow content",
+        "layerName": "description",
+        "objectID": "C9E5B6FF-5504-4998-AECD-793310E3662E"
+      }
+    },
+    {
+      "content": "Page header, dialog header, label, error messages, validation messages, help, or notification must never be truncated.",
+      "source": {
+        "artboard": "Pattern_Overflow content",
+        "layerName": "Text",
+        "objectID": "C6B6156B-CE3A-4640-8C21-4854DB80845D"
+      }
+    },
+    {
+      "content": "Truncation can be divided into 4 types as shown below.",
+      "source": {
+        "artboard": "Pattern_Overflow content",
+        "layerName": "Text Copy 24",
+        "objectID": "A92A4267-A0E4-4BF6-844A-F9269A304712"
+      }
+    },
+    {
+      "content": "Last updated: Nov 06, 2025",
+      "source": {
+        "artboard": "Pattern_Overflow content",
+        "layerName": "Text Copy 5",
+        "objectID": "6F8F5DC3-19BC-4BD6-8FE3-C167F5A74A8F"
+      }
+    },
+    {
+      "content": "• Added behavior guide of submenu.",
+      "source": {
+        "artboard": "Pattern_Overflow content",
+        "layerName": "Text",
+        "objectID": "483C68FA-28C6-437C-8610-2FD8930F8A4C"
+      }
+    },
+    {
+      "content": "• Update to the latest components, such as example screens.\n   - Replace with the latest Node components\n   - Replace with the latest Mosaic card designs.\n   - Change the spacing between ‘content’ tabs from 16 to 0.",
+      "source": {
+        "artboard": "Pattern_Overflow content",
+        "layerName": "Text",
+        "objectID": "483C68FA-28C6-437C-8610-2FD8930F8A4C"
+      }
+    },
+    {
+      "content": "... information at the end of the label (52)",
+      "source": {
+        "artboard": "Pattern_Overflow content",
+        "layerName": "Text",
+        "objectID": "6E9853DB-A735-4ABB-A788-EB0F2586ED4D"
+      }
+    },
+    {
+      "content": "Truncate the repeated part of the text string and show the main information at the end. (002)",
+      "source": {
+        "artboard": "Pattern_Overflow content",
+        "layerName": "Text",
+        "objectID": "A3E53A9F-78EE-4F71-882F-17089B1009FE"
+      }
+    }
+  ],
+  "usedComponents": {
+    "Filter chip": 5,
+    "Tooltip / Function Name": 4,
+    "Icon button / Medium": 2,
+    "Chip / File": 2,
+    "Text": 2,
+    "Button / contained-icon / medium": 1,
+    "Button / Primary / Icon + Text": 1,
+    "Input / Search / Real-time search": 1,
+    "Card / Header": 1,
+    "Button / ghost-icon / medium (enabled)": 1,
+    "Input / Text input / Enabled": 1,
+    "Button / contained-text / secondary-default": 1,
+    "Icon": 1,
+    "Chip / Filter - clear": 1,
+    "Table / Order_Ascending 1 - Arrow": 1
+  }
+}

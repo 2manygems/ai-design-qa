@@ -1,0 +1,74 @@
+{
+  "artboard": "Pattern_Sign in components behavior",
+  "statements": [
+    {
+      "content": "Invalid user ID or password.",
+      "source": {
+        "artboard": "Pattern_Sign in components behavior",
+        "layerName": "Error msg",
+        "objectID": "FD60543B-72C1-4993-945A-D35901F3E167"
+      }
+    },
+    {
+      "content": "Your account is locked due to too many failed login attempts. Contact your security administrator.",
+      "source": {
+        "artboard": "Pattern_Sign in components behavior",
+        "layerName": "Text",
+        "objectID": "50238AB3-2736-4455-BA93-3DDFBB721696"
+      }
+    },
+    {
+      "content": "When the user presses the Sign in button, display an error message below the input fields. Display an error popup only when the ID is locked due to multiple attempts to enter an incorrect password.",
+      "source": {
+        "artboard": "Pattern_Sign in components behavior",
+        "layerName": "Text",
+        "objectID": "68EE7B02-C650-4290-9671-0CD8BC40AEE3"
+      }
+    },
+    {
+      "content": "Sign in component\nbehavior 1.1",
+      "source": {
+        "artboard": "Pattern_Sign in components behavior",
+        "layerName": "Text",
+        "objectID": "54C99B7F-B999-416C-8B3A-F6B155939A97"
+      }
+    },
+    {
+      "content": "• Update to the latest components, such as example screens.\n   - Update the “Show/Hide” feature so that the password is visible when the “Show” icon is selected.",
+      "source": {
+        "artboard": "Pattern_Sign in components behavior",
+        "layerName": "Text",
+        "objectID": "483C68FA-28C6-437C-8610-2FD8930F8A4C"
+      }
+    },
+    {
+      "content": "Sign in component\nbehavior 1.0",
+      "source": {
+        "artboard": "Pattern_Sign in components behavior",
+        "layerName": "Text",
+        "objectID": "54C99B7F-B999-416C-8B3A-F6B155939A97"
+      }
+    },
+    {
+      "content": "Sign in component behavior",
+      "source": {
+        "artboard": "Pattern_Sign in components behavior",
+        "layerName": "Sign in component be",
+        "objectID": "67017BF4-D752-4BE6-8B7D-DB86C9D209C8"
+      }
+    },
+    {
+      "content": "Last updated: Nov 06, 2025",
+      "source": {
+        "artboard": "Pattern_Sign in components behavior",
+        "layerName": "Text Copy 5",
+        "objectID": "D8A44DBF-766E-4D7D-BFF1-862661FFCAC4"
+      }
+    }
+  ],
+  "usedComponents": {
+    "Button / contained-text / primary-default": 5,
+    "Input / Text input / Enabled": 4,
+    "Button 2": 1
+  }
+}

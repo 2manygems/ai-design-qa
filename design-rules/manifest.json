@@ -1,0 +1,315 @@
+{
+  "sourceFile": "index.html",
+  "sourcePath": "C:\\Users\\82108\\Desktop\\Networks UX 3.9 Guidelines_HTML_20260227\\Networks UX 3.9 Guidelines_HTML_20260227\\Networks UX 3.9 Guidelines_20260227\\index.html",
+  "unit": "px",
+  "colorFormat": "color-hex",
+  "artboardCount": 65,
+  "componentCount": 24,
+  "variantCount": 39,
+  "stateCount": 64,
+  "dedupeCount": 368,
+  "conflictCount": 16,
+  "manualReviewCount": 44,
+  "generatedAt": "2026-07-13T14:58:20.332Z",
+  "parserVersion": "1.2.0",
+  "classification": {
+    "foundation": [
+      "Foundation_Layout",
+      "Foundation_Layout dashboard",
+      "Foundation_Resolution",
+      "Foundation_Basic interaction",
+      "Foundation_Color",
+      "Foundation_Spacing",
+      "Foundation_Typography",
+      "Foundation_Icons",
+      "Foundation_Logos",
+      "Foundation_Voice and tone",
+      "Foundation_Number formats",
+      "Foundation_Date and time formats",
+      "Foundation_Mouse cursor",
+      "Foundation_Action labels"
+    ],
+    "component": [
+      "Components_Accordion",
+      "Components_App bar",
+      "Components_Banner",
+      "Components_Breadcrumb",
+      "Components_Button",
+      "Components_Checkbox",
+      "Components_Dashboard card",
+      "Components_Data tables",
+      "Components_Date and time picker",
+      "Components_Dialogs",
+      "Components_Dropdown list",
+      "Components_Error messages",
+      "Components_Filtering",
+      "Components_Find on page",
+      "Components_Form",
+      "Components_Global navigation bar",
+      "Components_Link",
+      "Components_Lists",
+      "Components_Loading",
+      "Components_Lookup",
+      "Components_Mosaic card",
+      "Components_Overflow menu",
+      "Components_Page navigation bar",
+      "Components_Pagination",
+      "Components_Radio button",
+      "Components_Scroll ",
+      "Components_Search",
+      "Components_Snackbars",
+      "Components_Sort by",
+      "Components_Splitter",
+      "Components_Status colors",
+      "Components_Step progress bar",
+      "Components_Tabs",
+      "Components_Target selector",
+      "Components_Text input",
+      "Components_Toggle",
+      "Components_Toolbar",
+      "Components_Tooltip",
+      "Components_Tree view"
+    ],
+    "pattern": [
+      "Pattern_Common actions",
+      "Pattern_Dashboard responsive",
+      "Pattern_Empty states",
+      "Pattern_Expand and collapse",
+      "Pattern_Overflow content",
+      "Pattern_Sign in components behavior",
+      "Pattern_File upload",
+      "Pattern_Full-screen modal"
+    ],
+    "meta": [
+      "0_Main",
+      "0_ndex",
+      "Changelog 3.9"
+    ],
+    "other": [
+      "AI Automation_Conversational AI"
+    ]
+  },
+  "componentSummaries": [
+    {
+      "artboard": "Components_Button",
+      "file": "components/button.json",
+      "componentNames": [
+        "Icon button",
+        "Text button",
+        "Button"
+      ],
+      "variantCount": 7,
+      "stateCount": 26
+    },
+    {
+      "artboard": "Components_Scroll ",
+      "file": "components/scroll.json",
+      "componentNames": [
+        "Scroll",
+        "Vertical scroll",
+        "Horizontal scroll",
+        "Scroll (Hide if unnecessary.)"
+      ],
+      "variantCount": 7,
+      "stateCount": 7
+    },
+    {
+      "artboard": "Components_Banner",
+      "file": "components/banner.json",
+      "componentNames": [
+        "Banner"
+      ],
+      "variantCount": 5,
+      "stateCount": 5
+    },
+    {
+      "artboard": "Components_Text input",
+      "file": "components/text-input.json",
+      "componentNames": [
+        "Input",
+        "Text"
+      ],
+      "variantCount": 6,
+      "stateCount": 12
+    },
+    {
+      "artboard": "Components_Tree view",
+      "file": "components/tree-view.json",
+      "componentNames": [
+        "Tree"
+      ],
+      "variantCount": 1,
+      "stateCount": 1
+    },
+    {
+      "artboard": "Components_Toggle",
+      "file": "components/toggle.json",
+      "componentNames": [
+        "Toggle"
+      ],
+      "variantCount": 1,
+      "stateCount": 1
+    },
+    {
+      "artboard": "Components_Status colors",
+      "file": "components/status-colors.json",
+      "componentNames": [
+        "Status"
+      ],
+      "variantCount": 1,
+      "stateCount": 1
+    },
+    {
+      "artboard": "Components_Tooltip",
+      "file": "components/tooltip.json",
+      "componentNames": [
+        "Tooltip"
+      ],
+      "variantCount": 1,
+      "stateCount": 1
+    },
+    {
+      "artboard": "Components_Dashboard card",
+      "file": "components/dashboard-card.json",
+      "componentNames": [
+        "Card"
+      ],
+      "variantCount": 1,
+      "stateCount": 1
+    },
+    {
+      "artboard": "Components_Data tables",
+      "file": "components/data-tables.json",
+      "componentNames": [
+        "Data table",
+        "Table"
+      ],
+      "variantCount": 2,
+      "stateCount": 2
+    },
+    {
+      "artboard": "Components_Checkbox",
+      "file": "components/checkbox.json",
+      "componentNames": [
+        "Check Box"
+      ],
+      "variantCount": 1,
+      "stateCount": 1
+    },
+    {
+      "artboard": "Components_Toolbar",
+      "file": "components/toolbar.json",
+      "componentNames": [
+        "Tool Bar"
+      ],
+      "variantCount": 1,
+      "stateCount": 1
+    },
+    {
+      "artboard": "Components_Filtering",
+      "file": "components/filtering.json",
+      "componentNames": [
+        "Filter chip"
+      ],
+      "variantCount": 1,
+      "stateCount": 1
+    },
+    {
+      "artboard": "Components_Form",
+      "file": "components/form.json",
+      "componentNames": [
+        "Form"
+      ],
+      "variantCount": 1,
+      "stateCount": 1
+    },
+    {
+      "artboard": "Components_Tabs",
+      "file": "components/tabs.json",
+      "componentNames": [
+        "Tabs"
+      ],
+      "variantCount": 1,
+      "stateCount": 1
+    },
+    {
+      "artboard": "Components_Pagination",
+      "file": "components/pagination.json",
+      "componentNames": [
+        "Pagination"
+      ],
+      "variantCount": 1,
+      "stateCount": 1
+    },
+    {
+      "artboard": "Components_Error messages",
+      "file": "components/error-messages.json",
+      "componentNames": [
+        "Error(Red) or Assistive(Green) Message"
+      ],
+      "variantCount": 1,
+      "stateCount": 1
+    }
+  ],
+  "patternSummaries": [
+    {
+      "artboard": "Pattern_Common actions",
+      "file": "patterns/common-actions.json",
+      "statements": 38
+    },
+    {
+      "artboard": "Pattern_Dashboard responsive",
+      "file": "patterns/dashboard-responsive.json",
+      "statements": 24
+    },
+    {
+      "artboard": "Pattern_Empty states",
+      "file": "patterns/empty-states.json",
+      "statements": 53
+    },
+    {
+      "artboard": "Pattern_Expand and collapse",
+      "file": "patterns/expand-and-collapse.json",
+      "statements": 0
+    },
+    {
+      "artboard": "Pattern_Overflow content",
+      "file": "patterns/overflow-content.json",
+      "statements": 39
+    },
+    {
+      "artboard": "Pattern_Sign in components behavior",
+      "file": "patterns/sign-in-components-behavior.json",
+      "statements": 8
+    },
+    {
+      "artboard": "Pattern_File upload",
+      "file": "patterns/file-upload.json",
+      "statements": 20
+    },
+    {
+      "artboard": "Pattern_Full-screen modal",
+      "file": "patterns/full-screen-modal.json",
+      "statements": 27
+    }
+  ],
+  "extractionPolicy": {
+    "canonicalSource": "symbol 타입 레이어 + 홈 아트보드 일치 시에만 canonical",
+    "excludedPatterns": [
+      "/^#tmp-/i",
+      "/\\bguide\\b/i",
+      "/\\bexample\\b/i",
+      "/lorem ipsum/i",
+      "/\\bannotation\\b/i",
+      "/^background$/i",
+      "/^bg$/i",
+      "/^line(\\s|$)/i",
+      "/^divider(\\s|$)/i",
+      "/^metric\\s*\\//i",
+      "/changelog/i"
+    ],
+    "positionValuesExcluded": true,
+    "derivedValuesMarked": "spacing.derived=true / derivedPadding / derivedInset 으로 표시",
+    "inventedValues": "none — 소스에 없는 값은 null"
+  }
+}

@@ -1,0 +1,434 @@
+{
+  "artboard": "Pattern_Empty states",
+  "statements": [
+    {
+      "content": "Lorem ipsum dolor sit amet, conse iduent ut labore magna ctetry aduifhks elit, sed do euisod tempor incididunt ut labore realiqua.",
+      "source": {
+        "artboard": "Pattern_Empty states",
+        "layerName": "Text",
+        "objectID": "C361D48D-603A-459A-AAED-6B22E39892DD"
+      }
+    },
+    {
+      "content": "Following 6 elements can be combined to show empty states.",
+      "source": {
+        "artboard": "Pattern_Empty states",
+        "layerName": "Text Copy 11",
+        "objectID": "5E20B311-2AFD-438C-A53D-049AA5DA6070"
+      }
+    },
+    {
+      "content": "1. Container. Covers the entire content area: #FFFFFF\n2. Guide icon (60px)\n3. Empty state title: A short message explaining the current state (or a short guide to getting out of the current state)\n4. User instructions (optional)\n5. Action button (optional). You can add up to 3 buttons if needed.",
+      "source": {
+        "artboard": "Pattern_Empty states",
+        "layerName": "Text Copy 32",
+        "objectID": "70150D36-F215-4180-9445-50B258193CDF"
+      }
+    },
+    {
+      "content": "Guide icon and message describing current state must be displayed on the content area. Action buttons or user instructions can be shown depending on the situation. Column and container area(data table background) must be shown, with pagination discarded.",
+      "source": {
+        "artboard": "Pattern_Empty states",
+        "layerName": "Text Copy",
+        "objectID": "B8875535-24A2-422A-96B4-D403CD9F3E33"
+      }
+    },
+    {
+      "content": "No messages to display\nNo notifications to show",
+      "source": {
+        "artboard": "Pattern_Empty states",
+        "layerName": "Text Copy 33",
+        "objectID": "1B29D645-8EB0-4E47-A951-8E25E8DE8B39"
+      }
+    },
+    {
+      "content": "Data cannot be displayed due to an error.",
+      "source": {
+        "artboard": "Pattern_Empty states",
+        "layerName": "Text",
+        "objectID": "A5C148EE-F2C2-448D-8224-5CA5D11E076B"
+      }
+    },
+    {
+      "content": "Run time error\nData can not be loaded",
+      "source": {
+        "artboard": "Pattern_Empty states",
+        "layerName": "Text Copy 18",
+        "objectID": "8A763990-EA95-41B8-94B0-2F28E85B99CF"
+      }
+    },
+    {
+      "content": "Data cannot be displayed because you do not have permission.",
+      "source": {
+        "artboard": "Pattern_Empty states",
+        "layerName": "Text",
+        "objectID": "A93D6A4C-BEBF-4D5F-9CD1-F634E0FC1E30"
+      }
+    },
+    {
+      "content": "Import, Upload, Drag & drop",
+      "source": {
+        "artboard": "Pattern_Empty states",
+        "layerName": "Text",
+        "objectID": "AACF736C-660F-45E4-8907-C5BE4EAE57B7"
+      }
+    },
+    {
+      "content": "Import &#91item] / Upload &#91item]",
+      "source": {
+        "artboard": "Pattern_Empty states",
+        "layerName": "Text Copy 18",
+        "objectID": "88450635-33B8-423D-BE10-BAD98623560B"
+      }
+    },
+    {
+      "content": "Create &#91item] / Add &#91item]",
+      "source": {
+        "artboard": "Pattern_Empty states",
+        "layerName": "Text Copy 18",
+        "objectID": "64FBBD42-096F-4717-8CD5-5B4FFEEE59F7"
+      }
+    },
+    {
+      "content": "No contents\nThe case when the user&#39;s specific action is needed. (No data to show because the user didn&#39;t create/add/import an item.)",
+      "source": {
+        "artboard": "Pattern_Empty states",
+        "layerName": "Text Copy 24",
+        "objectID": "3C7D07A2-AA68-4869-8C60-9B43B974A53D"
+      }
+    },
+    {
+      "content": "The case when the user&#39;s specific",
+      "source": {
+        "artboard": "Pattern_Empty states",
+        "layerName": "The case when the us",
+        "objectID": "4B91B084-03B8-4CE8-B624-85D2DD64ED1C"
+      }
+    },
+    {
+      "content": "action is needed. (No data to show",
+      "source": {
+        "artboard": "Pattern_Empty states",
+        "layerName": "action is needed. (N",
+        "objectID": "94ADEECD-2158-4C1A-9863-728F32508382"
+      }
+    },
+    {
+      "content": "because the user didn&#39;t create/add/",
+      "source": {
+        "artboard": "Pattern_Empty states",
+        "layerName": "because the user did",
+        "objectID": "A95C1574-E6E3-40A2-B286-9161034FFB08"
+      }
+    },
+    {
+      "content": "There are no results matching your search terms.",
+      "source": {
+        "artboard": "Pattern_Empty states",
+        "layerName": "Text",
+        "objectID": "14449BF6-1235-42A7-AD95-5D326CCC0BE6"
+      }
+    },
+    {
+      "content": "No results\nThis state is applied when there is no results match the search term on the client side. (While data has already been loaded from the server to the client app)",
+      "source": {
+        "artboard": "Pattern_Empty states",
+        "layerName": "Text Copy 20",
+        "objectID": "49D159A3-17E2-41CA-A058-116D4023C604"
+      }
+    },
+    {
+      "content": "This state is applied when there is",
+      "source": {
+        "artboard": "Pattern_Empty states",
+        "layerName": "This state is applie",
+        "objectID": "ACEA44F0-2BA0-4014-B494-9D502CC7BCC2"
+      }
+    },
+    {
+      "content": "no results match the search term",
+      "source": {
+        "artboard": "Pattern_Empty states",
+        "layerName": "no results match the",
+        "objectID": "51201403-451B-4504-99F0-D8EBFB704E31"
+      }
+    },
+    {
+      "content": "on the client side. (While data has",
+      "source": {
+        "artboard": "Pattern_Empty states",
+        "layerName": "on the client side.",
+        "objectID": "D1078C8E-A5F5-4F30-A519-75A9CDAB4B05"
+      }
+    },
+    {
+      "content": "already been loaded from the",
+      "source": {
+        "artboard": "Pattern_Empty states",
+        "layerName": "already been loaded",
+        "objectID": "164E1626-FC69-499D-896C-05C36F6D24C2"
+      }
+    },
+    {
+      "content": "server to the client app)",
+      "source": {
+        "artboard": "Pattern_Empty states",
+        "layerName": "server to the client",
+        "objectID": "CD1729D9-1A5A-4355-A997-335FDD680DA2"
+      }
+    },
+    {
+      "content": "Empty state title example",
+      "source": {
+        "artboard": "Pattern_Empty states",
+        "layerName": "Text Copy 17",
+        "objectID": "24D91972-938A-4FC5-9208-DB12A8F15D5D"
+      }
+    },
+    {
+      "content": "Empty state title and guide icons",
+      "source": {
+        "artboard": "Pattern_Empty states",
+        "layerName": "Text Copy 19",
+        "objectID": "E2597039-0594-44F2-B087-76DDC93DBAB8"
+      }
+    },
+    {
+      "content": "Messages need to keep the tone & manner by conditions listed below.",
+      "source": {
+        "artboard": "Pattern_Empty states",
+        "layerName": "Text Copy 8",
+        "objectID": "2660332C-2D87-44E2-94E0-A8D3BE2C7649"
+      }
+    },
+    {
+      "content": "&gt; Accurately guide the user’s actions\n&gt; Describe functions of the relevant page\n&gt; Depict the datas within an area with clear explanations",
+      "source": {
+        "artboard": "Pattern_Empty states",
+        "layerName": "Text Copy 26",
+        "objectID": "529085A6-52EA-45DF-A856-FEC1E8BB850D"
+      }
+    },
+    {
+      "content": "Please contact system manager\nto resolve this problem.",
+      "source": {
+        "artboard": "Pattern_Empty states",
+        "layerName": "Text",
+        "objectID": "7F57A955-57A0-4BB5-A454-7E23DDD74FE4"
+      }
+    },
+    {
+      "content": "When data cannot be loaded, there needs to be a description showing there are no data currently, or an explanation of what user needs to do resolve this situation.",
+      "source": {
+        "artboard": "Pattern_Empty states",
+        "layerName": "Text",
+        "objectID": "50544AD2-D451-42D7-A5C3-C1539215E41C"
+      }
+    },
+    {
+      "content": "This is when the user didn&#39;t take actions to display the data.\nClearly guide users to fill the empty space with data. If necessary, provide buttons to accompany user actions.\n\n&gt; Title: Action guide\n&gt; Body: Detailed action guide\n&gt; Action button (optional): When a function button is not provided in the UI, provide the button within the empty space. (Refer to the Drag & drop example)",
+      "source": {
+        "artboard": "Pattern_Empty states",
+        "layerName": "Text Copy 48",
+        "objectID": "20316D3D-AEBD-49D9-9A45-F02A8123E628"
+      }
+    },
+    {
+      "content": "(1) No content available because no action was taken by the user.",
+      "source": {
+        "artboard": "Pattern_Empty states",
+        "layerName": "Text Copy 44",
+        "objectID": "48F6FC61-0D9E-4ECF-9FE6-A87BCB110D0F"
+      }
+    },
+    {
+      "content": "Tap the Create button above to create a mass alarm.",
+      "source": {
+        "artboard": "Pattern_Empty states",
+        "layerName": "Text",
+        "objectID": "04A48DCA-1D6D-4C4E-8C6F-0E8EE02B64AF"
+      }
+    },
+    {
+      "content": "Drag and drop Silce templates here or click the Import button below to open the template browser.",
+      "source": {
+        "artboard": "Pattern_Empty states",
+        "layerName": "Text",
+        "objectID": "4ECF2B13-E8DE-455E-B107-5B5767A234C4"
+      }
+    },
+    {
+      "content": "When a function button is not provided in the UI, provide the button within the empty space.",
+      "source": {
+        "artboard": "Pattern_Empty states",
+        "layerName": "Text Copy 55",
+        "objectID": "B0E871A3-51C3-4A88-9900-8755B95F49DC"
+      }
+    },
+    {
+      "content": "(2) No contents to display",
+      "source": {
+        "artboard": "Pattern_Empty states",
+        "layerName": "Text Copy 46",
+        "objectID": "51D528E2-1EB3-42B5-9154-9B976A6D83AC"
+      }
+    },
+    {
+      "content": "This is when there is no data to load from the server. Since there is nothing for the user to do, detailed action instructions are not provided.\n\n&gt; Title: No data / No messages\n&gt; Body: Not provided\n&gt; Action button: Not provided",
+      "source": {
+        "artboard": "Pattern_Empty states",
+        "layerName": "Text Copy 48",
+        "objectID": "8533DA41-E930-4FD7-B49F-2079E5094642"
+      }
+    },
+    {
+      "content": "This is when there is no data to load from the server. Since there is nothing for the user to do, detailed action instructions are not provided.",
+      "source": {
+        "artboard": "Pattern_Empty states",
+        "layerName": "This is when there i",
+        "objectID": "7023A84A-832A-4FBE-9652-C6D8862236B7"
+      }
+    },
+    {
+      "content": "&gt; Title: No data / No messages",
+      "source": {
+        "artboard": "Pattern_Empty states",
+        "layerName": "&gt; Title: No data / N",
+        "objectID": "40B2864A-F02E-4FD7-A205-87B1EFB100D4"
+      }
+    },
+    {
+      "content": "&gt; No contents\n&gt; No results\n&gt; Error state",
+      "source": {
+        "artboard": "Pattern_Empty states",
+        "layerName": "Text Copy 43",
+        "objectID": "22D12979-605F-4080-AF16-713806D59EC4"
+      }
+    },
+    {
+      "content": "Failed to connect to the database server. Please contact system administrator to resolve this problem.",
+      "source": {
+        "artboard": "Pattern_Empty states",
+        "layerName": "Text",
+        "objectID": "312CDC58-A4B0-4D8D-93DC-A55D9E685D42"
+      }
+    },
+    {
+      "content": "Please try reloading application, \nor contact support if the issue persists.",
+      "source": {
+        "artboard": "Pattern_Empty states",
+        "layerName": "Text",
+        "objectID": "A134F231-2694-47A8-A0E1-7FD5943F6DD1"
+      }
+    },
+    {
+      "content": "If data cannot be retrieved due to an error, provide a brief description of the current state, why data cannot be displayed and what actions the user can take to resolve the situation.\n\n&gt; Title: Brief description of the error status\n&gt; Body: User behavior guide to resolve the situation\n&gt; Action button (optional): When a function button is not provided in the UI, provide the button within the empty space.",
+      "source": {
+        "artboard": "Pattern_Empty states",
+        "layerName": "Text Copy 10",
+        "objectID": "BC6B2987-C634-4D2D-9D75-E70BB427C3AC"
+      }
+    },
+    {
+      "content": "You do not have permission to view the data.\nPlease contact your administrator for permission changes.",
+      "source": {
+        "artboard": "Pattern_Empty states",
+        "layerName": "Text",
+        "objectID": "CA65C794-78C6-4208-B567-3CE61FEE3EA0"
+      }
+    },
+    {
+      "content": "Display an instruction allowing the user to request permission.",
+      "source": {
+        "artboard": "Pattern_Empty states",
+        "layerName": "Text Copy 51",
+        "objectID": "30B42CB6-1DA7-4E50-B4CA-8762C961F0AA"
+      }
+    },
+    {
+      "content": "This state is applied when there is no results match the search term (or filtering) on the client side. (While data has already been loaded from the server to the client app)\n\n&gt; Title: No results found \n&gt; Body: Not provided\n&gt; Action button: Not provided",
+      "source": {
+        "artboard": "Pattern_Empty states",
+        "layerName": "Text Copy 54",
+        "objectID": "E59E3525-93A8-4B4F-A118-E49D1BAC6AA4"
+      }
+    },
+    {
+      "content": "This state is applied when there is no results match the search term (or filtering) on the client side. (While data has already been loaded from the server to",
+      "source": {
+        "artboard": "Pattern_Empty states",
+        "layerName": "This state is applie",
+        "objectID": "19A6EDD2-DBF7-4325-8446-3FA51A5886A0"
+      }
+    },
+    {
+      "content": "&gt; Title: No results found",
+      "source": {
+        "artboard": "Pattern_Empty states",
+        "layerName": "&gt; Title: No results",
+        "objectID": "05C9D936-4F00-4C5E-8276-D9744C16BCA9"
+      }
+    },
+    {
+      "content": "When the component area is narrow, it is possible to indicate that there is no search result only with text.",
+      "source": {
+        "artboard": "Pattern_Empty states",
+        "layerName": "Text Copy 56",
+        "objectID": "E77EED8C-085F-423D-87B5-A1502C79E358"
+      }
+    },
+    {
+      "content": "You do not have permission to view the data.\nContact your administrator for permission changes.",
+      "source": {
+        "artboard": "Pattern_Empty states",
+        "layerName": "Text",
+        "objectID": "FFDEE2DC-69F9-4B6E-9274-FF059CE8C6DB"
+      }
+    },
+    {
+      "content": "1. SamsungOne/SamsunOneKorean 400, 15pt, line-height 18, #000000",
+      "source": {
+        "artboard": "Pattern_Empty states",
+        "layerName": "Text Copy 30",
+        "objectID": "FE9886E4-6F93-42DE-9BC5-FE58282ECC62"
+      }
+    },
+    {
+      "content": "2. SamsungOne/SamsungOneKorean 400, 13pt, line-height 18, #606060",
+      "source": {
+        "artboard": "Pattern_Empty states",
+        "layerName": "Text Copy 31",
+        "objectID": "673A6426-E104-472F-8A66-671CBADBBDE4"
+      }
+    },
+    {
+      "content": "• Changed the text size to improve visibility. (13&#859415, 11&#859413)",
+      "source": {
+        "artboard": "Pattern_Empty states",
+        "layerName": "Text",
+        "objectID": "483C68FA-28C6-437C-8610-2FD8930F8A4C"
+      }
+    },
+    {
+      "content": "• Update to the latest components, such as example screens.\n   - Change the color of divider (#E5E5E5 -&gt; #CCCCCC)\n• In a guide with no search results, add a principle to display only text in a narrow area. and text color #9A9A9A",
+      "source": {
+        "artboard": "Pattern_Empty states",
+        "layerName": "Text",
+        "objectID": "483C68FA-28C6-437C-8610-2FD8930F8A4C"
+      }
+    },
+    {
+      "content": "• Cases where there is no data are classified into two cases depending on whether user action is required or not.\n   - When user action is required, action instructions are displayed with priority.\n• No data and No maps icons have been changed.\n   - Removed the exclamation mark from the icons to classify as non-error.\n• Create (+)  icon added.\n• Magnifying glass icon added to display No results found message.",
+      "source": {
+        "artboard": "Pattern_Empty states",
+        "layerName": "Text",
+        "objectID": "483C68FA-28C6-437C-8610-2FD8930F8A4C"
+      }
+    }
+  ],
+  "usedComponents": {
+    "Text button / Secondary / Label": 8,
+    "&#10033 / Text / Body / Black / Center-align / Emphasis / Left": 2,
+    "Input / Search / Real-time search": 1
+  }
+}

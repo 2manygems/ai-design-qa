@@ -1,0 +1,85 @@
+{
+  "sourceArtboard": "Components_Form",
+  "components": [
+    {
+      "component": "Form",
+      "description": null,
+      "variants": [
+        {
+          "name": "Button",
+          "states": [
+            {
+              "name": "CTA",
+              "geometry": {
+                "width": 68,
+                "height": 30,
+                "minWidth": null,
+                "maxWidth": null
+              },
+              "spacing": {
+                "derived": true,
+                "note": "텍스트 rect와 심볼 rect의 차이에서 계산된 실측값 (문서화된 토큰 아님)",
+                "textPadding": {
+                  "left": 12,
+                  "right": 15,
+                  "top": 7,
+                  "bottom": 7
+                }
+              },
+              "border": {
+                "border": "1px solid #8A8A8A",
+                "borderRadius": "4px",
+                "sourceLayer": "Button BG"
+              },
+              "background": {
+                "color": "#F5F5F5",
+                "opacity": null,
+                "boxShadow": "inset 0 2px 0 0 #FFFFFF",
+                "sourceLayer": "Button BG"
+              },
+              "typography": [
+                {
+                  "role": "Label (Sentence case)",
+                  "content": "Button",
+                  "fontFamily": "SamsungOne-700",
+                  "fontSize": "13px",
+                  "fontWeight": 700,
+                  "lineHeight": "16px",
+                  "color": "#000000",
+                  "textAlign": "center",
+                  "derivedPadding": {
+                    "left": 12,
+                    "right": 15,
+                    "top": 7,
+                    "bottom": 7
+                  }
+                }
+              ],
+              "icon": null,
+              "content": [
+                "Button"
+              ],
+              "behavior": null,
+              "responsive": null,
+              "stateOverlays": null,
+              "nestedComponents": null,
+              "source": [
+                {
+                  "artboard": "Components_Form",
+                  "layerName": "Form / Button / CTA",
+                  "objectID": "057B84EE-E35E-4931-AA00-B43D64354B83"
+                },
+                {
+                  "artboard": "Components_Form",
+                  "layerName": "Form / Button / CTA",
+                  "objectID": "057B84EE-E35E-4931-AA00-B43D64354B83"
+                }
+              ],
+              "confidence": "high"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

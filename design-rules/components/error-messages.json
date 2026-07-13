@@ -1,0 +1,44 @@
+{
+  "sourceArtboard": "Components_Error messages",
+  "components": [
+    {
+      "component": "Error(Red) or Assistive(Green) Message",
+      "description": null,
+      "variants": [
+        {
+          "name": "(unspecified)",
+          "states": [
+            {
+              "name": "(unspecified)",
+              "geometry": {
+                "width": 213,
+                "height": 16,
+                "minWidth": null,
+                "maxWidth": null
+              },
+              "spacing": null,
+              "border": null,
+              "background": null,
+              "typography": null,
+              "icon": null,
+              "content": null,
+              "behavior": null,
+              "responsive": null,
+              "stateOverlays": null,
+              "nestedComponents": null,
+              "source": [
+                {
+                  "artboard": "Components_Tooltip",
+                  "layerName": "Error(Red) or Assistive(Green) Message",
+                  "objectID": "8A85E4FF-3EDF-4A1F-8F1C-DABF1FB450FE"
+                }
+              ],
+              "confidence": "medium",
+              "note": "홈 아트보드에 심볼 정의가 없어 다른 아트보드의 반복 사용례에서 추출됨"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

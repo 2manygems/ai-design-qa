@@ -1,4 +1,5 @@
 import type { GuidelineViolation } from './guideline'
+import type { QaReport } from './qa'
 
 export interface ExtractedComponent {
   id: string
@@ -57,6 +58,7 @@ export interface AnalysisResult {
   strings: ExtractedString[]
   css: ExtractedCssRule[]
   guidelineViolations: GuidelineViolation[]
+  qaReport: QaReport
   uxWritingReview: UxWritingFeedback[]
   createdAt: string
 }

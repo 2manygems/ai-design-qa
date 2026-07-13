@@ -1,0 +1,77 @@
+{
+  "sourceArtboard": "Components_Toggle",
+  "components": [
+    {
+      "component": "Toggle",
+      "description": null,
+      "variants": [
+        {
+          "name": "Icon",
+          "states": [
+            {
+              "name": "Double",
+              "geometry": {
+                "width": 60,
+                "height": 30,
+                "minWidth": null,
+                "maxWidth": null
+              },
+              "spacing": null,
+              "border": null,
+              "background": null,
+              "typography": null,
+              "icon": [
+                {
+                  "name": "Icon 2",
+                  "width": 16,
+                  "height": 16,
+                  "derivedInset": {
+                    "left": 37,
+                    "top": 7
+                  }
+                },
+                {
+                  "name": "Icon 1",
+                  "width": 16,
+                  "height": 16,
+                  "derivedInset": {
+                    "left": 7,
+                    "top": 7
+                  }
+                }
+              ],
+              "content": null,
+              "behavior": null,
+              "responsive": null,
+              "stateOverlays": null,
+              "nestedComponents": null,
+              "source": [
+                {
+                  "artboard": "Components_Toggle",
+                  "layerName": "Toggle / Icon / Double",
+                  "objectID": "682D27B8-DFC8-4986-A25C-9BAAED239309"
+                },
+                {
+                  "artboard": "Components_Toggle",
+                  "layerName": "Toggle / Icon / Double",
+                  "objectID": "682D27B8-DFC8-4986-A25C-9BAAED239309"
+                },
+                {
+                  "artboard": "Components_Toggle",
+                  "layerName": "Toggle / Icon / Double",
+                  "objectID": "682D27B8-DFC8-4986-A25C-9BAAED239309"
+                },
+                {
+                  "artboard": "Components_Toggle",
+                  "layerName": "Toggle / Icon / Double",
+                  "objectID": "682D27B8-DFC8-4986-A25C-9BAAED239309"
+                }
+              ],
+              "confidence": "high"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

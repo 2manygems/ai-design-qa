@@ -1,0 +1,57 @@
+{
+  "sourceArtboard": "Components_Pagination",
+  "components": [
+    {
+      "component": "Pagination",
+      "description": null,
+      "variants": [
+        {
+          "name": "4 pages",
+          "states": [
+            {
+              "name": "(unspecified)",
+              "geometry": {
+                "width": 838,
+                "height": 48,
+                "minWidth": null,
+                "maxWidth": null
+              },
+              "spacing": null,
+              "border": {
+                "border": null,
+                "borderRadius": null,
+                "sourceLayer": "Container"
+              },
+              "background": {
+                "color": null,
+                "opacity": null,
+                "boxShadow": null,
+                "sourceLayer": "Container"
+              },
+              "typography": null,
+              "icon": null,
+              "content": null,
+              "behavior": null,
+              "responsive": null,
+              "stateOverlays": null,
+              "nestedComponents": [
+                "Pagination / Items per page",
+                "Pagination / Links / 4 pages",
+                "Pagination / Total num. count"
+              ],
+              "source": [
+                {
+                  "artboard": "Components_Scroll ",
+                  "layerName": "Pagination / 4 pages",
+                  "objectID": "C20AF1E0-8C17-4775-9BF9-17293CDBE8DB"
+                }
+              ],
+              "confidence": "medium",
+              "note": "홈 아트보드에 심볼 정의가 없어 다른 아트보드의 반복 사용례에서 추출됨"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

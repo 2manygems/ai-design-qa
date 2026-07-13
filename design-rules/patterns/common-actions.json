@@ -1,0 +1,322 @@
+{
+  "artboard": "Pattern_Common actions",
+  "statements": [
+    {
+      "content": "&gt; Elements that are getting renamed turns into active text field with the wholde name highlighted. Users can instantly start typing.\n&gt; Pressing areas outside the text field or pressing “esc” key from the keyboard can exit renaming.",
+      "source": {
+        "artboard": "Pattern_Common actions",
+        "layerName": "&gt; Elements that are",
+        "objectID": "572F775A-5AA8-4713-B02A-1432E9FF3349"
+      }
+    },
+    {
+      "content": "Renaming is an action of reseting a name. Rename does not prompt dialogs and should be carried out without leaving the page.",
+      "source": {
+        "artboard": "Pattern_Common actions",
+        "layerName": "Renaming is an actio",
+        "objectID": "F51D314B-81D9-446B-A5F7-F5A48270B316"
+      }
+    },
+    {
+      "content": "Remove is an action of discarding items from a list or selected items. The difference between delete and remove is that removed elements are not permanently deleted.",
+      "source": {
+        "artboard": "Pattern_Common actions",
+        "layerName": "Remove is an action",
+        "objectID": "1C329947-E4C0-4307-B9D7-3337A54AF30F"
+      }
+    },
+    {
+      "content": "&gt; Small “X” icon should be used. Never use together with “trash can” icon.\n&gt; Warning popup dialogs should not prompt and Items should be removed instantly when user presses remove icon.\n&gt; When there are multiple elements that can be edited, additional button to remove all should be provided.",
+      "source": {
+        "artboard": "Pattern_Common actions",
+        "layerName": "&gt; Small “X” icon sho",
+        "objectID": "0D533572-5C3D-4C52-8C69-C1181C679A04"
+      }
+    },
+    {
+      "content": "Inline edit allows users to edit datas without leaving the page they are at. For information that needs constant or just light edits, inline edit is used instead of prompting a new window or page transitioning. Only information that are visible can be edited.",
+      "source": {
+        "artboard": "Pattern_Common actions",
+        "layerName": "Inline edit allows u",
+        "objectID": "0EEE41BF-04C1-429F-BD19-4BC7C6043D7E"
+      }
+    },
+    {
+      "content": "&gt; Only one row can be edited at a time.\n&gt; Fields are not shown for elements that cannot be edited.\n&gt; For elements that can be edited in edit mode, but for some unknown reason cannot be edited, the text field shows as inactive. \n&gt; Pressing edit button from another row while editing discards current changes made(same as cancel).",
+      "source": {
+        "artboard": "Pattern_Common actions",
+        "layerName": "&gt; Only one row can b",
+        "objectID": "51F33D43-4245-4DAC-B91A-0B811A583375"
+      }
+    },
+    {
+      "content": "&gt; Edit details in dialog\n&gt; Go to edit mode\n&gt; Inline edit",
+      "source": {
+        "artboard": "Pattern_Common actions",
+        "layerName": "&gt; Edit details in di",
+        "objectID": "39505944-C2F0-4F13-8E6C-936944D0840C"
+      }
+    },
+    {
+      "content": "Data value can be changed via edit. Popup dialogs or page transition can occur depending on the amount of data that is about to be editted. Depending on the information, or If information needs constant editting, inline edit can be provided.",
+      "source": {
+        "artboard": "Pattern_Common actions",
+        "layerName": "Text Copy 19",
+        "objectID": "F6B0C8AC-FD04-4301-9C6B-F5EE05B16F03"
+      }
+    },
+    {
+      "content": "&gt; When both edit and detailed pages exist, edit should be accessible from detailed page.\n&gt; Items that cannot be edited in edit mode shows up as inactive state.\n&gt; Edit function can be found in the overflow menu in lists, and turn to edit mode instantly upon selection.\n&gt; Edit icon is placed on elements that are editable among list of uneditable items.",
+      "source": {
+        "artboard": "Pattern_Common actions",
+        "layerName": "&gt; When both edit and",
+        "objectID": "E3316B3A-FB2F-45DB-856D-04F554A835F2"
+      }
+    },
+    {
+      "content": "Dialogs provide editing capability without page transition. Detailed information unavailable in the main page can be accessed to be editted.",
+      "source": {
+        "artboard": "Pattern_Common actions",
+        "layerName": "Text Copy 20",
+        "objectID": "1586855B-11A3-4539-A9B4-7BB753D60E46"
+      }
+    },
+    {
+      "content": "&gt; When both edit and detailed pages exist, edit should be accessible from detailed page.\n&gt; Items that cannot be edited in edit mode shows up as inactive state.\n&gt; Edit function can be found in the overflow menu in lists, and turn to edit mode instantly upon selection.\n&gt; Place edit icon on elements that are editable among list of uneditable items.",
+      "source": {
+        "artboard": "Pattern_Common actions",
+        "layerName": "&gt; When both edit and",
+        "objectID": "E7C2740F-F545-4821-AECB-D073FC566898"
+      }
+    },
+    {
+      "content": "When there are multiple and complicated items that need to be edited, page transition occurs to access datas that are not shown on the main page to edit.",
+      "source": {
+        "artboard": "Pattern_Common actions",
+        "layerName": "When there are multi",
+        "objectID": "0EC28274-CE46-48D9-AE23-DBE29C10C139"
+      }
+    },
+    {
+      "content": "Duplicate is an action of making another copy of selected item.",
+      "source": {
+        "artboard": "Pattern_Common actions",
+        "layerName": "Text Copy 17",
+        "objectID": "6B210BDA-E020-409D-93A9-552C1D3E68A4"
+      }
+    },
+    {
+      "content": "&gt; Duplicate items show above the original item along with editable columns with text fields. There should be a “copy” at the end of the name as a default.",
+      "source": {
+        "artboard": "Pattern_Common actions",
+        "layerName": "Text Copy 18",
+        "objectID": "6865D84B-46CE-4D9A-A71F-F64786A93F0C"
+      }
+    },
+    {
+      "content": "・ When canceling deletion or recreating an element takes a short time, datas are erased without further warnings.\n・ If reverting is possible for a specified period, undo button can be applied to prevend user errors.(refer to snackbar guide. Function needs consultation.)",
+      "source": {
+        "artboard": "Pattern_Common actions",
+        "layerName": "Text Copy 14",
+        "objectID": "D86AE9B0-1831-4923-B80F-72DA8A1DB006"
+      }
+    },
+    {
+      "content": "&gt; High-impact deletion",
+      "source": {
+        "artboard": "Pattern_Common actions",
+        "layerName": "description copy 3",
+        "objectID": "FC9636FE-CA5F-405A-84F4-42A4CBA3EAF7"
+      }
+    },
+    {
+      "content": "・ When recreating an element takes a long time and has a significant impact on the system, popup dialog need to prompt to recheck user request. \n・ When deleting affect other elements, popup dialog need to prompt to recheck user request. \n・ Name of the item in which user is currently deleting must show on the popup dialog. \n・ If reverting is possible for a specified period, undo button can be applied to prevend user errors.(refer to snackbar guide. Function needs consultation.)",
+      "source": {
+        "artboard": "Pattern_Common actions",
+        "layerName": "Text Copy 15",
+        "objectID": "5B21FD98-BDB7-42DB-B142-97590B31D118"
+      }
+    },
+    {
+      "content": "・ When deleting from popup dialog or fullscreen edit mode, page transitions to data list after deletion.\n・ When deleting fails, users need to be notified of the deletion failure.",
+      "source": {
+        "artboard": "Pattern_Common actions",
+        "layerName": "Text Copy 16",
+        "objectID": "EDD1CB3D-D8B9-46AC-B98F-B3681948A5EF"
+      }
+    },
+    {
+      "content": "When deleting from popup dialog or fullscreen edit mode, page transitions to data list after deletion.",
+      "source": {
+        "artboard": "Pattern_Common actions",
+        "layerName": "When deleting from p",
+        "objectID": "01B37233-3769-49D9-9D7F-BC2820752054"
+      }
+    },
+    {
+      "content": "When deleting fails, users need to be notified of the deletion failure.",
+      "source": {
+        "artboard": "Pattern_Common actions",
+        "layerName": "When deleting fails,",
+        "objectID": "73BD3E44-8CC1-4420-8175-02B5BE756BDE"
+      }
+    },
+    {
+      "content": "Deleting is an action that permanently erases items and is not easy to revert. Depending on the importance and impact the deleted item, warning dialogs, revert button and tools of similar functionality can be used.",
+      "source": {
+        "artboard": "Pattern_Common actions",
+        "layerName": "Text Copy 13",
+        "objectID": "7571FD4C-477B-4B13-B42C-86A07E4E5B16"
+      }
+    },
+    {
+      "content": "&gt; When creating an item from the very beginning, use “create”. When adding and additional item, use “add”. (e.g. Create task by selecting target and commands.)\n&gt; Use popup dialogs or page transition when creating a new item.",
+      "source": {
+        "artboard": "Pattern_Common actions",
+        "layerName": "Text Copy 12",
+        "objectID": "D29722F0-4F48-42F0-B147-7333D088B08D"
+      }
+    },
+    {
+      "content": "Create is an action of generating items from the beginning.(e.g. create an event, create task)",
+      "source": {
+        "artboard": "Pattern_Common actions",
+        "layerName": "Text Copy 11",
+        "objectID": "A33B4239-9B4F-46E3-9026-8190DC6E3D7C"
+      }
+    },
+    {
+      "content": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+      "source": {
+        "artboard": "Pattern_Common actions",
+        "layerName": "Text",
+        "objectID": "61704F65-D827-407D-8B84-D9D8AB0E229C"
+      }
+    },
+    {
+      "content": "&gt; There shuold always be a close button(x) on the top-right ride of popup dialogs.\n&gt; Tabs created by users by selecting functions should have a close button on the right right. Refer to tab guide.\n&gt; Snackbars can either have or omit close button. Refer to snackbar guide.",
+      "source": {
+        "artboard": "Pattern_Common actions",
+        "layerName": "Text Copy 10",
+        "objectID": "1350DFB2-0133-466A-B00F-4ED590C571A1"
+      }
+    },
+    {
+      "content": "Close action allows exiting from current page or window.",
+      "source": {
+        "artboard": "Pattern_Common actions",
+        "layerName": "Text Copy 9",
+        "objectID": "811146AA-568C-4E84-8400-93CAA68B0543"
+      }
+    },
+    {
+      "content": "&gt; There should always be a cancel button next to the primary button. If there are other secondary actions, cancel button is placed on left end.\n&gt; Pressing cancel button from edit window(not dialog) returns to previous page without any popup dialog prompting.\n&gt; If unsaved data has high functional importance, there should be a popup dialog mentioning all the negative consequences users may face when they proceed with cancel.",
+      "source": {
+        "artboard": "Pattern_Common actions",
+        "layerName": "Text Copy 8",
+        "objectID": "EC9DA1E0-0076-42E8-AFAA-3E6FC97EEAA1"
+      }
+    },
+    {
+      "content": "Cancel stops current action, and ends all dialogs or edit screens.",
+      "source": {
+        "artboard": "Pattern_Common actions",
+        "layerName": "Text Copy 7",
+        "objectID": "B908C901-9AB3-4709-B6E8-F2A84E80CEB1"
+      }
+    },
+    {
+      "content": "This action returns the user to the previous screen from detailed information, edit, or add. When transitioning into new pages, back button shuold be available on the left side of the toolbar.",
+      "source": {
+        "artboard": "Pattern_Common actions",
+        "layerName": "Text Copy 5",
+        "objectID": "B75DE27E-FE40-4237-9FFD-E4E6C6E52209"
+      }
+    },
+    {
+      "content": "When pressing navigation icon(&lt;) from edit mode to return to previous page, there are 2 types of interaction that can occur depeding if there are any edits.\n&gt; Return without additions or edits : return to previous page without any warning popup dialogs.\n&gt; Return with one or more additions or edits: Prompt popup dialog to let the user know there are unsaved items on the page.",
+      "source": {
+        "artboard": "Pattern_Common actions",
+        "layerName": "Text Copy 6",
+        "objectID": "D714B140-B75E-4AAB-8B0B-047DF4246EDD"
+      }
+    },
+    {
+      "content": "New items can be generated imediately allowing datas to be inserted right away.",
+      "source": {
+        "artboard": "Pattern_Common actions",
+        "layerName": "Text Copy",
+        "objectID": "1A08B431-1A17-4F49-860A-3DEC23A712AB"
+      }
+    },
+    {
+      "content": "&gt; As soon as new row is added, they should show up as a form in active state.\n&gt; If for some reason input field shows up unavailable after adding, they should show as inactive state.\n&gt; Pressing other row’s edit button would instantly cancel all actions made on the new row.",
+      "source": {
+        "artboard": "Pattern_Common actions",
+        "layerName": "Text Copy 3",
+        "objectID": "216BFD47-E610-43C3-91C0-B498F5B23F22"
+      }
+    },
+    {
+      "content": "&gt; Icons, secondary button, primary button are applied in order of importance.\n&gt; When action label alone cannot pass on the information, icon + label combination type can be applied.\n&gt; When there are more than 2 app-specific actions, the one with the highest importance is applied in primary button.\n&gt; When items are generated from the very beginning, ‘Create’ action lable is suitable, whereas any new additional items can be added via ‘Add’ action.",
+      "source": {
+        "artboard": "Pattern_Common actions",
+        "layerName": "Text Copy 2",
+        "objectID": "211C63D9-BDC3-4A2C-B449-5EF68588746D"
+      }
+    },
+    {
+      "content": "“Add” is an action of inserting element into list or groups. Target should be clear when used in action labels. &#91e.g. Add(x) Add task(O), Add command(O)] When add button is pressed, popup dialogs or page transitions should occur to show detailed form, in which after should return to the main page with new element on the very top. In inline add, new items should show up instantly on the list.",
+      "source": {
+        "artboard": "Pattern_Common actions",
+        "layerName": "Text Copy",
+        "objectID": "5A139AAB-5785-4BAF-B0F5-40ED9ED78435"
+      }
+    },
+    {
+      "content": "Common actions can be justified to create unity in products and platforms. In order for users to operate effectively without prior learning, following actions must follow the guide.",
+      "source": {
+        "artboard": "Pattern_Common actions",
+        "layerName": "Text",
+        "objectID": "09DBC09A-3026-4897-9CA5-A1418F3F3FC6"
+      }
+    },
+    {
+      "content": "&gt; Add\n&gt; Back\n&gt; Cancel\n&gt; Close\n&gt; Create\n&gt; Delete\n&gt; Duplicate\n&gt; Edit\n&gt; Remove\n&gt; Rename",
+      "source": {
+        "artboard": "Pattern_Common actions",
+        "layerName": "Text",
+        "objectID": "A3A9E5C9-9F1D-4D41-8C0C-66FEEABFAFF8"
+      }
+    },
+    {
+      "content": "• Update to the latest components, such as example screens.\n- Replace with the latest tree icon color (#000000).\n- Update the ‘Close’ button component in the Close guide with the latest icon.",
+      "source": {
+        "artboard": "Pattern_Common actions",
+        "layerName": "Text",
+        "objectID": "483C68FA-28C6-437C-8610-2FD8930F8A4C"
+      }
+    },
+    {
+      "content": "Last updated: Nov 03, 2025",
+      "source": {
+        "artboard": "Pattern_Common actions",
+        "layerName": "Text Copy 5",
+        "objectID": "4FB98258-FEBA-422C-AED9-10D46E608974"
+      }
+    }
+  ],
+  "usedComponents": {
+    "Text button / Primary / Label": 10,
+    "Icon button / Medium": 5,
+    "Text button / Secondary / Label": 5,
+    "Button / contained-icon / medium": 4,
+    "Input / Search / Real-time search": 3,
+    "Text button / Secondary / Icon + Label": 3,
+    "Chip / File": 2,
+    "Button 2": 2,
+    "&#10033 / Color / Surface / Main": 2,
+    "Sub Headline": 1,
+    "Tooltip / Function Name": 1
+  }
+}

@@ -1,0 +1,80 @@
+{
+  "sourceArtboard": "Components_Toolbar",
+  "components": [
+    {
+      "component": "Tool Bar",
+      "description": null,
+      "variants": [
+        {
+          "name": "Primary",
+          "states": [
+            {
+              "name": "Letter + Button / 56px",
+              "geometry": {
+                "width": 700,
+                "height": 48,
+                "minWidth": null,
+                "maxWidth": null
+              },
+              "spacing": {
+                "derived": true,
+                "note": "텍스트 rect와 심볼 rect의 차이에서 계산된 실측값 (문서화된 토큰 아님)",
+                "textPadding": {
+                  "left": 24,
+                  "right": 384.9,
+                  "top": 13,
+                  "bottom": 13
+                }
+              },
+              "border": {
+                "border": null,
+                "borderRadius": null,
+                "sourceLayer": "Container"
+              },
+              "background": {
+                "color": "#F8F8F8",
+                "opacity": null,
+                "boxShadow": null,
+                "sourceLayer": "Container"
+              },
+              "typography": [
+                {
+                  "role": "Text",
+                  "content": "Header",
+                  "fontFamily": "SamsungOne-700",
+                  "fontSize": "17px",
+                  "fontWeight": 700,
+                  "lineHeight": "22px",
+                  "color": "rgba(0,0,0,0.87)",
+                  "textAlign": null,
+                  "derivedPadding": {
+                    "left": 24,
+                    "right": 384.9,
+                    "top": 13,
+                    "bottom": 13
+                  }
+                }
+              ],
+              "icon": null,
+              "content": [
+                "Header"
+              ],
+              "behavior": null,
+              "responsive": null,
+              "stateOverlays": null,
+              "nestedComponents": null,
+              "source": [
+                {
+                  "artboard": "Components_Toolbar",
+                  "layerName": "Tool Bar / Primary / Letter + Button / 56px",
+                  "objectID": "53FC3893-3218-4C80-A840-5FAF135640E8"
+                }
+              ],
+              "confidence": "high"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

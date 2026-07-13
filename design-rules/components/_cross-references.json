@@ -1,0 +1,391 @@
+{
+  "note": "홈 아트보드 밖에서 등장한 심볼 인벤토리. canonical 규칙 아님 — 사용 예시 집계.",
+  "crossReferences": [
+    {
+      "component": "Icon button",
+      "homeArtboard": "Components_Button",
+      "exampleOccurrences": {
+        "Components_Accordion": 14,
+        "Components_Data tables": 1,
+        "Components_Filtering": 1,
+        "Components_Overflow menu": 4,
+        "Components_Page navigation bar": 18,
+        "Components_Tabs": 1,
+        "Components_Toggle": 3,
+        "Components_Toolbar": 2,
+        "Components_Tooltip": 4
+      }
+    },
+    {
+      "component": "Text button",
+      "homeArtboard": "Components_Button",
+      "exampleOccurrences": {
+        "Components_Accordion": 4,
+        "Components_App bar": 3,
+        "Components_Data tables": 8,
+        "Components_Date and time picker": 24,
+        "Components_Dialogs": 15,
+        "Components_Error messages": 2,
+        "Components_Filtering": 22,
+        "Components_Link": 1,
+        "Components_Lists": 1,
+        "Components_Loading": 1,
+        "Components_Page navigation bar": 31,
+        "Components_Step progress bar": 1,
+        "Components_Tabs": 3,
+        "Components_Toggle": 1,
+        "Components_Toolbar": 12
+      }
+    },
+    {
+      "component": "Scroll",
+      "homeArtboard": "Components_Scroll ",
+      "exampleOccurrences": {
+        "Components_App bar": 1,
+        "Components_Banner": 1,
+        "Components_Checkbox": 2,
+        "Components_Dashboard card": 3,
+        "Components_Data tables": 3,
+        "Components_Dialogs": 1,
+        "Components_Lookup": 1,
+        "Components_Radio button": 1,
+        "Components_Toolbar": 1,
+        "Components_Tree view": 8
+      }
+    },
+    {
+      "component": "Button",
+      "homeArtboard": "Components_Button",
+      "exampleOccurrences": {
+        "Components_App bar": 1,
+        "Components_Data tables": 2,
+        "Components_Date and time picker": 3,
+        "Components_Dialogs": 19,
+        "Components_Dropdown list": 18,
+        "Components_Error messages": 6,
+        "Components_Filtering": 35,
+        "Components_Form": 9,
+        "Components_Global navigation bar": 4,
+        "Components_Lists": 4,
+        "Components_Loading": 2,
+        "Components_Lookup": 27,
+        "Components_Mosaic card": 4,
+        "Components_Overflow menu": 6,
+        "Components_Search": 1,
+        "Components_Snackbars": 2,
+        "Components_Sort by": 9,
+        "Components_Status colors": 1,
+        "Components_Toggle": 1,
+        "Components_Toolbar": 50,
+        "Components_Tree view": 15
+      }
+    },
+    {
+      "component": "Banner",
+      "homeArtboard": "Components_Banner",
+      "exampleOccurrences": {
+        "Components_Button": 1,
+        "Components_Error messages": 1,
+        "Components_Lists": 1,
+        "Components_Search": 2
+      }
+    },
+    {
+      "component": "Expand and collapse",
+      "homeArtboard": null,
+      "exampleOccurrences": {
+        "Components_Banner": 1
+      }
+    },
+    {
+      "component": "Toggle",
+      "homeArtboard": "Components_Toggle",
+      "exampleOccurrences": {
+        "Components_Button": 2,
+        "Components_Data tables": 1,
+        "Components_Toolbar": 7
+      }
+    },
+    {
+      "component": "Status",
+      "homeArtboard": "Components_Status colors",
+      "exampleOccurrences": {
+        "Components_Button": 2,
+        "Components_Dialogs": 4,
+        "Components_Error messages": 2,
+        "Components_Lists": 1,
+        "Components_Loading": 3,
+        "Components_Radio button": 3,
+        "Components_Snackbars": 1,
+        "Components_Step progress bar": 1,
+        "Components_Tabs": 10,
+        "Components_Toggle": 6,
+        "Components_Tooltip": 3
+      }
+    },
+    {
+      "component": "Tooltip",
+      "homeArtboard": "Components_Tooltip",
+      "exampleOccurrences": {
+        "Components_Button": 3,
+        "Components_Data tables": 2,
+        "Components_Filtering": 2,
+        "Components_Search": 2,
+        "Components_Tree view": 3
+      }
+    },
+    {
+      "component": "Selected items",
+      "homeArtboard": null,
+      "exampleOccurrences": {
+        "Components_Checkbox": 1,
+        "Components_Data tables": 4,
+        "Components_Toolbar": 4
+      }
+    },
+    {
+      "component": "Icon",
+      "homeArtboard": null,
+      "exampleOccurrences": {
+        "Components_Checkbox": 2,
+        "Components_Dialogs": 2,
+        "Components_Form": 1,
+        "Components_Loading": 2,
+        "Components_Target selector": 8,
+        "Components_Tooltip": 10
+      }
+    },
+    {
+      "component": "Basic",
+      "homeArtboard": null,
+      "exampleOccurrences": {
+        "Components_Checkbox": 3,
+        "Components_Dashboard card": 1,
+        "Components_Data tables": 73,
+        "Components_Date and time picker": 1,
+        "Components_Dialogs": 1,
+        "Components_Filtering": 1,
+        "Components_Overflow menu": 2,
+        "Components_Pagination": 15,
+        "Components_Search": 1,
+        "Components_Toggle": 2,
+        "Components_Toolbar": 3
+      }
+    },
+    {
+      "component": "Slider",
+      "homeArtboard": null,
+      "exampleOccurrences": {
+        "Components_Dashboard card": 13
+      }
+    },
+    {
+      "component": "Chart",
+      "homeArtboard": null,
+      "exampleOccurrences": {
+        "Components_Dashboard card": 43,
+        "Components_Tabs": 4,
+        "Components_Tooltip": 1
+      }
+    },
+    {
+      "component": "Card",
+      "homeArtboard": "Components_Dashboard card",
+      "exampleOccurrences": {
+        "Components_Tabs": 1
+      }
+    },
+    {
+      "component": "Cursor",
+      "homeArtboard": null,
+      "exampleOccurrences": {
+        "Components_Dashboard card": 5,
+        "Components_Global navigation bar": 1,
+        "Components_Pagination": 1,
+        "Components_Search": 2,
+        "Components_Sort by": 2,
+        "Components_Text input": 1,
+        "Components_Tooltip": 25,
+        "Components_Tree view": 1
+      }
+    },
+    {
+      "component": "Node",
+      "homeArtboard": null,
+      "exampleOccurrences": {
+        "Components_Dashboard card": 5
+      }
+    },
+    {
+      "component": "Table",
+      "homeArtboard": "Components_Data tables",
+      "exampleOccurrences": {
+        "Components_Dialogs": 2,
+        "Components_Error messages": 2,
+        "Components_Filtering": 4,
+        "Components_Link": 2,
+        "Components_Loading": 2,
+        "Components_Pagination": 1,
+        "Components_Scroll ": 1,
+        "Components_Search": 3,
+        "Components_Tabs": 1,
+        "Components_Target selector": 1,
+        "Components_Toggle": 2
+      }
+    },
+    {
+      "component": "Count-1",
+      "homeArtboard": null,
+      "exampleOccurrences": {
+        "Components_Data tables": 1
+      }
+    },
+    {
+      "component": "Tool Bar",
+      "homeArtboard": "Components_Toolbar",
+      "exampleOccurrences": {
+        "Components_Data tables": 4,
+        "Components_Filtering": 12,
+        "Components_Pagination": 1,
+        "Components_Search": 3,
+        "Components_Sort by": 1,
+        "Components_Status colors": 1,
+        "Components_Tabs": 1,
+        "Components_Toggle": 1
+      }
+    },
+    {
+      "component": "Filter chip",
+      "homeArtboard": "Components_Filtering",
+      "exampleOccurrences": {
+        "Components_Data tables": 5
+      }
+    },
+    {
+      "component": "Chip",
+      "homeArtboard": null,
+      "exampleOccurrences": {
+        "Components_Data tables": 1,
+        "Components_Filtering": 12,
+        "Components_Form": 15,
+        "Components_Loading": 5,
+        "Components_Target selector": 1
+      }
+    },
+    {
+      "component": "Radio Icon",
+      "homeArtboard": null,
+      "exampleOccurrences": {
+        "Components_Data tables": 2
+      }
+    },
+    {
+      "component": "Text",
+      "homeArtboard": "Components_Text input",
+      "exampleOccurrences": {
+        "Components_Dropdown list": 7,
+        "Components_Target selector": 2,
+        "Components_Toggle": 1
+      }
+    },
+    {
+      "component": "Vertical scroll",
+      "homeArtboard": "Components_Scroll ",
+      "exampleOccurrences": {
+        "Components_Find on page": 1
+      }
+    },
+    {
+      "component": "Horizontal scroll",
+      "homeArtboard": "Components_Scroll ",
+      "exampleOccurrences": {
+        "Components_Find on page": 1
+      }
+    },
+    {
+      "component": "Tabs",
+      "homeArtboard": "Components_Tabs",
+      "exampleOccurrences": {
+        "Components_Lookup": 1
+      }
+    },
+    {
+      "component": "Chart legend",
+      "homeArtboard": null,
+      "exampleOccurrences": {
+        "Components_Lookup": 3
+      }
+    },
+    {
+      "component": "@ Cursor",
+      "homeArtboard": null,
+      "exampleOccurrences": {
+        "Components_Scroll ": 2
+      }
+    },
+    {
+      "component": "Mandatory",
+      "homeArtboard": null,
+      "exampleOccurrences": {
+        "Components_Status colors": 1
+      }
+    },
+    {
+      "component": "Label",
+      "homeArtboard": null,
+      "exampleOccurrences": {
+        "Components_Status colors": 1,
+        "Components_Tooltip": 1
+      }
+    },
+    {
+      "component": "Step_invalid",
+      "homeArtboard": null,
+      "exampleOccurrences": {
+        "Components_Step progress bar": 1
+      }
+    },
+    {
+      "component": "@ Metric",
+      "homeArtboard": null,
+      "exampleOccurrences": {
+        "Components_Tabs": 5
+      }
+    },
+    {
+      "component": "Launcher",
+      "homeArtboard": null,
+      "exampleOccurrences": {
+        "Components_Text input": 2
+      }
+    },
+    {
+      "component": "Sub Headline",
+      "homeArtboard": null,
+      "exampleOccurrences": {
+        "Components_Toggle": 3
+      }
+    },
+    {
+      "component": "Context",
+      "homeArtboard": null,
+      "exampleOccurrences": {
+        "Components_Toolbar": 1
+      }
+    },
+    {
+      "component": "Icon_Service",
+      "homeArtboard": null,
+      "exampleOccurrences": {
+        "Components_Tooltip": 1
+      }
+    },
+    {
+      "component": "Pod",
+      "homeArtboard": null,
+      "exampleOccurrences": {
+        "Components_Tooltip": 2
+      }
+    }
+  ]
+}

@@ -5,6 +5,7 @@ import { SummaryScoreCard } from '../components/dashboard/SummaryScoreCard'
 import { ComponentsPanel } from '../components/dashboard/ComponentsPanel'
 import { StringsPanel } from '../components/dashboard/StringsPanel'
 import { CssViolationsPanel } from '../components/dashboard/CssViolationsPanel'
+import { QaReportPanel } from '../components/dashboard/QaReportPanel'
 import { UxWritingPanel } from '../components/dashboard/UxWritingPanel'
 import { Button } from '../components/ui/Button'
 
@@ -12,6 +13,7 @@ const TABS: { key: DashboardTab; label: string }[] = [
   { key: 'components', label: 'Components' },
   { key: 'strings', label: 'Strings' },
   { key: 'css', label: 'Guideline Violations' },
+  { key: 'design-qa', label: 'Design QA' },
   { key: 'ux-writing', label: 'UX Writing' },
 ]
 
@@ -57,6 +59,7 @@ export default function DashboardPage() {
       {activeTab === 'css' && (
         <CssViolationsPanel violations={result.guidelineViolations} />
       )}
+      {activeTab === 'design-qa' && <QaReportPanel report={result.qaReport} />}
       {activeTab === 'ux-writing' && (
         <UxWritingPanel feedback={result.uxWritingReview} />
       )}

@@ -1,0 +1,275 @@
+{
+  "sourceArtboard": "Components_Data tables",
+  "components": [
+    {
+      "component": "Data table",
+      "description": null,
+      "variants": [
+        {
+          "name": "Selected items",
+          "states": [
+            {
+              "name": "(unspecified)",
+              "geometry": {
+                "width": null,
+                "height": 48,
+                "minWidth": null,
+                "maxWidth": null,
+                "observedWidths": [
+                  201,
+                  209
+                ],
+                "widthNote": "인스턴스마다 다름 (콘텐츠 의존) — 고정 규칙 아님"
+              },
+              "spacing": {
+                "derived": true,
+                "note": "텍스트 rect와 심볼 rect의 차이에서 계산된 실측값 (문서화된 토큰 아님)",
+                "textPadding": {
+                  "left": 107,
+                  "right": 3,
+                  "top": 16,
+                  "bottom": 16
+                }
+              },
+              "border": null,
+              "background": null,
+              "typography": [
+                {
+                  "role": "Text",
+                  "content": "item selected",
+                  "fontFamily": "SamsungOne-700",
+                  "fontSize": "15px",
+                  "fontWeight": 700,
+                  "lineHeight": "16px",
+                  "color": "#000000",
+                  "textAlign": null,
+                  "derivedPadding": {
+                    "left": 107,
+                    "right": 3,
+                    "top": 16,
+                    "bottom": 16
+                  }
+                },
+                {
+                  "role": "Count",
+                  "content": "1",
+                  "fontFamily": "SamsungOne-700",
+                  "fontSize": "12px",
+                  "fontWeight": 700,
+                  "lineHeight": "18px",
+                  "color": "#FFFFFF",
+                  "textAlign": null,
+                  "derivedPadding": {
+                    "left": 62,
+                    "right": 133,
+                    "top": 15,
+                    "bottom": 15
+                  }
+                }
+              ],
+              "icon": [
+                {
+                  "name": "Icon",
+                  "width": 16,
+                  "height": 16,
+                  "derivedInset": {
+                    "left": 80,
+                    "top": 16
+                  }
+                },
+                {
+                  "name": "Basic / close-edit",
+                  "width": 16,
+                  "height": 16,
+                  "derivedInset": {
+                    "left": 24,
+                    "top": 16
+                  }
+                }
+              ],
+              "content": [
+                "item selected",
+                "1"
+              ],
+              "behavior": null,
+              "responsive": null,
+              "stateOverlays": null,
+              "nestedComponents": null,
+              "source": [
+                {
+                  "artboard": "Components_Data tables",
+                  "layerName": "Data table / Selected items",
+                  "objectID": "43DDF90C-FD3F-4173-9D26-0C7848887A06"
+                },
+                {
+                  "artboard": "Components_Data tables",
+                  "layerName": "Data table / Selected items",
+                  "objectID": "43DDF90C-FD3F-4173-9D26-0C7848887A06"
+                },
+                {
+                  "artboard": "Components_Data tables",
+                  "layerName": "Data table / Selected items",
+                  "objectID": "43DDF90C-FD3F-4173-9D26-0C7848887A06"
+                },
+                {
+                  "artboard": "Components_Data tables",
+                  "layerName": "Data table / Selected items",
+                  "objectID": "43DDF90C-FD3F-4173-9D26-0C7848887A06"
+                },
+                {
+                  "artboard": "Components_Data tables",
+                  "layerName": "Data table / Selected items",
+                  "objectID": "43DDF90C-FD3F-4173-9D26-0C7848887A06"
+                }
+              ],
+              "confidence": "medium"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "component": "Table",
+      "description": null,
+      "variants": [
+        {
+          "name": "Order_Ascending 1 - Arrow",
+          "states": [
+            {
+              "name": "(unspecified)",
+              "geometry": {
+                "width": 16,
+                "height": 16,
+                "minWidth": null,
+                "maxWidth": null
+              },
+              "spacing": null,
+              "border": null,
+              "background": null,
+              "typography": null,
+              "icon": [
+                {
+                  "name": "Table / Order_Ascending 1 - Arrow",
+                  "width": 16,
+                  "height": 16,
+                  "derivedInset": {
+                    "left": 0,
+                    "top": 0
+                  }
+                }
+              ],
+              "content": null,
+              "behavior": null,
+              "responsive": null,
+              "stateOverlays": null,
+              "nestedComponents": null,
+              "source": [
+                {
+                  "artboard": "Components_Data tables",
+                  "layerName": "Table / Order_Ascending 1 - Arrow",
+                  "objectID": "BED08BF5-61DF-43F9-BEE5-F9E4E74D231F"
+                },
+                {
+                  "artboard": "Components_Data tables",
+                  "layerName": "Table / Order_Ascending 1 - Arrow",
+                  "objectID": "BED08BF5-61DF-43F9-BEE5-F9E4E74D231F"
+                },
+                {
+                  "artboard": "Components_Data tables",
+                  "layerName": "Table / Order_Ascending 1 - Arrow",
+                  "objectID": "BED08BF5-61DF-43F9-BEE5-F9E4E74D231F"
+                },
+                {
+                  "artboard": "Components_Data tables",
+                  "layerName": "Table / Order_Ascending 1 - Arrow",
+                  "objectID": "BED08BF5-61DF-43F9-BEE5-F9E4E74D231F"
+                },
+                {
+                  "artboard": "Components_Data tables",
+                  "layerName": "Table / Order_Ascending 1 - Arrow",
+                  "objectID": "BED08BF5-61DF-43F9-BEE5-F9E4E74D231F"
+                },
+                {
+                  "artboard": "Components_Data tables",
+                  "layerName": "Table / Order_Ascending 1 - Arrow",
+                  "objectID": "74EB644D-3CD0-4186-AB5C-F9A28E8D3754"
+                },
+                {
+                  "artboard": "Components_Data tables",
+                  "layerName": "Table / Order_Ascending 1 - Arrow",
+                  "objectID": "BED08BF5-61DF-43F9-BEE5-F9E4E74D231F"
+                },
+                {
+                  "artboard": "Components_Data tables",
+                  "layerName": "Table / Order_Ascending 1 - Arrow",
+                  "objectID": "BED08BF5-61DF-43F9-BEE5-F9E4E74D231F"
+                },
+                {
+                  "artboard": "Components_Data tables",
+                  "layerName": "Table / Order_Ascending 1 - Arrow",
+                  "objectID": "BED08BF5-61DF-43F9-BEE5-F9E4E74D231F"
+                },
+                {
+                  "artboard": "Components_Data tables",
+                  "layerName": "Table / Order_Ascending 1 - Arrow",
+                  "objectID": "BED08BF5-61DF-43F9-BEE5-F9E4E74D231F"
+                },
+                {
+                  "artboard": "Components_Data tables",
+                  "layerName": "Table / Order_Ascending 1 - Arrow",
+                  "objectID": "BED08BF5-61DF-43F9-BEE5-F9E4E74D231F"
+                },
+                {
+                  "artboard": "Components_Data tables",
+                  "layerName": "Table / Order_Ascending 1 - Arrow",
+                  "objectID": "BED08BF5-61DF-43F9-BEE5-F9E4E74D231F"
+                },
+                {
+                  "artboard": "Components_Data tables",
+                  "layerName": "Table / Order_Ascending 1 - Arrow",
+                  "objectID": "BED08BF5-61DF-43F9-BEE5-F9E4E74D231F"
+                },
+                {
+                  "artboard": "Components_Data tables",
+                  "layerName": "Table / Order_Ascending 1 - Arrow",
+                  "objectID": "BED08BF5-61DF-43F9-BEE5-F9E4E74D231F"
+                },
+                {
+                  "artboard": "Components_Data tables",
+                  "layerName": "Table / Order_Ascending 1 - Arrow",
+                  "objectID": "BED08BF5-61DF-43F9-BEE5-F9E4E74D231F"
+                },
+                {
+                  "artboard": "Components_Data tables",
+                  "layerName": "Table / Order_Ascending 1 - Arrow",
+                  "objectID": "BED08BF5-61DF-43F9-BEE5-F9E4E74D231F"
+                },
+                {
+                  "artboard": "Components_Data tables",
+                  "layerName": "Table / Order_Ascending 1 - Arrow",
+                  "objectID": "BED08BF5-61DF-43F9-BEE5-F9E4E74D231F"
+                },
+                {
+                  "artboard": "Components_Data tables",
+                  "layerName": "Table / Order_Ascending 1 - Arrow",
+                  "objectID": "BED08BF5-61DF-43F9-BEE5-F9E4E74D231F"
+                },
+                {
+                  "artboard": "Components_Data tables",
+                  "layerName": "Table / Order_Ascending 1 - Arrow",
+                  "objectID": "BED08BF5-61DF-43F9-BEE5-F9E4E74D231F"
+                },
+                {
+                  "artboard": "Components_Data tables",
+                  "layerName": "Table / Order_Ascending 1 - Arrow",
+                  "objectID": "BED08BF5-61DF-43F9-BEE5-F9E4E74D231F"
+                }
+              ],
+              "confidence": "high"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

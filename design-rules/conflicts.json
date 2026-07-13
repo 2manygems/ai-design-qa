@@ -1,0 +1,1755 @@
+{
+  "conflicts": [
+    {
+      "component": "Button",
+      "variant": "contained-text",
+      "state": "secondary-default",
+      "resolvedBy": "다수결 (2/3 인스턴스)",
+      "canonical": {
+        "source": {
+          "artboard": "Components_Button",
+          "layerName": "Button / contained-text / secondary-default",
+          "objectID": "057B84EE-E35E-4931-AA00-B43D64354B83"
+        },
+        "instanceCount": 2
+      },
+      "alternatives": [
+        {
+          "instanceCount": 1,
+          "source": {
+            "artboard": "Components_Button",
+            "layerName": "Button / contained-text / secondary-default",
+            "objectID": "D0BE8B6F-47EC-456C-9623-E9CE8F0E9C8E"
+          },
+          "fromCopy": false,
+          "differingFields": [
+            {
+              "field": "background.color",
+              "a": "#F5F5F5",
+              "b": "#252525"
+            },
+            {
+              "field": "background.boxShadow",
+              "a": "inset 0 2px 0 0 #FFFFFF",
+              "b": "inset 0 2px 0 0 rgba(255,255,255,0.30)"
+            },
+            {
+              "field": "border.border",
+              "a": "1px solid #8A8A8A",
+              "b": "1px solid #000000"
+            },
+            {
+              "field": "typography.0.color",
+              "a": "#000000",
+              "b": "#FFFFFF"
+            }
+          ]
+        }
+      ],
+      "note": "동일 이름에 서로 다른 스타일 핵심값이 존재. 다수 그룹을 채택했으며 수동 검토 필요."
+    },
+    {
+      "component": "Scroll",
+      "variant": "Classic scrollbar btn V",
+      "state": "(unspecified)",
+      "resolvedBy": "다수결 (3/10 인스턴스)",
+      "canonical": {
+        "source": {
+          "artboard": "Components_Scroll ",
+          "layerName": "Scroll / Classic scrollbar btn V",
+          "objectID": "7D26A75F-658A-4835-BA11-C010650927B8"
+        },
+        "instanceCount": 3
+      },
+      "alternatives": [
+        {
+          "instanceCount": 1,
+          "source": {
+            "artboard": "Components_Scroll ",
+            "layerName": "Scroll / Classic scrollbar btn V",
+            "objectID": "7D26A75F-658A-4835-BA11-C010650927B8"
+          },
+          "fromCopy": false,
+          "differingFields": [
+            {
+              "field": "height",
+              "a": 200,
+              "b": 258
+            }
+          ]
+        },
+        {
+          "instanceCount": 1,
+          "source": {
+            "artboard": "Components_Scroll ",
+            "layerName": "Scroll / Classic scrollbar btn V",
+            "objectID": "7D26A75F-658A-4835-BA11-C010650927B8"
+          },
+          "fromCopy": false,
+          "differingFields": [
+            {
+              "field": "height",
+              "a": 200,
+              "b": 207
+            }
+          ]
+        },
+        {
+          "instanceCount": 1,
+          "source": {
+            "artboard": "Components_Scroll ",
+            "layerName": "Scroll / Classic scrollbar btn V",
+            "objectID": "7D26A75F-658A-4835-BA11-C010650927B8"
+          },
+          "fromCopy": false,
+          "differingFields": [
+            {
+              "field": "height",
+              "a": 200,
+              "b": 150
+            }
+          ]
+        },
+        {
+          "instanceCount": 1,
+          "source": {
+            "artboard": "Components_Scroll ",
+            "layerName": "Scroll / Classic scrollbar btn V",
+            "objectID": "7D26A75F-658A-4835-BA11-C010650927B8"
+          },
+          "fromCopy": false,
+          "differingFields": [
+            {
+              "field": "height",
+              "a": 200,
+              "b": 129
+            },
+            {
+              "field": "icon.1",
+              "a": {
+                "width": 9,
+                "height": 6
+              }
+            }
+          ]
+        },
+        {
+          "instanceCount": 1,
+          "source": {
+            "artboard": "Components_Scroll ",
+            "layerName": "Scroll / Classic scrollbar btn V",
+            "objectID": "7D26A75F-658A-4835-BA11-C010650927B8"
+          },
+          "fromCopy": false,
+          "differingFields": [
+            {
+              "field": "height",
+              "a": 200,
+              "b": 460
+            },
+            {
+              "field": "icon.1",
+              "a": {
+                "width": 9,
+                "height": 6
+              }
+            }
+          ]
+        },
+        {
+          "instanceCount": 1,
+          "source": {
+            "artboard": "Components_Scroll ",
+            "layerName": "Scroll / Classic scrollbar btn V",
+            "objectID": "7D26A75F-658A-4835-BA11-C010650927B8"
+          },
+          "fromCopy": false,
+          "differingFields": [
+            {
+              "field": "height",
+              "a": 200,
+              "b": 263
+            }
+          ]
+        },
+        {
+          "instanceCount": 1,
+          "source": {
+            "artboard": "Components_Scroll ",
+            "layerName": "Scroll / Classic scrollbar btn V",
+            "objectID": "2B9FDE1B-4382-45A5-96C5-82AA2B39661A"
+          },
+          "fromCopy": false,
+          "differingFields": [
+            {
+              "field": "background.color",
+              "a": "#F2F2F2",
+              "b": "#000000"
+            },
+            {
+              "field": "background.opacity",
+              "a": null,
+              "b": 0
+            },
+            {
+              "field": "icon",
+              "a": [
+                {
+                  "width": 9,
+                  "height": 6
+                },
+                {
+                  "width": 9,
+                  "height": 6
+                }
+              ],
+              "b": null
+            }
+          ]
+        }
+      ],
+      "note": "동일 이름에 서로 다른 스타일 핵심값이 존재. 다수 그룹을 채택했으며 수동 검토 필요."
+    },
+    {
+      "component": "Banner",
+      "variant": "Info",
+      "state": "(unspecified)",
+      "resolvedBy": "다수결 (5/9 인스턴스)",
+      "canonical": {
+        "source": {
+          "artboard": "Components_Banner",
+          "layerName": "Banner / Info",
+          "objectID": "DF0F31BB-91EF-4BE8-AF90-47F8BE91374B"
+        },
+        "instanceCount": 5
+      },
+      "alternatives": [
+        {
+          "instanceCount": 3,
+          "source": {
+            "artboard": "Components_Banner",
+            "layerName": "Banner / Info",
+            "objectID": "DF0F31BB-91EF-4BE8-AF90-47F8BE91374B"
+          },
+          "fromCopy": false,
+          "differingFields": [
+            {
+              "field": "icon.1",
+              "b": {
+                "width": 16,
+                "height": 16
+              }
+            }
+          ]
+        },
+        {
+          "instanceCount": 1,
+          "source": {
+            "artboard": "Components_Banner",
+            "layerName": "Banner / Info",
+            "objectID": "B45A4310-6274-4895-9772-9266AFD37DEC"
+          },
+          "fromCopy": false,
+          "differingFields": [
+            {
+              "field": "background.color",
+              "a": "#DEECFF",
+              "b": "#D3F4D3"
+            },
+            {
+              "field": "border.border",
+              "a": "1px solid #B2D4FF",
+              "b": "1px solid #93E497"
+            }
+          ]
+        }
+      ],
+      "note": "동일 이름에 서로 다른 스타일 핵심값이 존재. 다수 그룹을 채택했으며 수동 검토 필요."
+    },
+    {
+      "component": "Banner",
+      "variant": "Info with title",
+      "state": "(unspecified)",
+      "resolvedBy": "다수결 (1/2 인스턴스)",
+      "canonical": {
+        "source": {
+          "artboard": "Components_Banner",
+          "layerName": "Banner / Info with title",
+          "objectID": "F2764F36-421B-4D16-B6FE-51F6E27DEBB9"
+        },
+        "instanceCount": 1
+      },
+      "alternatives": [
+        {
+          "instanceCount": 1,
+          "source": {
+            "artboard": "Components_Banner",
+            "layerName": "Banner / Info with title",
+            "objectID": "F2764F36-421B-4D16-B6FE-51F6E27DEBB9"
+          },
+          "fromCopy": false,
+          "differingFields": [
+            {
+              "field": "icon.1",
+              "b": {
+                "width": 16,
+                "height": 16
+              }
+            }
+          ]
+        }
+      ],
+      "note": "동일 이름에 서로 다른 스타일 핵심값이 존재. 다수 그룹을 채택했으며 수동 검토 필요."
+    },
+    {
+      "component": "Input",
+      "variant": "Dropdown",
+      "state": "Enabled",
+      "resolvedBy": "다수결 (41/94 인스턴스)",
+      "canonical": {
+        "source": {
+          "artboard": "Components_Banner",
+          "layerName": "Input / Dropdown / Enabled",
+          "objectID": "8297D85B-7CDB-4B4B-8689-9A92D4A17191"
+        },
+        "instanceCount": 41
+      },
+      "alternatives": [
+        {
+          "instanceCount": 32,
+          "source": {
+            "artboard": "Components_Banner",
+            "layerName": "Input / Dropdown / Enabled",
+            "objectID": "F4D05EBB-4270-454B-85C5-F9CA44741AE6"
+          },
+          "fromCopy": false,
+          "differingFields": [
+            {
+              "field": "typography.0.color",
+              "a": "#000000",
+              "b": "#9A9A9A"
+            }
+          ]
+        },
+        {
+          "instanceCount": 14,
+          "source": {
+            "artboard": "Components_Sort by",
+            "layerName": "Input / Dropdown / Enabled",
+            "objectID": "8297D85B-7CDB-4B4B-8689-9A92D4A17191"
+          },
+          "fromCopy": false,
+          "differingFields": [
+            {
+              "field": "border.border",
+              "a": "1px solid #8A8A8A",
+              "b": "1px solid #000000"
+            }
+          ]
+        },
+        {
+          "instanceCount": 4,
+          "source": {
+            "artboard": "Components_Filtering",
+            "layerName": "Input / Dropdown / Enabled",
+            "objectID": "98E1F6FF-397F-40FE-9776-982347DB0761"
+          },
+          "fromCopy": false,
+          "differingFields": [
+            {
+              "field": "typography",
+              "a": [
+                {
+                  "fontFamily": "SamsungOne-400",
+                  "fontSize": "14px",
+                  "fontWeight": 400,
+                  "lineHeight": "18px",
+                  "color": "#000000",
+                  "textAlign": null
+                }
+              ],
+              "b": null
+            },
+            {
+              "field": "icon",
+              "a": [
+                {
+                  "width": 16,
+                  "height": 16
+                }
+              ],
+              "b": null
+            }
+          ]
+        },
+        {
+          "instanceCount": 2,
+          "source": {
+            "artboard": "Components_Error messages",
+            "layerName": "Input / Dropdown / Enabled",
+            "objectID": "5AB9824B-A426-4152-AE57-41101E4E9797"
+          },
+          "fromCopy": false,
+          "differingFields": [
+            {
+              "field": "background.color",
+              "a": "#FFFFFF",
+              "b": "#E8E8E8"
+            },
+            {
+              "field": "border.border",
+              "a": "1px solid #8A8A8A",
+              "b": "1px solid #B2B2B2"
+            },
+            {
+              "field": "typography.0.color",
+              "a": "#000000",
+              "b": "#9A9A9A"
+            }
+          ]
+        },
+        {
+          "instanceCount": 1,
+          "source": {
+            "artboard": "Components_Dropdown list",
+            "layerName": "Input / Dropdown / Enabled",
+            "objectID": "FBA792D8-0582-4890-B916-95E5073E0D41"
+          },
+          "fromCopy": false,
+          "differingFields": [
+            {
+              "field": "background.color",
+              "a": "#FFFFFF",
+              "b": "#E8E8E8"
+            },
+            {
+              "field": "border.border",
+              "a": "1px solid #8A8A8A",
+              "b": "1px solid #B2B2B2"
+            },
+            {
+              "field": "typography.0.color",
+              "a": "#000000",
+              "b": "#606060"
+            }
+          ]
+        }
+      ],
+      "note": "동일 이름에 서로 다른 스타일 핵심값이 존재. 다수 그룹을 채택했으며 수동 검토 필요."
+    },
+    {
+      "component": "Input",
+      "variant": "Dropdown",
+      "state": "Enabled (Filled in)",
+      "resolvedBy": "다수결 (16/20 인스턴스)",
+      "canonical": {
+        "source": {
+          "artboard": "Components_Date and time picker",
+          "layerName": "Input / Dropdown / Enabled (Filled in)",
+          "objectID": "8297D85B-7CDB-4B4B-8689-9A92D4A17191"
+        },
+        "instanceCount": 16
+      },
+      "alternatives": [
+        {
+          "instanceCount": 2,
+          "source": {
+            "artboard": "Components_Error messages",
+            "layerName": "Input / Dropdown / Enabled (Filled in)",
+            "objectID": "8297D85B-7CDB-4B4B-8689-9A92D4A17191"
+          },
+          "fromCopy": false,
+          "differingFields": [
+            {
+              "field": "typography",
+              "a": [
+                {
+                  "fontFamily": "SamsungOne-400",
+                  "fontSize": "14px",
+                  "fontWeight": 400,
+                  "lineHeight": "18px",
+                  "color": "#000000",
+                  "textAlign": null
+                }
+              ],
+              "b": null
+            },
+            {
+              "field": "icon",
+              "a": [
+                {
+                  "width": 16,
+                  "height": 16
+                }
+              ],
+              "b": null
+            }
+          ]
+        },
+        {
+          "instanceCount": 1,
+          "source": {
+            "artboard": "Components_Error messages",
+            "layerName": "Input / Dropdown / Enabled (Filled in)",
+            "objectID": "8297D85B-7CDB-4B4B-8689-9A92D4A17191"
+          },
+          "fromCopy": false,
+          "differingFields": [
+            {
+              "field": "border.border",
+              "a": "1px solid #8A8A8A",
+              "b": "1px solid #000000"
+            }
+          ]
+        },
+        {
+          "instanceCount": 1,
+          "source": {
+            "artboard": "Components_Filtering",
+            "layerName": "Input / Dropdown / Enabled (Filled in)",
+            "objectID": "F4D05EBB-4270-454B-85C5-F9CA44741AE6"
+          },
+          "fromCopy": false,
+          "differingFields": [
+            {
+              "field": "typography.0.color",
+              "a": "#000000",
+              "b": "#9A9A9A"
+            }
+          ]
+        }
+      ],
+      "note": "동일 이름에 서로 다른 스타일 핵심값이 존재. 다수 그룹을 채택했으며 수동 검토 필요."
+    },
+    {
+      "component": "Input",
+      "variant": "Text input",
+      "state": "Enabled",
+      "resolvedBy": "다수결 (6/7 인스턴스)",
+      "canonical": {
+        "source": {
+          "artboard": "Components_Dialogs",
+          "layerName": "Input / Text input / Enabled",
+          "objectID": "98E1F6FF-397F-40FE-9776-982347DB0761"
+        },
+        "instanceCount": 6
+      },
+      "alternatives": [
+        {
+          "instanceCount": 1,
+          "source": {
+            "artboard": "Components_Banner",
+            "layerName": "Input / Text input / Enabled",
+            "objectID": "98E1F6FF-397F-40FE-9776-982347DB0761"
+          },
+          "fromCopy": false,
+          "differingFields": [
+            {
+              "field": "height",
+              "a": 30,
+              "b": 21
+            }
+          ]
+        }
+      ],
+      "note": "동일 이름에 서로 다른 스타일 핵심값이 존재. 다수 그룹을 채택했으며 수동 검토 필요."
+    },
+    {
+      "component": "Input",
+      "variant": "Text input",
+      "state": "Enabled (Filled in)",
+      "resolvedBy": "다수결 (4/8 인스턴스)",
+      "canonical": {
+        "source": {
+          "artboard": "Components_Dropdown list",
+          "layerName": "Input / Text input / Enabled (Filled in)",
+          "objectID": "8297D85B-7CDB-4B4B-8689-9A92D4A17191"
+        },
+        "instanceCount": 4
+      },
+      "alternatives": [
+        {
+          "instanceCount": 3,
+          "source": {
+            "artboard": "Components_Dropdown list",
+            "layerName": "Input / Text input / Enabled (Filled in)",
+            "objectID": "54FF6D76-FDA3-4D7F-B865-BB82A2E0236A"
+          },
+          "fromCopy": false,
+          "differingFields": [
+            {
+              "field": "icon",
+              "a": [
+                {
+                  "width": 16,
+                  "height": 16
+                }
+              ],
+              "b": null
+            }
+          ]
+        },
+        {
+          "instanceCount": 1,
+          "source": {
+            "artboard": "Components_Lists",
+            "layerName": "Input / Text input / Enabled (Filled in)",
+            "objectID": "F4D05EBB-4270-454B-85C5-F9CA44741AE6"
+          },
+          "fromCopy": false,
+          "differingFields": [
+            {
+              "field": "typography.0.color",
+              "a": "#000000",
+              "b": "#9A9A9A"
+            }
+          ]
+        }
+      ],
+      "note": "동일 이름에 서로 다른 스타일 핵심값이 존재. 다수 그룹을 채택했으며 수동 검토 필요."
+    },
+    {
+      "component": "Input",
+      "variant": "Search",
+      "state": "Real-time search",
+      "resolvedBy": "다수결 (23/37 인스턴스)",
+      "canonical": {
+        "source": {
+          "artboard": "Components_Data tables",
+          "layerName": "Input / Search / Real-time search",
+          "objectID": "C16D3CB4-BB18-4EC8-842E-9821258DA95E"
+        },
+        "instanceCount": 23
+      },
+      "alternatives": [
+        {
+          "instanceCount": 13,
+          "source": {
+            "artboard": "Components_Sort by",
+            "layerName": "Input / Search / Real-time search",
+            "objectID": "C16D3CB4-BB18-4EC8-842E-9821258DA95E"
+          },
+          "fromCopy": false,
+          "differingFields": [
+            {
+              "field": "typography.0.color",
+              "a": "#000000",
+              "b": "#9A9A9A"
+            },
+            {
+              "field": "typography.0.textAlign",
+              "a": "right",
+              "b": null
+            },
+            {
+              "field": "typography.1",
+              "a": {
+                "fontFamily": "SamsungOne-400",
+                "fontSize": "14px",
+                "fontWeight": 400,
+                "lineHeight": "18px",
+                "color": "#9A9A9A",
+                "textAlign": null
+              }
+            },
+            {
+              "field": "icon.1",
+              "a": {
+                "width": 16,
+                "height": 16
+              }
+            }
+          ]
+        },
+        {
+          "instanceCount": 1,
+          "source": {
+            "artboard": "Components_Tree view",
+            "layerName": "Input / Search / Real-time search",
+            "objectID": "A0376A59-8436-438C-9D54-CEE8BDE14263"
+          },
+          "fromCopy": false,
+          "differingFields": [
+            {
+              "field": "background.color",
+              "a": "#FFFFFF",
+              "b": "#E8E8E8"
+            },
+            {
+              "field": "border.border",
+              "a": "1px solid #8A8A8A",
+              "b": "1px solid #B2B2B2"
+            },
+            {
+              "field": "typography.0.color",
+              "a": "#000000",
+              "b": "#9A9A9A"
+            }
+          ]
+        }
+      ],
+      "note": "동일 이름에 서로 다른 스타일 핵심값이 존재. 다수 그룹을 채택했으며 수동 검토 필요."
+    },
+    {
+      "component": "Input",
+      "variant": "Search",
+      "state": "Find on page / enabled",
+      "resolvedBy": "다수결 (2/3 인스턴스)",
+      "canonical": {
+        "source": {
+          "artboard": "Components_Find on page",
+          "layerName": "Input / Search / Find on page / enabled",
+          "objectID": "C29834D3-0366-4E72-9C85-75D3B423DF89"
+        },
+        "instanceCount": 2
+      },
+      "alternatives": [
+        {
+          "instanceCount": 1,
+          "source": {
+            "artboard": "Components_Find on page",
+            "layerName": "Input / Search / Find on page / enabled Copy",
+            "objectID": "016FFFEB-B271-4E67-A359-33306E18CCB4"
+          },
+          "fromCopy": true,
+          "differingFields": [
+            {
+              "field": "border.border",
+              "a": "1px solid #8A8A8A",
+              "b": "1px solid #000000"
+            },
+            {
+              "field": "typography.0.color",
+              "a": "#9A9A9A",
+              "b": "#000000"
+            },
+            {
+              "field": "typography.1",
+              "b": {
+                "fontFamily": "SamsungOne-400",
+                "fontSize": "14px",
+                "fontWeight": 400,
+                "lineHeight": "18px",
+                "color": "#000000",
+                "textAlign": "right"
+              }
+            },
+            {
+              "field": "icon.3",
+              "b": {
+                "width": 16,
+                "height": 16
+              }
+            }
+          ]
+        }
+      ],
+      "note": "동일 이름에 서로 다른 스타일 핵심값이 존재. 다수 그룹을 채택했으며 수동 검토 필요."
+    },
+    {
+      "component": "Status",
+      "variant": "Info_Play",
+      "state": "(unspecified)",
+      "resolvedBy": "다수결 (24/56 인스턴스)",
+      "canonical": {
+        "source": {
+          "artboard": "Components_Status colors",
+          "layerName": "Status / Info_Play",
+          "objectID": "C37DDE46-1AD6-4197-8B83-171A8C48C790"
+        },
+        "instanceCount": 24
+      },
+      "alternatives": [
+        {
+          "instanceCount": 14,
+          "source": {
+            "artboard": "Components_Status colors",
+            "layerName": "Status / Info_Play",
+            "objectID": "DCA8A3DD-8996-41B6-BD10-428E6BEB940B"
+          },
+          "fromCopy": false,
+          "differingFields": [
+            {
+              "field": "background",
+              "a": null,
+              "b": {
+                "color": "#34CD3C",
+                "opacity": null,
+                "boxShadow": null
+              }
+            },
+            {
+              "field": "border",
+              "a": null,
+              "b": {
+                "border": null,
+                "borderRadius": null
+              }
+            }
+          ]
+        },
+        {
+          "instanceCount": 8,
+          "source": {
+            "artboard": "Components_Status colors",
+            "layerName": "Status / Info_Play",
+            "objectID": "FBED089D-E6C4-4E5E-A0D5-C1F436D90B26"
+          },
+          "fromCopy": false,
+          "differingFields": [
+            {
+              "field": "background",
+              "a": null,
+              "b": {
+                "color": "#FF291B",
+                "opacity": null,
+                "boxShadow": null
+              }
+            },
+            {
+              "field": "border",
+              "a": null,
+              "b": {
+                "border": null,
+                "borderRadius": null
+              }
+            }
+          ]
+        },
+        {
+          "instanceCount": 6,
+          "source": {
+            "artboard": "Components_Status colors",
+            "layerName": "Status / Info_Play Copy 18",
+            "objectID": "D475830C-700B-487D-91B7-F0511EA312C7"
+          },
+          "fromCopy": false,
+          "differingFields": [
+            {
+              "field": "background",
+              "a": null,
+              "b": {
+                "color": "#AFAFAF",
+                "opacity": null,
+                "boxShadow": null
+              }
+            },
+            {
+              "field": "border",
+              "a": null,
+              "b": {
+                "border": null,
+                "borderRadius": null
+              }
+            }
+          ]
+        },
+        {
+          "instanceCount": 4,
+          "source": {
+            "artboard": "Components_Status colors",
+            "layerName": "Status / Info_Play",
+            "objectID": "7691D89B-D42F-4F70-8578-4C16913E2295"
+          },
+          "fromCopy": false,
+          "differingFields": [
+            {
+              "field": "background",
+              "a": null,
+              "b": {
+                "color": "#268B5C",
+                "opacity": null,
+                "boxShadow": null
+              }
+            },
+            {
+              "field": "border",
+              "a": null,
+              "b": {
+                "border": null,
+                "borderRadius": null
+              }
+            }
+          ]
+        }
+      ],
+      "note": "동일 이름에 서로 다른 스타일 핵심값이 존재. 다수 그룹을 채택했으며 수동 검토 필요."
+    },
+    {
+      "component": "Tooltip",
+      "variant": "Function Name",
+      "state": "(unspecified)",
+      "resolvedBy": "다수결 (15/20 인스턴스)",
+      "canonical": {
+        "source": {
+          "artboard": "Components_Tooltip",
+          "layerName": "Tooltip / Function Name",
+          "objectID": "3E4893F3-A6ED-4300-AE4B-9BBCCC3B09FB"
+        },
+        "instanceCount": 15
+      },
+      "alternatives": [
+        {
+          "instanceCount": 2,
+          "source": {
+            "artboard": "Components_Tooltip",
+            "layerName": "Tooltip / Function Name Copy 4",
+            "objectID": "29E22278-2C19-4565-B6D9-F9B41D203B18"
+          },
+          "fromCopy": true,
+          "differingFields": [
+            {
+              "field": "height",
+              "a": 30,
+              "b": 121
+            },
+            {
+              "field": "typography.0.fontSize",
+              "a": "12px",
+              "b": "13px"
+            },
+            {
+              "field": "typography.0.lineHeight",
+              "a": "16px",
+              "b": "18px"
+            },
+            {
+              "field": "typography.0.textAlign",
+              "a": "center",
+              "b": null
+            },
+            {
+              "field": "typography.1",
+              "b": {
+                "fontFamily": "SamsungOne-700",
+                "fontSize": "13px",
+                "fontWeight": 700,
+                "lineHeight": "18px",
+                "color": "#000000",
+                "textAlign": "right"
+              }
+            },
+            {
+              "field": "typography.2",
+              "b": {
+                "fontFamily": "SamsungOne-400",
+                "fontSize": "14px",
+                "fontWeight": 400,
+                "lineHeight": "18px",
+                "color": "#000000",
+                "textAlign": "left"
+              }
+            },
+            {
+              "field": "typography.3",
+              "b": {
+                "fontFamily": "SamsungOne-400",
+                "fontSize": "14px",
+                "fontWeight": 400,
+                "lineHeight": "18px",
+                "color": "#000000",
+                "textAlign": "left"
+              }
+            },
+            {
+              "field": "typography.4",
+              "b": {
+                "fontFamily": "SamsungOne-700",
+                "fontSize": "12px",
+                "fontWeight": 700,
+                "lineHeight": "16px",
+                "color": "#000000",
+                "textAlign": null
+              }
+            },
+            {
+              "field": "typography.5",
+              "b": {
+                "fontFamily": "SamsungOne-700",
+                "fontSize": "12px",
+                "fontWeight": 700,
+                "lineHeight": "16px",
+                "color": "#000000",
+                "textAlign": null
+              }
+            },
+            {
+              "field": "typography.6",
+              "b": {
+                "fontFamily": "SamsungOne-400",
+                "fontSize": "14px",
+                "fontWeight": 400,
+                "lineHeight": "18px",
+                "color": "#000000",
+                "textAlign": "left"
+              }
+            },
+            {
+              "field": "typography.7",
+              "b": {
+                "fontFamily": "SamsungOne-700",
+                "fontSize": "12px",
+                "fontWeight": 700,
+                "lineHeight": "16px",
+                "color": "#000000",
+                "textAlign": null
+              }
+            }
+          ]
+        },
+        {
+          "instanceCount": 1,
+          "source": {
+            "artboard": "Components_Tooltip",
+            "layerName": "Tooltip / Function Name Copy 2",
+            "objectID": "0A29F4A6-079C-4C1D-ACB1-26F102606CA7"
+          },
+          "fromCopy": true,
+          "differingFields": [
+            {
+              "field": "typography.0.fontFamily",
+              "a": "SamsungOne-700",
+              "b": "SamsungOne-400"
+            },
+            {
+              "field": "typography.0.fontSize",
+              "a": "12px",
+              "b": "14px"
+            },
+            {
+              "field": "typography.0.fontWeight",
+              "a": 700,
+              "b": 400
+            },
+            {
+              "field": "typography.0.lineHeight",
+              "a": "16px",
+              "b": "18px"
+            },
+            {
+              "field": "typography.0.textAlign",
+              "a": "center",
+              "b": "left"
+            }
+          ]
+        },
+        {
+          "instanceCount": 1,
+          "source": {
+            "artboard": "Components_Tooltip",
+            "layerName": "Tooltip / Function Name Copy 3",
+            "objectID": "E3BC4687-4CB8-4B0B-96C6-2C3586C938D6"
+          },
+          "fromCopy": true,
+          "differingFields": [
+            {
+              "field": "height",
+              "a": 30,
+              "b": 84
+            },
+            {
+              "field": "typography.0.fontSize",
+              "a": "12px",
+              "b": "13px"
+            },
+            {
+              "field": "typography.0.lineHeight",
+              "a": "16px",
+              "b": "18px"
+            },
+            {
+              "field": "typography.0.textAlign",
+              "a": "center",
+              "b": null
+            },
+            {
+              "field": "typography.1",
+              "b": {
+                "fontFamily": "SamsungOne-400",
+                "fontSize": "12px",
+                "fontWeight": 400,
+                "lineHeight": "14px",
+                "color": "#606060",
+                "textAlign": "left"
+              }
+            },
+            {
+              "field": "typography.2",
+              "b": {
+                "fontFamily": "SamsungOne-400",
+                "fontSize": "12px",
+                "fontWeight": 400,
+                "lineHeight": null,
+                "color": "#000000",
+                "textAlign": null
+              }
+            }
+          ]
+        },
+        {
+          "instanceCount": 1,
+          "source": {
+            "artboard": "Components_Tooltip",
+            "layerName": "Tooltip / Function Name Copy 5",
+            "objectID": "8F16B3BD-5577-47A7-8090-6AFDD5299F76"
+          },
+          "fromCopy": true,
+          "differingFields": [
+            {
+              "field": "height",
+              "a": 30,
+              "b": 72
+            },
+            {
+              "field": "typography.0.fontSize",
+              "a": "12px",
+              "b": "13px"
+            },
+            {
+              "field": "typography.0.lineHeight",
+              "a": "16px",
+              "b": "18px"
+            },
+            {
+              "field": "typography.0.textAlign",
+              "a": "center",
+              "b": null
+            },
+            {
+              "field": "typography.1",
+              "b": {
+                "fontFamily": "SamsungOne-400",
+                "fontSize": "12px",
+                "fontWeight": 400,
+                "lineHeight": null,
+                "color": "#000000",
+                "textAlign": null
+              }
+            }
+          ]
+        }
+      ],
+      "note": "동일 이름에 서로 다른 스타일 핵심값이 존재. 다수 그룹을 채택했으며 수동 검토 필요."
+    },
+    {
+      "component": "Card",
+      "variant": "Header",
+      "state": "(unspecified)",
+      "resolvedBy": "다수결 (9/16 인스턴스)",
+      "canonical": {
+        "source": {
+          "artboard": "Components_Dashboard card",
+          "layerName": "Card / Header Copy 4",
+          "objectID": "DAEE4518-C0A4-4E01-81B9-C758DB6D9CCB"
+        },
+        "instanceCount": 9
+      },
+      "alternatives": [
+        {
+          "instanceCount": 3,
+          "source": {
+            "artboard": "Components_Dashboard card",
+            "layerName": "Card / Header Copy 4",
+            "objectID": "FE7DCB8F-0006-44AE-8EDE-88294D450F93"
+          },
+          "fromCopy": true,
+          "differingFields": [
+            {
+              "field": "background",
+              "a": {
+                "color": null,
+                "opacity": null,
+                "boxShadow": null
+              },
+              "b": null
+            },
+            {
+              "field": "border",
+              "a": {
+                "border": null,
+                "borderRadius": "6px 6px 0 0"
+              },
+              "b": null
+            },
+            {
+              "field": "typography.1",
+              "a": {
+                "fontFamily": "SamsungOne-400",
+                "fontSize": "14px",
+                "fontWeight": 400,
+                "lineHeight": null,
+                "color": "#000000",
+                "textAlign": null
+              }
+            },
+            {
+              "field": "icon",
+              "a": [
+                {
+                  "width": 16,
+                  "height": 16
+                }
+              ],
+              "b": null
+            }
+          ]
+        },
+        {
+          "instanceCount": 3,
+          "source": {
+            "artboard": "Components_Dashboard card",
+            "layerName": "Card / Header Copy 2",
+            "objectID": "DAEE4518-C0A4-4E01-81B9-C758DB6D9CCB"
+          },
+          "fromCopy": true,
+          "differingFields": [
+            {
+              "field": "typography.1",
+              "a": {
+                "fontFamily": "SamsungOne-400",
+                "fontSize": "14px",
+                "fontWeight": 400,
+                "lineHeight": null,
+                "color": "#000000",
+                "textAlign": null
+              }
+            },
+            {
+              "field": "icon",
+              "a": [
+                {
+                  "width": 16,
+                  "height": 16
+                }
+              ],
+              "b": null
+            }
+          ]
+        },
+        {
+          "instanceCount": 1,
+          "source": {
+            "artboard": "Components_Dashboard card",
+            "layerName": "Card / Header Copy 3",
+            "objectID": "DAEE4518-C0A4-4E01-81B9-C758DB6D9CCB"
+          },
+          "fromCopy": true,
+          "differingFields": [
+            {
+              "field": "typography.1",
+              "a": {
+                "fontFamily": "SamsungOne-400",
+                "fontSize": "14px",
+                "fontWeight": 400,
+                "lineHeight": null,
+                "color": "#000000",
+                "textAlign": null
+              }
+            }
+          ]
+        }
+      ],
+      "note": "동일 이름에 서로 다른 스타일 핵심값이 존재. 다수 그룹을 채택했으며 수동 검토 필요."
+    },
+    {
+      "component": "Data table",
+      "variant": "Selected items",
+      "state": "(unspecified)",
+      "resolvedBy": "다수결 (5/6 인스턴스)",
+      "canonical": {
+        "source": {
+          "artboard": "Components_Data tables",
+          "layerName": "Data table / Selected items",
+          "objectID": "43DDF90C-FD3F-4173-9D26-0C7848887A06"
+        },
+        "instanceCount": 5
+      },
+      "alternatives": [
+        {
+          "instanceCount": 1,
+          "source": {
+            "artboard": "Components_Data tables",
+            "layerName": "Data table / Selected items",
+            "objectID": "43DDF90C-FD3F-4173-9D26-0C7848887A06"
+          },
+          "fromCopy": false,
+          "differingFields": [
+            {
+              "field": "height",
+              "a": 48,
+              "b": 96
+            },
+            {
+              "field": "typography.0.fontSize",
+              "a": "15px",
+              "b": "30px"
+            },
+            {
+              "field": "typography.0.lineHeight",
+              "a": "16px",
+              "b": "32px"
+            },
+            {
+              "field": "typography.1.fontSize",
+              "a": "12px",
+              "b": "24px"
+            },
+            {
+              "field": "typography.1.lineHeight",
+              "a": "18px",
+              "b": "36px"
+            },
+            {
+              "field": "icon.0.width",
+              "a": 16,
+              "b": 32
+            },
+            {
+              "field": "icon.0.height",
+              "a": 16,
+              "b": 32
+            },
+            {
+              "field": "icon.1.width",
+              "a": 16,
+              "b": 32
+            },
+            {
+              "field": "icon.1.height",
+              "a": 16,
+              "b": 32
+            }
+          ]
+        }
+      ],
+      "note": "동일 이름에 서로 다른 스타일 핵심값이 존재. 다수 그룹을 채택했으며 수동 검토 필요."
+    },
+    {
+      "component": "Check Box",
+      "variant": "(unspecified)",
+      "state": "(unspecified)",
+      "resolvedBy": "다수결 (5/11 인스턴스)",
+      "canonical": {
+        "source": {
+          "artboard": "Components_Data tables",
+          "layerName": "Check Box",
+          "objectID": "7134C7D1-0556-4F55-BCB3-EC698C034AC5"
+        },
+        "instanceCount": 5
+      },
+      "alternatives": [
+        {
+          "instanceCount": 4,
+          "source": {
+            "artboard": "Components_Status colors",
+            "layerName": "Check Box",
+            "objectID": "DCA8A3DD-8996-41B6-BD10-428E6BEB940B"
+          },
+          "fromCopy": false,
+          "differingFields": [
+            {
+              "field": "background.color",
+              "a": "#000000",
+              "b": "#34CD3C"
+            },
+            {
+              "field": "background.opacity",
+              "a": 0.87,
+              "b": null
+            },
+            {
+              "field": "border.borderRadius",
+              "a": "3px",
+              "b": null
+            }
+          ]
+        },
+        {
+          "instanceCount": 2,
+          "source": {
+            "artboard": "Components_Data tables",
+            "layerName": "Check Box",
+            "objectID": "B1B11C1D-7002-4E12-98E3-F5B1C921DD5B"
+          },
+          "fromCopy": false,
+          "differingFields": [
+            {
+              "field": "background.color",
+              "a": "#000000",
+              "b": "#FFFFFF"
+            },
+            {
+              "field": "background.opacity",
+              "a": 0.87,
+              "b": null
+            },
+            {
+              "field": "border.border",
+              "a": null,
+              "b": "1px solid #D3D3D3"
+            }
+          ]
+        }
+      ],
+      "note": "동일 이름에 서로 다른 스타일 핵심값이 존재. 다수 그룹을 채택했으며 수동 검토 필요."
+    },
+    {
+      "component": "Filter chip",
+      "variant": "(unspecified)",
+      "state": "(unspecified)",
+      "resolvedBy": "다수결 (41/43 인스턴스)",
+      "canonical": {
+        "source": {
+          "artboard": "Components_Filtering",
+          "layerName": "Filter chip Copy 8",
+          "objectID": "A5BC89FD-C5B6-464D-864C-82FD1DF59037"
+        },
+        "instanceCount": 41
+      },
+      "alternatives": [
+        {
+          "instanceCount": 1,
+          "source": {
+            "artboard": "Components_Filtering",
+            "layerName": "Filter chip",
+            "objectID": "A5BC89FD-C5B6-464D-864C-82FD1DF59037"
+          },
+          "fromCopy": false,
+          "differingFields": [
+            {
+              "field": "typography",
+              "a": [
+                {
+                  "fontFamily": "SamsungOne-400",
+                  "fontSize": "12px",
+                  "fontWeight": 400,
+                  "lineHeight": null,
+                  "color": "#000000",
+                  "textAlign": null
+                }
+              ],
+              "b": null
+            },
+            {
+              "field": "icon.0.width",
+              "a": 12,
+              "b": 5
+            }
+          ]
+        },
+        {
+          "instanceCount": 1,
+          "source": {
+            "artboard": "Components_Filtering",
+            "layerName": "Filter chip Copy 13",
+            "objectID": "A5BC89FD-C5B6-464D-864C-82FD1DF59037"
+          },
+          "fromCopy": true,
+          "differingFields": [
+            {
+              "field": "height",
+              "a": 22,
+              "b": 44
+            },
+            {
+              "field": "border.borderRadius",
+              "a": "4px",
+              "b": "8px"
+            },
+            {
+              "field": "typography.0.fontSize",
+              "a": "12px",
+              "b": "24px"
+            },
+            {
+              "field": "icon.0.width",
+              "a": 12,
+              "b": 24
+            },
+            {
+              "field": "icon.0.height",
+              "a": 12,
+              "b": 24
+            }
+          ]
+        }
+      ],
+      "note": "동일 이름에 서로 다른 스타일 핵심값이 존재. 다수 그룹을 채택했으며 수동 검토 필요."
+    }
+  ],
+  "manualReview": [
+    {
+      "component": "Expand and collapse",
+      "reason": "이름이 일치하는 Components_ 아트보드가 없어 canonical 소속을 결정할 수 없음",
+      "occurrences": {
+        "Components_Banner": 1
+      }
+    },
+    {
+      "component": "Selected items",
+      "reason": "이름이 일치하는 Components_ 아트보드가 없어 canonical 소속을 결정할 수 없음",
+      "occurrences": {
+        "Components_Checkbox": 1,
+        "Components_Data tables": 4,
+        "Components_Toolbar": 4
+      }
+    },
+    {
+      "component": "Icon",
+      "reason": "이름이 일치하는 Components_ 아트보드가 없어 canonical 소속을 결정할 수 없음",
+      "occurrences": {
+        "Components_Checkbox": 2,
+        "Components_Dialogs": 2,
+        "Components_Form": 1,
+        "Components_Loading": 2,
+        "Components_Target selector": 8,
+        "Components_Tooltip": 10
+      }
+    },
+    {
+      "component": "Basic",
+      "reason": "이름이 일치하는 Components_ 아트보드가 없어 canonical 소속을 결정할 수 없음",
+      "occurrences": {
+        "Components_Checkbox": 3,
+        "Components_Dashboard card": 1,
+        "Components_Data tables": 73,
+        "Components_Date and time picker": 1,
+        "Components_Dialogs": 1,
+        "Components_Filtering": 1,
+        "Components_Overflow menu": 2,
+        "Components_Pagination": 15,
+        "Components_Search": 1,
+        "Components_Toggle": 2,
+        "Components_Toolbar": 3
+      }
+    },
+    {
+      "component": "Slider",
+      "reason": "이름이 일치하는 Components_ 아트보드가 없어 canonical 소속을 결정할 수 없음",
+      "occurrences": {
+        "Components_Dashboard card": 13
+      }
+    },
+    {
+      "component": "Chart",
+      "reason": "이름이 일치하는 Components_ 아트보드가 없어 canonical 소속을 결정할 수 없음",
+      "occurrences": {
+        "Components_Dashboard card": 43,
+        "Components_Tabs": 4,
+        "Components_Tooltip": 1
+      }
+    },
+    {
+      "component": "Cursor",
+      "reason": "이름이 일치하는 Components_ 아트보드가 없어 canonical 소속을 결정할 수 없음",
+      "occurrences": {
+        "Components_Dashboard card": 5,
+        "Components_Global navigation bar": 1,
+        "Components_Pagination": 1,
+        "Components_Search": 2,
+        "Components_Sort by": 2,
+        "Components_Text input": 1,
+        "Components_Tooltip": 25,
+        "Components_Tree view": 1
+      }
+    },
+    {
+      "component": "Node",
+      "reason": "이름이 일치하는 Components_ 아트보드가 없어 canonical 소속을 결정할 수 없음",
+      "occurrences": {
+        "Components_Dashboard card": 5
+      }
+    },
+    {
+      "component": "Count-1",
+      "reason": "이름이 일치하는 Components_ 아트보드가 없어 canonical 소속을 결정할 수 없음",
+      "occurrences": {
+        "Components_Data tables": 1
+      }
+    },
+    {
+      "component": "Chip",
+      "reason": "이름이 일치하는 Components_ 아트보드가 없어 canonical 소속을 결정할 수 없음",
+      "occurrences": {
+        "Components_Data tables": 1,
+        "Components_Filtering": 12,
+        "Components_Form": 15,
+        "Components_Loading": 5,
+        "Components_Target selector": 1
+      }
+    },
+    {
+      "component": "Radio Icon",
+      "reason": "이름이 일치하는 Components_ 아트보드가 없어 canonical 소속을 결정할 수 없음",
+      "occurrences": {
+        "Components_Data tables": 2
+      }
+    },
+    {
+      "component": "Chart legend",
+      "reason": "이름이 일치하는 Components_ 아트보드가 없어 canonical 소속을 결정할 수 없음",
+      "occurrences": {
+        "Components_Lookup": 3
+      }
+    },
+    {
+      "component": "@ Cursor",
+      "reason": "이름이 일치하는 Components_ 아트보드가 없어 canonical 소속을 결정할 수 없음",
+      "occurrences": {
+        "Components_Scroll ": 2
+      }
+    },
+    {
+      "component": "Mandatory",
+      "reason": "이름이 일치하는 Components_ 아트보드가 없어 canonical 소속을 결정할 수 없음",
+      "occurrences": {
+        "Components_Status colors": 1
+      }
+    },
+    {
+      "component": "Label",
+      "reason": "이름이 일치하는 Components_ 아트보드가 없어 canonical 소속을 결정할 수 없음",
+      "occurrences": {
+        "Components_Status colors": 1,
+        "Components_Tooltip": 1
+      }
+    },
+    {
+      "component": "Step_invalid",
+      "reason": "이름이 일치하는 Components_ 아트보드가 없어 canonical 소속을 결정할 수 없음",
+      "occurrences": {
+        "Components_Step progress bar": 1
+      }
+    },
+    {
+      "component": "@ Metric",
+      "reason": "이름이 일치하는 Components_ 아트보드가 없어 canonical 소속을 결정할 수 없음",
+      "occurrences": {
+        "Components_Tabs": 5
+      }
+    },
+    {
+      "component": "Launcher",
+      "reason": "이름이 일치하는 Components_ 아트보드가 없어 canonical 소속을 결정할 수 없음",
+      "occurrences": {
+        "Components_Text input": 2
+      }
+    },
+    {
+      "component": "Sub Headline",
+      "reason": "이름이 일치하는 Components_ 아트보드가 없어 canonical 소속을 결정할 수 없음",
+      "occurrences": {
+        "Components_Toggle": 3
+      }
+    },
+    {
+      "component": "Context",
+      "reason": "이름이 일치하는 Components_ 아트보드가 없어 canonical 소속을 결정할 수 없음",
+      "occurrences": {
+        "Components_Toolbar": 1
+      }
+    },
+    {
+      "component": "Icon_Service",
+      "reason": "이름이 일치하는 Components_ 아트보드가 없어 canonical 소속을 결정할 수 없음",
+      "occurrences": {
+        "Components_Tooltip": 1
+      }
+    },
+    {
+      "component": "Pod",
+      "reason": "이름이 일치하는 Components_ 아트보드가 없어 canonical 소속을 결정할 수 없음",
+      "occurrences": {
+        "Components_Tooltip": 2
+      }
+    },
+    {
+      "artboard": "Components_Accordion",
+      "reason": "canonical 심볼 정의를 찾지 못함 — 그룹/셰이프 기반 정의일 가능성. 수동 추출 필요."
+    },
+    {
+      "artboard": "Components_App bar",
+      "reason": "canonical 심볼 정의를 찾지 못함 — 그룹/셰이프 기반 정의일 가능성. 수동 추출 필요."
+    },
+    {
+      "artboard": "Components_Breadcrumb",
+      "reason": "canonical 심볼 정의를 찾지 못함 — 그룹/셰이프 기반 정의일 가능성. 수동 추출 필요."
+    },
+    {
+      "artboard": "Components_Date and time picker",
+      "reason": "canonical 심볼 정의를 찾지 못함 — 그룹/셰이프 기반 정의일 가능성. 수동 추출 필요."
+    },
+    {
+      "artboard": "Components_Dialogs",
+      "reason": "canonical 심볼 정의를 찾지 못함 — 그룹/셰이프 기반 정의일 가능성. 수동 추출 필요."
+    },
+    {
+      "artboard": "Components_Dropdown list",
+      "reason": "canonical 심볼 정의를 찾지 못함 — 그룹/셰이프 기반 정의일 가능성. 수동 추출 필요."
+    },
+    {
+      "artboard": "Components_Find on page",
+      "reason": "canonical 심볼 정의를 찾지 못함 — 그룹/셰이프 기반 정의일 가능성. 수동 추출 필요."
+    },
+    {
+      "artboard": "Components_Global navigation bar",
+      "reason": "canonical 심볼 정의를 찾지 못함 — 그룹/셰이프 기반 정의일 가능성. 수동 추출 필요."
+    },
+    {
+      "artboard": "Components_Link",
+      "reason": "canonical 심볼 정의를 찾지 못함 — 그룹/셰이프 기반 정의일 가능성. 수동 추출 필요."
+    },
+    {
+      "artboard": "Components_Lists",
+      "reason": "canonical 심볼 정의를 찾지 못함 — 그룹/셰이프 기반 정의일 가능성. 수동 추출 필요."
+    },
+    {
+      "artboard": "Components_Loading",
+      "reason": "canonical 심볼 정의를 찾지 못함 — 그룹/셰이프 기반 정의일 가능성. 수동 추출 필요."
+    },
+    {
+      "artboard": "Components_Lookup",
+      "reason": "canonical 심볼 정의를 찾지 못함 — 그룹/셰이프 기반 정의일 가능성. 수동 추출 필요."
+    },
+    {
+      "artboard": "Components_Mosaic card",
+      "reason": "canonical 심볼 정의를 찾지 못함 — 그룹/셰이프 기반 정의일 가능성. 수동 추출 필요."
+    },
+    {
+      "artboard": "Components_Overflow menu",
+      "reason": "canonical 심볼 정의를 찾지 못함 — 그룹/셰이프 기반 정의일 가능성. 수동 추출 필요."
+    },
+    {
+      "artboard": "Components_Page navigation bar",
+      "reason": "canonical 심볼 정의를 찾지 못함 — 그룹/셰이프 기반 정의일 가능성. 수동 추출 필요."
+    },
+    {
+      "artboard": "Components_Radio button",
+      "reason": "canonical 심볼 정의를 찾지 못함 — 그룹/셰이프 기반 정의일 가능성. 수동 추출 필요."
+    },
+    {
+      "artboard": "Components_Search",
+      "reason": "canonical 심볼 정의를 찾지 못함 — 그룹/셰이프 기반 정의일 가능성. 수동 추출 필요."
+    },
+    {
+      "artboard": "Components_Snackbars",
+      "reason": "canonical 심볼 정의를 찾지 못함 — 그룹/셰이프 기반 정의일 가능성. 수동 추출 필요."
+    },
+    {
+      "artboard": "Components_Sort by",
+      "reason": "canonical 심볼 정의를 찾지 못함 — 그룹/셰이프 기반 정의일 가능성. 수동 추출 필요."
+    },
+    {
+      "artboard": "Components_Splitter",
+      "reason": "canonical 심볼 정의를 찾지 못함 — 그룹/셰이프 기반 정의일 가능성. 수동 추출 필요."
+    },
+    {
+      "artboard": "Components_Step progress bar",
+      "reason": "canonical 심볼 정의를 찾지 못함 — 그룹/셰이프 기반 정의일 가능성. 수동 추출 필요."
+    },
+    {
+      "artboard": "Components_Target selector",
+      "reason": "canonical 심볼 정의를 찾지 못함 — 그룹/셰이프 기반 정의일 가능성. 수동 추출 필요."
+    }
+  ]
+}

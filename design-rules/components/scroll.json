@@ -1,0 +1,390 @@
+{
+  "sourceArtboard": "Components_Scroll ",
+  "components": [
+    {
+      "component": "Scroll",
+      "description": null,
+      "variants": [
+        {
+          "name": "Classic scrollbar btn V",
+          "states": [
+            {
+              "name": "(unspecified)",
+              "geometry": {
+                "width": 15,
+                "height": 200,
+                "minWidth": null,
+                "maxWidth": null
+              },
+              "spacing": null,
+              "border": {
+                "border": null,
+                "borderRadius": null,
+                "sourceLayer": "BG"
+              },
+              "background": {
+                "color": "#F2F2F2",
+                "opacity": null,
+                "boxShadow": null,
+                "sourceLayer": "BG"
+              },
+              "typography": null,
+              "icon": [
+                {
+                  "name": "Icon color",
+                  "width": 9,
+                  "height": 6,
+                  "derivedInset": {
+                    "left": 3,
+                    "top": 4
+                  }
+                },
+                {
+                  "name": "Icon color",
+                  "width": 9,
+                  "height": 6,
+                  "derivedInset": {
+                    "left": 3,
+                    "top": 190
+                  }
+                }
+              ],
+              "content": null,
+              "behavior": null,
+              "responsive": null,
+              "stateOverlays": null,
+              "nestedComponents": null,
+              "source": [
+                {
+                  "artboard": "Components_Scroll ",
+                  "layerName": "Scroll / Classic scrollbar btn V",
+                  "objectID": "7D26A75F-658A-4835-BA11-C010650927B8"
+                },
+                {
+                  "artboard": "Components_Scroll ",
+                  "layerName": "Scroll / Classic scrollbar btn V",
+                  "objectID": "7D26A75F-658A-4835-BA11-C010650927B8"
+                },
+                {
+                  "artboard": "Components_Scroll ",
+                  "layerName": "Scroll / Classic scrollbar btn V Copy",
+                  "objectID": "7D26A75F-658A-4835-BA11-C010650927B8"
+                }
+              ],
+              "confidence": "medium"
+            }
+          ]
+        },
+        {
+          "name": "Overlay scrollbar V",
+          "states": [
+            {
+              "name": "(unspecified)",
+              "geometry": {
+                "width": 12,
+                "height": 231,
+                "minWidth": null,
+                "maxWidth": null
+              },
+              "spacing": null,
+              "border": {
+                "border": null,
+                "borderRadius": null,
+                "sourceLayer": "BG"
+              },
+              "background": {
+                "color": "#000000",
+                "opacity": 0,
+                "boxShadow": null,
+                "sourceLayer": "BG"
+              },
+              "typography": null,
+              "icon": null,
+              "content": null,
+              "behavior": null,
+              "responsive": null,
+              "stateOverlays": null,
+              "nestedComponents": null,
+              "source": [
+                {
+                  "artboard": "Components_Scroll ",
+                  "layerName": "Scroll / Overlay scrollbar V",
+                  "objectID": "2B9FDE1B-4382-45A5-96C5-82AA2B39661A"
+                }
+              ],
+              "confidence": "high"
+            }
+          ]
+        },
+        {
+          "name": "Classic scrollbar btn H",
+          "states": [
+            {
+              "name": "(unspecified)",
+              "geometry": {
+                "width": 820,
+                "height": 15,
+                "minWidth": null,
+                "maxWidth": null
+              },
+              "spacing": null,
+              "border": {
+                "border": null,
+                "borderRadius": null,
+                "sourceLayer": "BG"
+              },
+              "background": {
+                "color": "#F2F2F2",
+                "opacity": null,
+                "boxShadow": null,
+                "sourceLayer": "BG"
+              },
+              "typography": null,
+              "icon": [
+                {
+                  "name": "Icon color",
+                  "width": 6,
+                  "height": 9,
+                  "derivedInset": {
+                    "left": 4,
+                    "top": 3
+                  }
+                },
+                {
+                  "name": "Icon color",
+                  "width": 6,
+                  "height": 9,
+                  "derivedInset": {
+                    "left": 810,
+                    "top": 3
+                  }
+                }
+              ],
+              "content": null,
+              "behavior": null,
+              "responsive": null,
+              "stateOverlays": null,
+              "nestedComponents": null,
+              "source": [
+                {
+                  "artboard": "Components_Scroll ",
+                  "layerName": "Scroll / Classic scrollbar btn H",
+                  "objectID": "0368554F-A2E8-4F31-AB7A-099EAFC692F5"
+                }
+              ],
+              "confidence": "high"
+            }
+          ]
+        },
+        {
+          "name": "Classic scrollbar btn (set)",
+          "states": [
+            {
+              "name": "(unspecified)",
+              "geometry": {
+                "width": 820,
+                "height": 150,
+                "minWidth": null,
+                "maxWidth": null
+              },
+              "spacing": null,
+              "border": null,
+              "background": null,
+              "typography": null,
+              "icon": null,
+              "content": null,
+              "behavior": null,
+              "responsive": null,
+              "stateOverlays": null,
+              "nestedComponents": [
+                "Vertical scroll",
+                "Horizontal scroll"
+              ],
+              "source": [
+                {
+                  "artboard": "Components_Scroll ",
+                  "layerName": "Scroll / Classic scrollbar btn (set)",
+                  "objectID": "BB678BF1-BC57-4470-9C65-08AFA5BBB1B0"
+                }
+              ],
+              "confidence": "high"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "component": "Vertical scroll",
+      "description": null,
+      "variants": [
+        {
+          "name": "(unspecified)",
+          "states": [
+            {
+              "name": "(unspecified)",
+              "geometry": {
+                "width": 15,
+                "height": 211,
+                "minWidth": null,
+                "maxWidth": null
+              },
+              "spacing": null,
+              "border": {
+                "border": null,
+                "borderRadius": null,
+                "sourceLayer": "BG"
+              },
+              "background": {
+                "color": "#F2F2F2",
+                "opacity": null,
+                "boxShadow": null,
+                "sourceLayer": "BG"
+              },
+              "typography": null,
+              "icon": [
+                {
+                  "name": "Icon color",
+                  "width": 9,
+                  "height": 6,
+                  "derivedInset": {
+                    "left": 3,
+                    "top": 4
+                  }
+                },
+                {
+                  "name": "Icon color",
+                  "width": 9,
+                  "height": 6,
+                  "derivedInset": {
+                    "left": 3,
+                    "top": 201
+                  }
+                }
+              ],
+              "content": null,
+              "behavior": null,
+              "responsive": null,
+              "stateOverlays": null,
+              "nestedComponents": null,
+              "source": [
+                {
+                  "artboard": "Components_Scroll ",
+                  "layerName": "Vertical scroll",
+                  "objectID": "7D26A75F-658A-4835-BA11-C010650927B8"
+                }
+              ],
+              "confidence": "high"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "component": "Horizontal scroll",
+      "description": null,
+      "variants": [
+        {
+          "name": "(unspecified)",
+          "states": [
+            {
+              "name": "(unspecified)",
+              "geometry": {
+                "width": 737,
+                "height": 15,
+                "minWidth": null,
+                "maxWidth": null
+              },
+              "spacing": null,
+              "border": {
+                "border": null,
+                "borderRadius": null,
+                "sourceLayer": "BG"
+              },
+              "background": {
+                "color": "#F2F2F2",
+                "opacity": null,
+                "boxShadow": null,
+                "sourceLayer": "BG"
+              },
+              "typography": null,
+              "icon": [
+                {
+                  "name": "Icon color",
+                  "width": 6,
+                  "height": 9,
+                  "derivedInset": {
+                    "left": 4,
+                    "top": 3
+                  }
+                },
+                {
+                  "name": "Icon color",
+                  "width": 6,
+                  "height": 9,
+                  "derivedInset": {
+                    "left": 727,
+                    "top": 3
+                  }
+                }
+              ],
+              "content": null,
+              "behavior": null,
+              "responsive": null,
+              "stateOverlays": null,
+              "nestedComponents": null,
+              "source": [
+                {
+                  "artboard": "Components_Scroll ",
+                  "layerName": "Horizontal scroll",
+                  "objectID": "0368554F-A2E8-4F31-AB7A-099EAFC692F5"
+                }
+              ],
+              "confidence": "high"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "component": "Scroll (Hide if unnecessary.)",
+      "description": null,
+      "variants": [
+        {
+          "name": "(unspecified)",
+          "states": [
+            {
+              "name": "(unspecified)",
+              "geometry": {
+                "width": 298,
+                "height": 298,
+                "minWidth": null,
+                "maxWidth": null
+              },
+              "spacing": null,
+              "border": null,
+              "background": null,
+              "typography": null,
+              "icon": null,
+              "content": null,
+              "behavior": null,
+              "responsive": null,
+              "stateOverlays": null,
+              "nestedComponents": [
+                "Vertical scroll",
+                "Horizontal scroll"
+              ],
+              "source": [
+                {
+                  "artboard": "Components_Scroll ",
+                  "layerName": "Scroll (Hide if unnecessary.)",
+                  "objectID": "BB678BF1-BC57-4470-9C65-08AFA5BBB1B0"
+                }
+              ],
+              "confidence": "high"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

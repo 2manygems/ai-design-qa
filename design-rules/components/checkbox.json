@@ -1,0 +1,83 @@
+{
+  "sourceArtboard": "Components_Checkbox",
+  "components": [
+    {
+      "component": "Check Box",
+      "description": null,
+      "variants": [
+        {
+          "name": "(unspecified)",
+          "states": [
+            {
+              "name": "(unspecified)",
+              "geometry": {
+                "width": 16,
+                "height": 16,
+                "minWidth": null,
+                "maxWidth": null
+              },
+              "spacing": null,
+              "border": {
+                "border": null,
+                "borderRadius": "3px",
+                "sourceLayer": "Rectangle"
+              },
+              "background": {
+                "color": "#000000",
+                "opacity": 0.87,
+                "boxShadow": null,
+                "sourceLayer": "Rectangle"
+              },
+              "typography": null,
+              "icon": [
+                {
+                  "name": "Toggle / Checkbox_Active",
+                  "width": 16,
+                  "height": 16,
+                  "derivedInset": {
+                    "left": 0,
+                    "top": 0
+                  }
+                }
+              ],
+              "content": null,
+              "behavior": null,
+              "responsive": null,
+              "stateOverlays": null,
+              "nestedComponents": null,
+              "source": [
+                {
+                  "artboard": "Components_Data tables",
+                  "layerName": "Check Box",
+                  "objectID": "7134C7D1-0556-4F55-BCB3-EC698C034AC5"
+                },
+                {
+                  "artboard": "Components_Data tables",
+                  "layerName": "Check Box",
+                  "objectID": "7134C7D1-0556-4F55-BCB3-EC698C034AC5"
+                },
+                {
+                  "artboard": "Components_Data tables",
+                  "layerName": "Check Box",
+                  "objectID": "7134C7D1-0556-4F55-BCB3-EC698C034AC5"
+                },
+                {
+                  "artboard": "Components_Data tables",
+                  "layerName": "Check Box",
+                  "objectID": "7134C7D1-0556-4F55-BCB3-EC698C034AC5"
+                },
+                {
+                  "artboard": "Components_Data tables",
+                  "layerName": "Check Box",
+                  "objectID": "7134C7D1-0556-4F55-BCB3-EC698C034AC5"
+                }
+              ],
+              "confidence": "low",
+              "note": "홈 아트보드에 심볼 정의가 없어 다른 아트보드의 반복 사용례에서 추출됨"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,465 @@
+{
+  "sourceArtboard": "Components_Banner",
+  "components": [
+    {
+      "component": "Banner",
+      "description": null,
+      "variants": [
+        {
+          "name": "Info",
+          "states": [
+            {
+              "name": "(unspecified)",
+              "geometry": {
+                "width": null,
+                "height": 30,
+                "minWidth": null,
+                "maxWidth": null,
+                "observedWidths": [
+                  525,
+                  800,
+                  825
+                ],
+                "widthNote": "인스턴스마다 다름 (콘텐츠 의존) — 고정 규칙 아님"
+              },
+              "spacing": {
+                "derived": true,
+                "note": "텍스트 rect와 심볼 rect의 차이에서 계산된 실측값 (문서화된 토큰 아님)",
+                "textPadding": {
+                  "left": 32,
+                  "right": 370,
+                  "top": 6,
+                  "bottom": 6
+                }
+              },
+              "border": {
+                "border": "1px solid #B2D4FF",
+                "borderRadius": "4px",
+                "sourceLayer": "container"
+              },
+              "background": {
+                "color": "#DEECFF",
+                "opacity": null,
+                "boxShadow": null,
+                "sourceLayer": "container"
+              },
+              "typography": [
+                {
+                  "role": "Message",
+                  "content": "Provide users with non-disruptive feedback or the status of an action.",
+                  "fontFamily": "SamsungOne-400",
+                  "fontSize": "13px",
+                  "fontWeight": 400,
+                  "lineHeight": "18px",
+                  "color": "#000000",
+                  "textAlign": null,
+                  "derivedPadding": {
+                    "left": 32,
+                    "right": 370,
+                    "top": 6,
+                    "bottom": 6
+                  }
+                }
+              ],
+              "icon": [
+                {
+                  "name": "Status / info-3",
+                  "width": 16,
+                  "height": 16,
+                  "derivedInset": {
+                    "left": 8,
+                    "top": 7
+                  }
+                }
+              ],
+              "content": [
+                "Provide users with non-disruptive feedback or the status of an action."
+              ],
+              "behavior": null,
+              "responsive": null,
+              "stateOverlays": null,
+              "nestedComponents": null,
+              "source": [
+                {
+                  "artboard": "Components_Banner",
+                  "layerName": "Banner / Info",
+                  "objectID": "DF0F31BB-91EF-4BE8-AF90-47F8BE91374B"
+                },
+                {
+                  "artboard": "Components_Banner",
+                  "layerName": "Banner / Info",
+                  "objectID": "DF0F31BB-91EF-4BE8-AF90-47F8BE91374B"
+                },
+                {
+                  "artboard": "Components_Banner",
+                  "layerName": "Banner / Info",
+                  "objectID": "DF0F31BB-91EF-4BE8-AF90-47F8BE91374B"
+                },
+                {
+                  "artboard": "Components_Banner",
+                  "layerName": "Banner / Info",
+                  "objectID": "DF0F31BB-91EF-4BE8-AF90-47F8BE91374B"
+                },
+                {
+                  "artboard": "Components_Banner",
+                  "layerName": "Banner / Info",
+                  "objectID": "DF0F31BB-91EF-4BE8-AF90-47F8BE91374B"
+                }
+              ],
+              "confidence": "medium"
+            }
+          ]
+        },
+        {
+          "name": "Info with title",
+          "states": [
+            {
+              "name": "(unspecified)",
+              "geometry": {
+                "width": 800,
+                "height": 48,
+                "minWidth": null,
+                "maxWidth": null
+              },
+              "spacing": {
+                "derived": true,
+                "note": "텍스트 rect와 심볼 rect의 차이에서 계산된 실측값 (문서화된 토큰 아님)",
+                "textPadding": {
+                  "left": 32,
+                  "right": 370,
+                  "top": 24,
+                  "bottom": 6
+                }
+              },
+              "border": {
+                "border": "1px solid #B2D4FF",
+                "borderRadius": "4px",
+                "sourceLayer": "container"
+              },
+              "background": {
+                "color": "#DEECFF",
+                "opacity": null,
+                "boxShadow": null,
+                "sourceLayer": "container"
+              },
+              "typography": [
+                {
+                  "role": "Message",
+                  "content": "Provide users with non-disruptive feedback or the status of an action.",
+                  "fontFamily": "SamsungOne-400",
+                  "fontSize": "13px",
+                  "fontWeight": 400,
+                  "lineHeight": "18px",
+                  "color": "#000000",
+                  "textAlign": null,
+                  "derivedPadding": {
+                    "left": 32,
+                    "right": 370,
+                    "top": 24,
+                    "bottom": 6
+                  }
+                },
+                {
+                  "role": "Title",
+                  "content": "Information label",
+                  "fontFamily": "SamsungOne-700",
+                  "fontSize": "13px",
+                  "fontWeight": 700,
+                  "lineHeight": "18px",
+                  "color": "#000000",
+                  "textAlign": null,
+                  "derivedPadding": {
+                    "left": 32,
+                    "right": 666,
+                    "top": 6,
+                    "bottom": 24
+                  }
+                }
+              ],
+              "icon": [
+                {
+                  "name": "Status / info-3",
+                  "width": 16,
+                  "height": 16,
+                  "derivedInset": {
+                    "left": 8,
+                    "top": 7
+                  }
+                }
+              ],
+              "content": [
+                "Provide users with non-disruptive feedback or the status of an action.",
+                "Information label"
+              ],
+              "behavior": null,
+              "responsive": null,
+              "stateOverlays": null,
+              "nestedComponents": null,
+              "source": [
+                {
+                  "artboard": "Components_Banner",
+                  "layerName": "Banner / Info with title",
+                  "objectID": "F2764F36-421B-4D16-B6FE-51F6E27DEBB9"
+                }
+              ],
+              "confidence": "medium"
+            }
+          ]
+        },
+        {
+          "name": "Error_action button",
+          "states": [
+            {
+              "name": "(unspecified)",
+              "geometry": {
+                "width": 839,
+                "height": 30,
+                "minWidth": null,
+                "maxWidth": null
+              },
+              "spacing": {
+                "derived": true,
+                "note": "텍스트 rect와 심볼 rect의 차이에서 계산된 실측값 (문서화된 토큰 아님)",
+                "textPadding": {
+                  "left": 32,
+                  "right": 409,
+                  "top": 6,
+                  "bottom": 6
+                }
+              },
+              "border": {
+                "border": "1px solid #FBC4C4",
+                "borderRadius": "4px",
+                "sourceLayer": "Mask"
+              },
+              "background": {
+                "color": "#FDE6E6",
+                "opacity": null,
+                "boxShadow": null,
+                "sourceLayer": "Mask"
+              },
+              "typography": [
+                {
+                  "role": "Message",
+                  "content": "Provide users with non-disruptive feedback or the status of an action.",
+                  "fontFamily": "SamsungOne-400",
+                  "fontSize": "13px",
+                  "fontWeight": 400,
+                  "lineHeight": "18px",
+                  "color": "#000000",
+                  "textAlign": null,
+                  "derivedPadding": {
+                    "left": 32,
+                    "right": 409,
+                    "top": 6,
+                    "bottom": 6
+                  }
+                }
+              ],
+              "icon": [
+                {
+                  "name": "Status / alarm",
+                  "width": 16,
+                  "height": 16,
+                  "derivedInset": {
+                    "left": 8,
+                    "top": 7
+                  }
+                }
+              ],
+              "content": [
+                "Provide users with non-disruptive feedback or the status of an action."
+              ],
+              "behavior": null,
+              "responsive": null,
+              "stateOverlays": null,
+              "nestedComponents": [
+                "Button / ghost-text / primary-x-small"
+              ],
+              "source": [
+                {
+                  "artboard": "Components_Banner",
+                  "layerName": "Banner / Error_action button",
+                  "objectID": "77FFA1F8-EA17-4912-93C4-6B28A88312A4"
+                }
+              ],
+              "confidence": "high"
+            }
+          ]
+        },
+        {
+          "name": "Error",
+          "states": [
+            {
+              "name": "(unspecified)",
+              "geometry": {
+                "width": 800,
+                "height": 30,
+                "minWidth": null,
+                "maxWidth": null
+              },
+              "spacing": {
+                "derived": true,
+                "note": "텍스트 rect와 심볼 rect의 차이에서 계산된 실측값 (문서화된 토큰 아님)",
+                "textPadding": {
+                  "left": 32,
+                  "right": 592,
+                  "top": 6,
+                  "bottom": 6
+                }
+              },
+              "border": {
+                "border": "1px solid #FBC4C4",
+                "borderRadius": "4px",
+                "sourceLayer": "Mask"
+              },
+              "background": {
+                "color": "#FDE6E6",
+                "opacity": null,
+                "boxShadow": null,
+                "sourceLayer": "Mask"
+              },
+              "typography": [
+                {
+                  "role": "Message",
+                  "content": "Server connection interrupted.",
+                  "fontFamily": "SamsungOne-400",
+                  "fontSize": "13px",
+                  "fontWeight": 400,
+                  "lineHeight": "18px",
+                  "color": "#000000",
+                  "textAlign": null,
+                  "derivedPadding": {
+                    "left": 32,
+                    "right": 592,
+                    "top": 6,
+                    "bottom": 6
+                  }
+                }
+              ],
+              "icon": [
+                {
+                  "name": "Status / alarm",
+                  "width": 16,
+                  "height": 16,
+                  "derivedInset": {
+                    "left": 8,
+                    "top": 7
+                  }
+                }
+              ],
+              "content": [
+                "Server connection interrupted."
+              ],
+              "behavior": null,
+              "responsive": null,
+              "stateOverlays": null,
+              "nestedComponents": [
+                "Button / ghost-text / primary-x-small"
+              ],
+              "source": [
+                {
+                  "artboard": "Components_Banner",
+                  "layerName": "Banner / Error",
+                  "objectID": "77FFA1F8-EA17-4912-93C4-6B28A88312A4"
+                },
+                {
+                  "artboard": "Components_Banner",
+                  "layerName": "Banner / Error",
+                  "objectID": "77FFA1F8-EA17-4912-93C4-6B28A88312A4"
+                },
+                {
+                  "artboard": "Components_Banner",
+                  "layerName": "Banner / Error",
+                  "objectID": "77FFA1F8-EA17-4912-93C4-6B28A88312A4"
+                }
+              ],
+              "confidence": "high"
+            }
+          ]
+        },
+        {
+          "name": "Caution",
+          "states": [
+            {
+              "name": "(unspecified)",
+              "geometry": {
+                "width": 800,
+                "height": 30,
+                "minWidth": null,
+                "maxWidth": null
+              },
+              "spacing": {
+                "derived": true,
+                "note": "텍스트 rect와 심볼 rect의 차이에서 계산된 실측값 (문서화된 토큰 아님)",
+                "textPadding": {
+                  "left": 32,
+                  "right": 378,
+                  "top": 6,
+                  "bottom": 6
+                }
+              },
+              "border": {
+                "border": "1px solid #F2D002",
+                "borderRadius": "4px",
+                "sourceLayer": "Mask"
+              },
+              "background": {
+                "color": "#FFFFFF",
+                "opacity": null,
+                "boxShadow": null,
+                "sourceLayer": "Mask"
+              },
+              "typography": [
+                {
+                  "role": "Message",
+                  "content": "File content exceeds 90% of license, including already created ones.",
+                  "fontFamily": "SamsungOne-400",
+                  "fontSize": "13px",
+                  "fontWeight": 400,
+                  "lineHeight": "18px",
+                  "color": "#000000",
+                  "textAlign": null,
+                  "derivedPadding": {
+                    "left": 32,
+                    "right": 378,
+                    "top": 6,
+                    "bottom": 6
+                  }
+                }
+              ],
+              "icon": [
+                {
+                  "name": "Status / caution",
+                  "width": 16,
+                  "height": 16,
+                  "derivedInset": {
+                    "left": 8,
+                    "top": 7
+                  }
+                }
+              ],
+              "content": [
+                "File content exceeds 90% of license, including already created ones."
+              ],
+              "behavior": null,
+              "responsive": null,
+              "stateOverlays": null,
+              "nestedComponents": [
+                "Button / ghost-text / primary-x-small"
+              ],
+              "source": [
+                {
+                  "artboard": "Components_Banner",
+                  "layerName": "Banner / Caution",
+                  "objectID": "4D4B9D6D-F840-425A-B7C2-3E6D03484B06"
+                }
+              ],
+              "confidence": "high"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

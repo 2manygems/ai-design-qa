@@ -1,0 +1,233 @@
+{
+  "artboard": "Pattern_Full-screen modal",
+  "statements": [
+    {
+      "content": "Fullscreen modal is another option of modal dialog that covers the user viewport.",
+      "source": {
+        "artboard": "Pattern_Full-screen modal",
+        "layerName": "Text",
+        "objectID": "63D72CD6-BA13-444C-88A5-FFC3CA9501A9"
+      }
+    },
+    {
+      "content": "Last updated: Mar 17, 2025",
+      "source": {
+        "artboard": "Pattern_Full-screen modal",
+        "layerName": "Text Copy 5",
+        "objectID": "39BF8BF5-7A61-4BE6-A274-1F9AEF09D464"
+      }
+    },
+    {
+      "content": "&gt; When the modal becomes too long\n&gt; When you have to go through several steps to perform the function",
+      "source": {
+        "artboard": "Pattern_Full-screen modal",
+        "layerName": "Text",
+        "objectID": "D5D46974-576C-41C8-8EFD-05527A5A4DA5"
+      }
+    },
+    {
+      "content": "Previously, if there was too much content in the pop-up dialog, it was replaced with a depth-in screen. In addition, a chevron (&gt;) icon was displayed on the function button so that the user could predict screen movement. But in general, depth-in UI structure is used to view data with hierarchies, but functions such as “package registration” or “new cell creation” do not have a hierarchy and are not suitable for using depth-in UI.\n\nTherefore when there is a lot of data to display, configure it as a full-screen modal dialog, divide the dialog area into header, body and footer, and apply scroll only to the body area.",
+      "source": {
+        "artboard": "Pattern_Full-screen modal",
+        "layerName": "Text Copy 2",
+        "objectID": "F55602F3-3026-43F7-8B71-260F18361088"
+      }
+    },
+    {
+      "content": "Since May 2022, the improvement work of UI flow that is not suitable for the depth-in UI structure has been underway. We are planning to apply a fullscreen modal dialog to all products by the end of 2023.",
+      "source": {
+        "artboard": "Pattern_Full-screen modal",
+        "layerName": "Text",
+        "objectID": "B9D4261F-99DE-4E03-9359-7070C2B99D6B"
+      }
+    },
+    {
+      "content": "General use of full-screen modal:",
+      "source": {
+        "artboard": "Pattern_Full-screen modal",
+        "layerName": "General use of full-",
+        "objectID": "48BBF7BB-5790-4661-AF32-1B8348C17EEB"
+      }
+    },
+    {
+      "content": "Hierarchical information structure",
+      "source": {
+        "artboard": "Pattern_Full-screen modal",
+        "layerName": "Hierarchical informa",
+        "objectID": "D204FA91-48CE-451F-8557-A69174BB976D"
+      }
+    },
+    {
+      "content": "1. Header\n2. Body\n3. Footer\n4. Elevation\n5. Overlay",
+      "source": {
+        "artboard": "Pattern_Full-screen modal",
+        "layerName": "Text Copy 10",
+        "objectID": "3FE7824A-A042-4575-96FB-D83126E5AA15"
+      }
+    },
+    {
+      "content": "A full-screen dialog generally consists of following elements in delivering information. (Same as basic dialog)",
+      "source": {
+        "artboard": "Pattern_Full-screen modal",
+        "layerName": "Text Copy 52",
+        "objectID": "95701BF7-CD38-4B62-886F-3F4947D31313"
+      }
+    },
+    {
+      "content": "&gt; Scrolling long content\n&gt; Minimum resolution",
+      "source": {
+        "artboard": "Pattern_Full-screen modal",
+        "layerName": "Text",
+        "objectID": "13810283-B67E-4FE1-A174-EA29BB207C02"
+      }
+    },
+    {
+      "content": "When modals become too long for user’s viewport or device, they scroll independent of the page itself.\nThe CTA button area must be fixed at the bottom of the viewport.",
+      "source": {
+        "artboard": "Pattern_Full-screen modal",
+        "layerName": "Text Copy 52",
+        "objectID": "79043897-B744-4CE1-9478-74A2CA43940B"
+      }
+    },
+    {
+      "content": "When modals become too long for user’s viewport or device, they scroll independent of the page itself.",
+      "source": {
+        "artboard": "Pattern_Full-screen modal",
+        "layerName": "When modals become t",
+        "objectID": "A2C17C8E-3C09-4C52-9013-3D2D79AE21AB"
+      }
+    },
+    {
+      "content": "The CTA button area must be fixed at the bottom of the viewport.",
+      "source": {
+        "artboard": "Pattern_Full-screen modal",
+        "layerName": "The CTA button area",
+        "objectID": "1071CC84-F749-41DD-BD68-25EBDD08BC8C"
+      }
+    },
+    {
+      "content": "If browser size becomes smaller than minimum resolution(1440x700), display a browser scroll. If browser size is larger than minimum resolution, the footer(CTA button area) must be fixed at the bottom of the viewport.",
+      "source": {
+        "artboard": "Pattern_Full-screen modal",
+        "layerName": "Text Copy 52",
+        "objectID": "7F47EE16-31BA-43D5-B7BB-E8AE134E9253"
+      }
+    },
+    {
+      "content": "The body of the full screen modal may be configured in various layouts.",
+      "source": {
+        "artboard": "Pattern_Full-screen modal",
+        "layerName": "Text Copy 52",
+        "objectID": "4BDF59EB-80A3-4167-911B-32AD4CFC98FB"
+      }
+    },
+    {
+      "content": "The full screen modal popup covers the entire area except for 112 pixels at the top of the screen. The 112 pixels allow users to view app name and the title of top toolbar. The header height is 8 pixels larger than a general dialog.",
+      "source": {
+        "artboard": "Pattern_Full-screen modal",
+        "layerName": "Text Copy 52",
+        "objectID": "B15E978A-2950-487E-965D-37CD72018444"
+      }
+    },
+    {
+      "content": "network/samsung4g-access-enb/saved-…",
+      "source": {
+        "artboard": "Pattern_Full-screen modal",
+        "layerName": "Text Copy",
+        "objectID": "EB2E13E3-06E4-45DD-8CA8-040AF01B18FF"
+      }
+    },
+    {
+      "content": "Full-screen modal follows the structure of the general dialog. Therefore, the CTA button is also placed at the bottom. If there is a stepper, place the page change button on the footer according to the pop-up UI structure.",
+      "source": {
+        "artboard": "Pattern_Full-screen modal",
+        "layerName": "Text Copy 52",
+        "objectID": "6DEBD3A3-CDD7-42CB-BEB6-4B9B56793EF2"
+      }
+    },
+    {
+      "content": "Always apply shadows to dialogs. Shadows follow these rules:\nShadow 1: #000000, opacity 14%, Y+24, blur 38, spread 3\nShadow 2: #000000, opacity 12%, Y+9, blur 46, spread 8\nShadow 3: #000000, opacity 20%, Y+11, blur 15, spread -7",
+      "source": {
+        "artboard": "Pattern_Full-screen modal",
+        "layerName": "Text Copy 52",
+        "objectID": "C388749D-78E9-463D-98A7-FF6FBDCAC370"
+      }
+    },
+    {
+      "content": "Always apply shadows to dialogs. Shadows follow these rules:",
+      "source": {
+        "artboard": "Pattern_Full-screen modal",
+        "layerName": "Always apply shadows",
+        "objectID": "5B75F013-91DB-450E-BBBD-DD8174AA2254"
+      }
+    },
+    {
+      "content": "#000000, opacity 14%, Y+24, blur 38, spread 3",
+      "source": {
+        "artboard": "Pattern_Full-screen modal",
+        "layerName": "#000000, opacity 14%",
+        "objectID": "AC76791F-B863-4C33-95C5-389476C2BDCA"
+      }
+    },
+    {
+      "content": "#000000, opacity 12%, Y+9, blur 46, spread 8",
+      "source": {
+        "artboard": "Pattern_Full-screen modal",
+        "layerName": "#000000, opacity 12%",
+        "objectID": "3F8AD7F3-E88A-4CF9-BEBB-B62F7535E8A2"
+      }
+    },
+    {
+      "content": "#000000, opacity 20%, Y+11, blur 15, spread -7",
+      "source": {
+        "artboard": "Pattern_Full-screen modal",
+        "layerName": "#000000, opacity 20%",
+        "objectID": "3CA64D16-2497-4EB3-913B-1BEEA60939FD"
+      }
+    },
+    {
+      "content": "The modal size adapt to screen sizes and devices. When a window is resized, the flexible area of the modal grows and shrinks.\nEven if the content is less than the modal size, the full-screen modal doesn’t shrink.",
+      "source": {
+        "artboard": "Pattern_Full-screen modal",
+        "layerName": "Text Copy 52",
+        "objectID": "78C32BE7-9C94-4E23-B6C7-25E6C9397D4A"
+      }
+    },
+    {
+      "content": "• This pattern has been added to the UX 3.5 guideline.",
+      "source": {
+        "artboard": "Pattern_Full-screen modal",
+        "layerName": "Text",
+        "objectID": "483C68FA-28C6-437C-8610-2FD8930F8A4C"
+      }
+    },
+    {
+      "content": "• A guide has been added for resolution-specific resizing of full-screen modal.",
+      "source": {
+        "artboard": "Pattern_Full-screen modal",
+        "layerName": "Text",
+        "objectID": "483C68FA-28C6-437C-8610-2FD8930F8A4C"
+      }
+    },
+    {
+      "content": "• Insert horizontal lines (under the header, above the footer) when splitting the screen with a vertical divider. (#C0C0C0)\n• Header height changed from 80px to 72px to match the header heights of regular modal dialogs and full-screen modal dialogs.",
+      "source": {
+        "artboard": "Pattern_Full-screen modal",
+        "layerName": "Text",
+        "objectID": "483C68FA-28C6-437C-8610-2FD8930F8A4C"
+      }
+    }
+  ],
+  "usedComponents": {
+    "Button / contained-text / primary-default": 7,
+    "Button / contained-text / secondary-default": 7,
+    "Input / Dropdown / Enabled (Filled in)": 3,
+    "Scroll / Vertical": 2,
+    "Icon button / Medium": 2,
+    "Text button / Secondary / Label": 2,
+    "Icon button / Small": 2,
+    "Text button / Secondary / Small Label": 2,
+    "Status / Info_Play": 2,
+    "Button 1": 1
+  }
+}

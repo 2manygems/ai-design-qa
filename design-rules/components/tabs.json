@@ -1,0 +1,91 @@
+{
+  "sourceArtboard": "Components_Tabs",
+  "components": [
+    {
+      "component": "Tabs",
+      "description": null,
+      "variants": [
+        {
+          "name": "Label - enabled",
+          "states": [
+            {
+              "name": "(unspecified)",
+              "geometry": {
+                "width": 100,
+                "height": 48,
+                "minWidth": null,
+                "maxWidth": null
+              },
+              "spacing": {
+                "derived": true,
+                "note": "텍스트 rect와 심볼 rect의 차이에서 계산된 실측값 (문서화된 토큰 아님)",
+                "textPadding": {
+                  "left": 16,
+                  "right": 16,
+                  "top": 15,
+                  "bottom": 15
+                }
+              },
+              "border": null,
+              "background": null,
+              "typography": [
+                {
+                  "role": "Tab",
+                  "content": "Content tab",
+                  "fontFamily": "SamsungOne-400",
+                  "fontSize": "13px",
+                  "fontWeight": 400,
+                  "lineHeight": "18px",
+                  "color": "#000000",
+                  "textAlign": "left",
+                  "derivedPadding": {
+                    "left": 16,
+                    "right": 16,
+                    "top": 15,
+                    "bottom": 15
+                  }
+                }
+              ],
+              "icon": null,
+              "content": [
+                "Content tab"
+              ],
+              "behavior": null,
+              "responsive": null,
+              "stateOverlays": null,
+              "nestedComponents": null,
+              "source": [
+                {
+                  "artboard": "Components_Tabs",
+                  "layerName": "Tabs / Label - enabled",
+                  "objectID": "765561E3-D9A4-491D-8964-9C523FEE07B7"
+                },
+                {
+                  "artboard": "Components_Tabs",
+                  "layerName": "Tabs / Label - enabled Copy",
+                  "objectID": "765561E3-D9A4-491D-8964-9C523FEE07B7"
+                },
+                {
+                  "artboard": "Components_Tabs",
+                  "layerName": "Tabs / Label - enabled Copy 2",
+                  "objectID": "765561E3-D9A4-491D-8964-9C523FEE07B7"
+                },
+                {
+                  "artboard": "Components_Tabs",
+                  "layerName": "Tabs / Label - enabled Copy 4",
+                  "objectID": "765561E3-D9A4-491D-8964-9C523FEE07B7"
+                },
+                {
+                  "artboard": "Components_Tabs",
+                  "layerName": "Tabs / Label - enabled Copy 3",
+                  "objectID": "765561E3-D9A4-491D-8964-9C523FEE07B7"
+                }
+              ],
+              "confidence": "high"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
