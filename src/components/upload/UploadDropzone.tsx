@@ -32,12 +32,12 @@ export function UploadDropzone() {
       }`}
     >
       <p className="text-sm text-gray-600">
-        Sketch HTML 파일을 드래그하거나 클릭해서 업로드하세요
+        Sketch HTML 또는 MeaXure export ZIP을 드래그하거나 클릭해서 업로드하세요
       </p>
       <input
         ref={inputRef}
         type="file"
-        accept=".html"
+        accept=".html,.zip"
         className="hidden"
         onChange={(e) => handleFiles(e.target.files)}
       />

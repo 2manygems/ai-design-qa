@@ -6,10 +6,11 @@ import { ComponentsPanel } from '../components/dashboard/ComponentsPanel'
 import { StringsPanel } from '../components/dashboard/StringsPanel'
 import { CssViolationsPanel } from '../components/dashboard/CssViolationsPanel'
 import { QaReportPanel } from '../components/dashboard/QaReportPanel'
+import { ScreenQaPanel } from '../components/dashboard/ScreenQaPanel'
 import { UxWritingPanel } from '../components/dashboard/UxWritingPanel'
 import { Button } from '../components/ui/Button'
 
-const TABS: { key: DashboardTab; label: string }[] = [
+const HTML_TABS: { key: DashboardTab; label: string }[] = [
   { key: 'components', label: 'Components' },
   { key: 'strings', label: 'Strings' },
   { key: 'css', label: 'Guideline Violations' },
@@ -17,12 +18,22 @@ const TABS: { key: DashboardTab; label: string }[] = [
   { key: 'ux-writing', label: 'UX Writing' },
 ]
 
+const SCREEN_TABS: { key: DashboardTab; label: string }[] = [
+  { key: 'screen-qa', label: 'Screen QA' },
+]
+
 export default function DashboardPage() {
   const result = useAnalysisStore((state) => state.result)
+  const screenUpload = useAnalysisStore((state) => state.screenUpload)
   const reset = useAnalysisStore((state) => state.reset)
-  const { activeTab, setActiveTab } = useDashboardFilters()
+  const isScreenResult = Boolean(result?.screenQa)
+  const { activeTab, setActiveTab } = useDashboardFilters(
+    isScreenResult ? 'screen-qa' : 'components',
+  )
 
   if (!result) return null
+
+  const tabs = isScreenResult ? SCREEN_TABS : HTML_TABS
 
   return (
     <div className="mx-auto max-w-4xl space-y-6 p-8">
@@ -33,10 +44,10 @@ export default function DashboardPage() {
         </Button>
       </div>
 
-      <SummaryScoreCard result={result} />
+      {!isScreenResult && <SummaryScoreCard result={result} />}
 
       <div className="flex gap-2 border-b border-gray-200">
-        {TABS.map((tab) => (
+        {tabs.map((tab) => (
           <button
             key={tab.key}
             type="button"
@@ -52,6 +63,12 @@ export default function DashboardPage() {
         ))}
       </div>
 
+      {activeTab === 'screen-qa' && result.screenQa && (
+        <ScreenQaPanel
+          report={result.screenQa}
+          imageUrls={screenUpload?.imageUrls ?? {}}
+        />
+      )}
       {activeTab === 'components' && (
         <ComponentsPanel components={result.components} />
       )}

@@ -36,12 +36,14 @@ function checkDimension(
 
   const diff = actual - expected
   const equal = Math.abs(diff) <= LAYOUT_TOLERANCE_PX
+  // width는 콘텐츠 길이에 따라 달라질 수 있어 위반이어도 WARNING (상황적 예외 가능)
+  const mismatchStatus = property === 'width' ? 'WARNING' : 'ERROR'
   return buildCheck({
     input,
     property,
     expected: `${expected}px`,
     actual: actualRaw,
-    status: equal ? 'PASS' : 'ERROR',
+    status: equal ? 'PASS' : mismatchStatus,
     severity: 'minor',
     difference: equal ? null : `${diff > 0 ? '+' : ''}${diff}px`,
     suggestion: equal ? null : `${property}를 ${actualRaw}에서 ${expected}px(으)로 변경하세요.`,

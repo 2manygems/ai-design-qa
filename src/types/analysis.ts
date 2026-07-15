@@ -59,6 +59,8 @@ export interface AnalysisResult {
   css: ExtractedCssRule[]
   guidelineViolations: GuidelineViolation[]
   qaReport: QaReport
+  /** MeaXure ZIP 업로드 분석 결과 (화면 vs 가이드라인) */
+  screenQa?: QaReport
   uxWritingReview: UxWritingFeedback[]
   createdAt: string
 }

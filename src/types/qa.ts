@@ -11,6 +11,13 @@ export interface QaSource {
   rule?: string | null
 }
 
+/** 화면 아트보드 내 위반 위치 (이미지 캡쳐 오버레이용) */
+export interface QaLocation {
+  artboard: string
+  imagePath: string | null
+  rect: { x: number; y: number; width: number; height: number }
+}
+
 /** 단일 속성 검사 결과 — 모든 오류/경고는 근거를 포함해야 한다 */
 export interface QaCheck {
   id: string
@@ -27,6 +34,8 @@ export interface QaCheck {
   source: QaSource
   confidence: QaConfidence
   suggestion: string | null
+  /** MeaXure 화면 업로드일 때만 존재 */
+  location?: QaLocation
 }
 
 /** 요소별 컴포넌트 식별 결과 */
